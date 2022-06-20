@@ -1,5 +1,6 @@
 # awesome-hacker-search-engines
 
+- [Google](https://www.google.com/)
 - [Shodan - Search Engine for the Internet of Everything](https://shodan.io)
 - [Censys](https://censys.io/)
 - [VirusTotal](https://www.virustotal.com/gui/home/upload)
