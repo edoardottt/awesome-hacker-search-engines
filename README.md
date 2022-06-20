@@ -12,6 +12,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 ### Vulnerabilities
 - [NIST NVD](https://nvd.nist.gov/vuln/search)
 - [MITRE CVE](https://cve.mitre.org/cve/search_cve_list.html)
+- [osv.dev](https://osv.dev/list) - Open Source Vulnerabilities
 
 
 ### Exploits
@@ -58,4 +59,3 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [NetoGraph](https://netograph.io/)
 - [Wigle.net](https://wigle.net/)
 - [DNSDumpster](https://dnsdumpster.com/)
-- [osd.dev](https://osv.dev/) - Open Source Vulnerabilities
