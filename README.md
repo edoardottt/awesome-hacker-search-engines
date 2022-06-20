@@ -2,18 +2,27 @@
 
 A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more
 
+
 ### General Search Engines
 - [Google](https://www.google.com/)
 - [Bing](https://www.bing.com/)
 - [Yahoo!](http://www.yahoo.com/)
 
+
 ### Vulnerabilities
 - [NIST NVD](https://nvd.nist.gov/vuln/search)
 - [MITRE CVE](https://cve.mitre.org/cve/search_cve_list.html)
 
-- [Shodan - Search Engine for the Internet of Everything](https://shodan.io)
+
+### Exploits
+- [Sploitus](https://sploitus.com/)
+
+
+### Unclassified
+- [Web Archive](https://web.archive.org/)
+- [Shodan](https://shodan.io) - Search Engine for the Internet of Everything
 - [Censys](https://censys.io/)
-- [VirusTotal](https://www.virustotal.com/gui/home/upload)
+- [VirusTotal](https://www.virustotal.com/)
 - [Have I Been Pwned](https://haveibeenpwned.com/)
 - [PhoneBook](https://phonebook.cz/)
 - [FullHunt](https://fullhunt.io/)
@@ -33,5 +42,4 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [NetoGraph](https://netograph.io/)
 - [Wigle.net](https://wigle.net/)
 - [DNSDumpster](https://dnsdumpster.com/)
-- [Sploitus](https://sploitus.com/)
-- [osd.dev - Open Source Vulnerabilities](https://osv.dev/)
+- [osd.dev](https://osv.dev/) - Open Source Vulnerabilities
