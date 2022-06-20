@@ -16,6 +16,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 
 
 ### Exploits
+- [Exploit-DB](https://www.exploit-db.com/)
 - [Sploitus](https://sploitus.com/)
 
 
