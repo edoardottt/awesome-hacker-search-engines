@@ -2,7 +2,14 @@
 
 A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more
 
+### General Search Engines
 - [Google](https://www.google.com/)
+- [Bing](https://www.bing.com/)
+
+### Vulnerabilities
+- [NIST NVD](https://nvd.nist.gov/vuln/search)
+- [MITRE CVE](https://cve.mitre.org/cve/search_cve_list.html)
+
 - [Shodan - Search Engine for the Internet of Everything](https://shodan.io)
 - [Censys](https://censys.io/)
 - [VirusTotal](https://www.virustotal.com/gui/home/upload)
