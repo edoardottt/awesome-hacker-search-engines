@@ -5,6 +5,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 ### General Search Engines
 - [Google](https://www.google.com/)
 - [Bing](https://www.bing.com/)
+- [Yahoo!](http://www.yahoo.com/)
 
 ### Vulnerabilities
 - [NIST NVD](https://nvd.nist.gov/vuln/search)
