@@ -18,13 +18,29 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [Sploitus](https://sploitus.com/)
 
 
+### Code Search Engines
+- [GitHub Code Search](https://cs.github.com/)
+- [grep.app](https://grep.app/)
+
+
+### Emails
+- [PhoneBook](https://phonebook.cz/)
+
+
+### Domains
+- [PhoneBook](https://phonebook.cz/)
+
+
+### URLs
+- [PhoneBook](https://phonebook.cz/)
+
+
 ### Unclassified
 - [Web Archive](https://web.archive.org/)
 - [Shodan](https://shodan.io) - Search Engine for the Internet of Everything
 - [Censys](https://censys.io/)
 - [VirusTotal](https://www.virustotal.com/)
 - [Have I Been Pwned](https://haveibeenpwned.com/)
-- [PhoneBook](https://phonebook.cz/)
 - [FullHunt](https://fullhunt.io/)
 - [Onyphe](https://www.onyphe.io/)
 - [RedHunt Labs](https://redhuntlabs.com/)
