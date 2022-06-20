@@ -1,5 +1,7 @@
 # awesome-hacker-search-engines
 
+A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more
+
 - [Google](https://www.google.com/)
 - [Shodan - Search Engine for the Internet of Everything](https://shodan.io)
 - [Censys](https://censys.io/)
