@@ -19,6 +19,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [NIST NVD](https://nvd.nist.gov/vuln/search)
 - [MITRE CVE](https://cve.mitre.org/cve/search_cve_list.html)
 - [osv.dev](https://osv.dev/list) - Open Source Vulnerabilities
+- [Vulners.com](https://vulners.com/)
 
 
 ### Exploits
@@ -61,7 +62,6 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [Natlas](https://natlas.io/)
 - [SOCRadar](https://socradar.io/)
 - [Spyse](https://spyse.com/)
-- [Vulners](https://vulners.com/)
 - [GreyNoise](https://www.greynoise.io/viz)
 - [IntelligenceX](https://intelx.io/)
 - [ZoomEye](https://www.zoomeye.org/)
