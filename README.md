@@ -9,6 +9,11 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [Yahoo!](http://www.yahoo.com/)
 
 
+### Servers
+- [Shodan](https://shodan.io) - Search Engine for the Internet of Everything
+- [Censys](https://censys.io/)
+
+
 ### Vulnerabilities
 - [NIST NVD](https://nvd.nist.gov/vuln/search)
 - [MITRE CVE](https://cve.mitre.org/cve/search_cve_list.html)
@@ -39,8 +44,6 @@ A list of search engines useful during Penetration testing, vulnerability assess
 
 ### Unclassified
 - [Web Archive](https://web.archive.org/)
-- [Shodan](https://shodan.io) - Search Engine for the Internet of Everything
-- [Censys](https://censys.io/)
 - [VirusTotal](https://www.virustotal.com/)
 - [Have I Been Pwned](https://haveibeenpwned.com/)
 - [FullHunt](https://fullhunt.io/)
