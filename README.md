@@ -13,6 +13,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [Shodan](https://shodan.io) - Search Engine for the Internet of Everything
 - [Censys](https://censys.io/)
 - [Onyphe.io](https://www.onyphe.io/)
+- [ZoomEye](https://www.zoomeye.org/)
 
 
 ### Vulnerabilities
@@ -70,7 +71,6 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [Spyse](https://spyse.com/)
 - [GreyNoise](https://www.greynoise.io/viz)
 - [IntelligenceX](https://intelx.io/)
-- [ZoomEye](https://www.zoomeye.org/)
 - [PulseDive](https://pulsedive.com/)
 - [NetoGraph](https://netograph.io/)
 - [DNSDumpster](https://dnsdumpster.com/)
