@@ -49,6 +49,9 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [PhoneBook](https://phonebook.cz/)
 
 
+### Certificate Search
+- [Crt.sh](https://crt.sh/)
+
 ### Unclassified
 - [Web Archive](https://web.archive.org/)
 - [VirusTotal](https://www.virustotal.com/)
