@@ -12,6 +12,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 ### Servers
 - [Shodan](https://shodan.io) - Search Engine for the Internet of Everything
 - [Censys](https://censys.io/)
+- [Onyphe.io](https://www.onyphe.io/)
 
 
 ### Vulnerabilities
@@ -27,6 +28,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 
 ### Attack Surface
 - [FullHunt.io](https://fullhunt.io/)
+
 
 ### Code Search Engines
 - [GitHub Code Search](https://cs.github.com/)
@@ -50,7 +52,6 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [Web Archive](https://web.archive.org/)
 - [VirusTotal](https://www.virustotal.com/)
 - [Have I Been Pwned](https://haveibeenpwned.com/)
-- [Onyphe](https://www.onyphe.io/)
 - [RedHunt Labs](https://redhuntlabs.com/)
 - [BynaryEdge](https://www.binaryedge.io/)
 - [SynapsInt](https://synapsint.com/)
