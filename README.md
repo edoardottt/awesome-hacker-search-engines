@@ -30,7 +30,8 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [grep.app](https://grep.app/)
 
 
-### Emails
+### Mail addresses
+- [Hunter.io](https://hunter.io/)
 - [PhoneBook](https://phonebook.cz/)
 
 
@@ -53,7 +54,6 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [SynapsInt](https://synapsint.com/)
 - [Natlas](https://natlas.io/)
 - [SOCRadar](https://socradar.io/)
-- [Hunter](https://hunter.io/)
 - [Spyse](https://spyse.com/)
 - [Vulners](https://vulners.com/)
 - [GreyNoise](https://www.greynoise.io/viz)
