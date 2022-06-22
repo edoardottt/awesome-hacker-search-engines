@@ -28,7 +28,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [Censys](https://censys.io/)
 - [Onyphe.io](https://www.onyphe.io/)
 - [ZoomEye](https://www.zoomeye.org/)
-
+- [GreyNoise](https://viz.greynoise.io/)
 
 ### Vulnerabilities
 - [NIST NVD](https://nvd.nist.gov/vuln/search)
@@ -90,7 +90,6 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [Natlas](https://natlas.io/)
 - [SOCRadar](https://socradar.io/)
 - [Spyse](https://spyse.com/)
-- [GreyNoise](https://viz.greynoise.io/)
 - [Dehashed](https://www.dehashed.com/)
 - [PulseDive](https://pulsedive.com/)
 - [NetoGraph](https://netograph.io/)
