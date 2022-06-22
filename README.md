@@ -56,18 +56,22 @@ A list of search engines useful during Penetration testing, vulnerability assess
 ### Mail addresses
 - [Hunter.io](https://hunter.io/)
 - [PhoneBook](https://phonebook.cz/)
+- [IntelligenceX](https://intelx.io/)
 
 
 ### Domains
 - [PhoneBook](https://phonebook.cz/)
+- [IntelligenceX](https://intelx.io/)
 
 
 ### URLs
 - [PhoneBook](https://phonebook.cz/)
+- [IntelligenceX](https://intelx.io/)
 
 
 ### DNS
 - [DNSDumpster](https://dnsdumpster.com/)
+
 
 ### Certificate Search
 - [Crt.sh](https://crt.sh/)
@@ -87,7 +91,6 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [SOCRadar](https://socradar.io/)
 - [Spyse](https://spyse.com/)
 - [GreyNoise](https://www.greynoise.io/viz)
-- [IntelligenceX](https://intelx.io/)
 - [Dehashed](https://www.dehashed.com/)
 - [PulseDive](https://pulsedive.com/)
 - [NetoGraph](https://netograph.io/)
