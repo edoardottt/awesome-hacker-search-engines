@@ -5,8 +5,8 @@ A list of search engines useful during Penetration testing, vulnerability assess
 <p align="center">
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines/blob/main/README.md#general-search-engines" target="_blank">General</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines/blob/main/README.md#servers" target="_blank">Servers</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines/blob/main/README.md#vulnerabilities" target="_blank">vulnerabilities</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines/blob/main/README.md#exploits" target="_blank">exploits</a> •
+  <a href="https://github.com/edoardottt/awesome-hacker-search-engines/blob/main/README.md#vulnerabilities" target="_blank">Vulnerabilities</a> •
+  <a href="https://github.com/edoardottt/awesome-hacker-search-engines/blob/main/README.md#exploits" target="_blank">Exploits</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines/blob/main/README.md#attack-surface" target="_blank">Attack surface</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines/blob/main/README.md#code-search-engines" target="_blank">Code</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines/blob/main/README.md#mail-addresses" target="_blank">Mail addresses</a> •
