@@ -12,6 +12,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines/blob/main/README.md#mail-addresses" target="_blank">Mail addresses</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines/blob/main/README.md#domains" target="_blank">Domains</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines/blob/main/README.md#urls" target="_blank">URLs</a> •
+  <a href="https://github.com/edoardottt/awesome-hacker-search-engines/blob/main/README.md#dns" target="_blank">DNS</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines/blob/main/README.md#certificate-search" target="_blank">Certificates</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines/blob/main/README.md#wifi-networks" target="_blank">WiFi networks</a>
 </p>
