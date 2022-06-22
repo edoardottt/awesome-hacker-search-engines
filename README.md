@@ -65,6 +65,9 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [PhoneBook](https://phonebook.cz/)
 
 
+### DNS
+- [DNSDumpster](https://dnsdumpster.com/)
+
 ### Certificate Search
 - [Crt.sh](https://crt.sh/)
 
@@ -87,5 +90,4 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [Dehashed](https://www.dehashed.com/)
 - [PulseDive](https://pulsedive.com/)
 - [NetoGraph](https://netograph.io/)
-- [DNSDumpster](https://dnsdumpster.com/)
 - [SecurityTrails](https://securitytrails.com/)
