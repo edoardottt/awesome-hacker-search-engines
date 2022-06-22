@@ -90,7 +90,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [Natlas](https://natlas.io/)
 - [SOCRadar](https://socradar.io/)
 - [Spyse](https://spyse.com/)
-- [GreyNoise](https://www.greynoise.io/viz)
+- [GreyNoise](https://viz.greynoise.io/)
 - [Dehashed](https://www.dehashed.com/)
 - [PulseDive](https://pulsedive.com/)
 - [NetoGraph](https://netograph.io/)
