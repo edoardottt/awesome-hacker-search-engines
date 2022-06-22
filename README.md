@@ -45,6 +45,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 ### Attack Surface
 - [FullHunt.io](https://fullhunt.io/)
 - [BynaryEdge](https://www.binaryedge.io/)
+- [RedHunt Labs](https://redhuntlabs.com/)
 
 
 ### Code Search Engines
@@ -85,7 +86,6 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [Web Archive](https://web.archive.org/)
 - [VirusTotal](https://www.virustotal.com/)
 - [Have I Been Pwned](https://haveibeenpwned.com/)
-- [RedHunt Labs](https://redhuntlabs.com/)
 - [SynapsInt](https://synapsint.com/)
 - [Natlas](https://natlas.io/)
 - [SOCRadar](https://socradar.io/)
