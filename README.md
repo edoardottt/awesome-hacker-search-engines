@@ -89,6 +89,30 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [Wigle.net](https://wigle.net/)
 
 
+### Social Networks
+
+These can be seen as strange search engines, but they can be useful for osint.
+
+- [Facebook](https://www.facebook.com/)
+- [Instagram](https://www.instagram.com/)
+- [YouTube](https://www.youtube.com/)
+- [Twitter](https://twitter.com/)
+- [LinkedIn](https://www.linkedin.com/)
+- [Reddit](https://new.reddit.com/)
+- [Pinterest](https://www.pinterest.com/)
+- [Tumblr](https://www.tumblr.com/)
+- [Flickr](https://www.flickr.com/)
+- [SnapChat](https://www.snapchat.com/)
+- [Whatsapp](https://www.whatsapp.com/)
+- [Quora](https://www.quora.com/)
+- [TikTok](https://www.tiktok.com/)
+- [Vimeo](https://vimeo.com/)
+- [Medium](https://medium.com/)
+- [WeChat](https://www.wechat.com/)
+- [VK](https://vk.com/)
+- [Weibo](https://weibo.com/)
+- [Tinder](https://tinder.com/)
+
 ### Unclassified
 - [Web Archive](https://web.archive.org/)
 - [VirusTotal](https://www.virustotal.com/)
