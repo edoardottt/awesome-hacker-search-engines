@@ -105,3 +105,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [CommonCrawl](https://commoncrawl.org/)
 - [DNSdb](https://docs.farsightsecurity.com/#dnsdb)
 - [FOFA](https://fofa.info/)
+- [HackerTarget](https://hackertarget.com/)
+- [PassiveTotal](https://api.passivetotal.org/)
+- [RapidDNS](https://rapiddns.io/)
+- [Riddler](https://riddler.io/)
