@@ -54,6 +54,9 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [GitHub Code Search](https://cs.github.com/)
 - [grep.app](https://grep.app/)
 - [publicwww.com](https://publicwww.com/)
+- [SearchCode](https://searchcode.com/)
+- [NerdyData](https://www.nerdydata.com/)
+- [RepoSearch](http://codefinder.org/)
 
 
 ### Mail addresses
