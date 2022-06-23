@@ -101,3 +101,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [TLS.BufferOver.run](https://tls.bufferover.run/)
 - [C99.nl](https://api.c99.nl/)
 - [CertSpotter](https://sslmate.com/certspotter/)
+- [Chaos](https://chaos.projectdiscovery.io/#/)
+- [CommonCrawl](https://commoncrawl.org/)
+- [DNSdb](https://docs.farsightsecurity.com/#dnsdb)
+- [FOFA](https://fofa.info/)
