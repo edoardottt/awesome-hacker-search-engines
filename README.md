@@ -110,3 +110,8 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [RapidDNS](https://rapiddns.io/)
 - [Riddler](https://riddler.io/)
 - [RobTex](https://www.robtex.com/)
+- [SiteDossier](http://www.sitedossier.com/)
+- [Omnisint](https://omnisint.io/)
+- [ThreatBook](https://threatbook.cn/)
+- [ThreatCrowd](https://threatcrowd.org/)
+- [ThreatMiner](https://www.threatminer.org/)
