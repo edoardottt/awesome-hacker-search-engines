@@ -93,7 +93,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 
 ### Social Networks
 
-These can be seen as strange search engines, but they can be useful for osint.
+These can be useful for osint and social engineering.
 
 - [Facebook](https://www.facebook.com/)
 - [Instagram](https://www.instagram.com/)
