@@ -145,3 +145,7 @@ These can be useful for osint and social engineering.
 - [ThreatBook](https://threatbook.cn/)
 - [ThreatCrowd](https://threatcrowd.org/)
 - [ThreatMiner](https://www.threatminer.org/)
+
+---------
+
+If you want to propose changes, just open an [issue](https://github.com/edoardottt/awesome-hacker-search-engines/issues).
