@@ -1,6 +1,10 @@
-# awesome-hacker-search-engines
+<h1 align="center">
+  <b>Awesome Hacker Search Engines</b>
+</h1>
 
+<p align="center">
 A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more
+</p>
 
 <p align="center">
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#general-search-engines" target="_blank">General</a> •
