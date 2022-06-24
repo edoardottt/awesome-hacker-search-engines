@@ -65,6 +65,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [Hunter.io](https://hunter.io/)
 - [PhoneBook](https://phonebook.cz/)
 - [IntelligenceX](https://intelx.io/)
+- [RocketReach](https://rocketreach.co/)
 
 
 ### Domains
@@ -121,6 +122,7 @@ These can be useful for osint and social engineering.
 
 
 ### Phone numbers
+- [RocketReach](https://rocketreach.co/)
 
 
 ### Unclassified
