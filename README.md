@@ -100,6 +100,13 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [Wigle.net](https://wigle.net/)
 
 
+### Credentials
+- [Have I Been Pwned](https://haveibeenpwned.com/)
+- [Dehashed](https://www.dehashed.com/)
+- [Leak-Lookup](https://leak-lookup.com/)
+- [Snusbase](https://snusbase.com/)
+
+
 ### Social Networks
 
 These can be useful for osint and social engineering.
@@ -134,7 +141,6 @@ These can be useful for osint and social engineering.
 ### Unclassified
 - [Web Archive](https://web.archive.org/)
 - [VirusTotal](https://www.virustotal.com/)
-- [Have I Been Pwned](https://haveibeenpwned.com/)
 - [SynapsInt](https://synapsint.com/)
 - [SOCRadar](https://socradar.io/)
 - [Spyse](https://spyse.com/)
