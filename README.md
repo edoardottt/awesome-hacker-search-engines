@@ -85,6 +85,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 
 ### Certificate Search
 - [Crt.sh](https://crt.sh/)
+- [CTSearch](https://ui.ctsearch.entrust.com/ui/ctsearchui)
 
 
 ### WiFi networks
