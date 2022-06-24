@@ -123,6 +123,8 @@ These can be useful for osint and social engineering.
 
 ### Phone numbers
 - [RocketReach](https://rocketreach.co/)
+- [NumLookup](https://www.numlookup.com/)
+- [WhitePages](https://www.whitepages.com/)
 
 
 ### Unclassified
