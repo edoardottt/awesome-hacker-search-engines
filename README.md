@@ -69,7 +69,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 ### Domains
 - [PhoneBook](https://phonebook.cz/)
 - [IntelligenceX](https://intelx.io/)
-
+- [Omnisint](https://omnisint.io/subdomain-enumeration) - Subdomain enumeration
 
 ### URLs
 - [PhoneBook](https://phonebook.cz/)
@@ -81,6 +81,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [DNSDumpster](https://dnsdumpster.com/)
 - [RapidDNS](https://rapiddns.io/)
 - [DNSdb](https://docs.farsightsecurity.com/#dnsdb)
+- [Omnisint](https://omnisint.io/reverse-dns-lookup) - Reverse DNS lookup
 
 
 ### Certificate Search
@@ -141,7 +142,6 @@ These can be useful for osint and social engineering.
 - [Riddler](https://riddler.io/)
 - [RobTex](https://www.robtex.com/)
 - [SiteDossier](http://www.sitedossier.com/)
-- [Omnisint](https://omnisint.io/)
 - [ThreatBook](https://threatbook.cn/)
 - [ThreatCrowd](https://threatcrowd.org/)
 - [ThreatMiner](https://www.threatminer.org/)
