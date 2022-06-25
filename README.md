@@ -141,11 +141,13 @@ These can be useful for osint and social engineering.
 
 ### Threat Intelligence
 - [PulseDive](https://pulsedive.com/)
+- [ThreatCrowd](https://threatcrowd.org/)
+- [ThreatMiner](https://www.threatminer.org/)
+- [VirusTotal](https://www.virustotal.com/)
 
 
 ### Unclassified
 - [Web Archive](https://web.archive.org/)
-- [VirusTotal](https://www.virustotal.com/)
 - [SynapsInt](https://synapsint.com/)
 - [SOCRadar](https://socradar.io/)
 - [Spyse](https://spyse.com/)
@@ -164,9 +166,6 @@ These can be useful for osint and social engineering.
 - [Riddler](https://riddler.io/)
 - [RobTex](https://www.robtex.com/)
 - [SiteDossier](http://www.sitedossier.com/)
-- [ThreatBook](https://threatbook.cn/)
-- [ThreatCrowd](https://threatcrowd.org/)
-- [ThreatMiner](https://www.threatminer.org/)
 
 ---------
 
