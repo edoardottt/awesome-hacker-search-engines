@@ -79,6 +79,8 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [PhoneBook](https://phonebook.cz/)
 - [IntelligenceX](https://intelx.io/)
 - [Omnisint](https://omnisint.io/subdomain-enumeration) - Subdomain enumeration
+- [Riddler](https://riddler.io/)
+
 
 ### URLs
 - [PhoneBook](https://phonebook.cz/)
@@ -162,7 +164,6 @@ These can be useful for osint and social engineering.
 - [CommonCrawl](https://commoncrawl.org/)
 - [HackerTarget](https://hackertarget.com/)
 - [PassiveTotal](https://api.passivetotal.org/)
-- [Riddler](https://riddler.io/)
 - [RobTex](https://www.robtex.com/)
 - [SiteDossier](http://www.sitedossier.com/)
 
