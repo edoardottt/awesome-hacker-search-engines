@@ -138,14 +138,16 @@ These can be useful for osint and social engineering.
 - [WhitePages](https://www.whitepages.com/)
 
 
+### Threat Intelligence
+- [PulseDive](https://pulsedive.com/)
+
+
 ### Unclassified
 - [Web Archive](https://web.archive.org/)
 - [VirusTotal](https://www.virustotal.com/)
 - [SynapsInt](https://synapsint.com/)
 - [SOCRadar](https://socradar.io/)
 - [Spyse](https://spyse.com/)
-- [Dehashed](https://www.dehashed.com/)
-- [PulseDive](https://pulsedive.com/)
 - [NetoGraph](https://netograph.io/)
 - [SecurityTrails](https://securitytrails.com/)
 - [AlienVault](https://otx.alienvault.com/)
