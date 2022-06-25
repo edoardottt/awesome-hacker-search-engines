@@ -38,6 +38,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [ZoomEye](https://www.zoomeye.org/)
 - [GreyNoise](https://viz.greynoise.io/)
 - [Natlas](https://natlas.io/)
+- [FOFA](https://fofa.info/)
 
 ### Vulnerabilities
 - [NIST NVD](https://nvd.nist.gov/vuln/search)
@@ -160,7 +161,6 @@ These can be useful for osint and social engineering.
 - [CertSpotter](https://sslmate.com/certspotter/)
 - [Chaos](https://chaos.projectdiscovery.io/#/)
 - [CommonCrawl](https://commoncrawl.org/)
-- [FOFA](https://fofa.info/)
 - [HackerTarget](https://hackertarget.com/)
 - [PassiveTotal](https://api.passivetotal.org/)
 - [Riddler](https://riddler.io/)
