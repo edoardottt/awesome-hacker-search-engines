@@ -46,11 +46,14 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [MITRE CVE](https://cve.mitre.org/cve/search_cve_list.html)
 - [osv.dev](https://osv.dev/list) - Open Source Vulnerabilities
 - [Vulners.com](https://vulners.com/)
+- [Rapid7 - DB](https://www.rapid7.com/db/)
+- [CVEDetails](https://www.cvedetails.com/)
 
 
 ### Exploits
 - [Exploit-DB](https://www.exploit-db.com/)
 - [Sploitus](https://sploitus.com/)
+- [Rapid7 - DB](https://www.rapid7.com/db/)
 
 
 ### Attack Surface
