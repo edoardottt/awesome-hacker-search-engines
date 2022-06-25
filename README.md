@@ -29,6 +29,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [Google](https://www.google.com/)
 - [Bing](https://www.bing.com/)
 - [Yahoo!](http://www.yahoo.com/)
+- [Yandex](https://yandex.com/)
 
 
 ### Servers
