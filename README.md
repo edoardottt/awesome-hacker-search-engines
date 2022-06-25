@@ -56,6 +56,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [FullHunt.io](https://fullhunt.io/)
 - [BynaryEdge](https://www.binaryedge.io/)
 - [RedHunt Labs](https://redhuntlabs.com/)
+- [SecurityTrails](https://securitytrails.com/)
 
 
 ### Code Search Engines
@@ -150,10 +151,8 @@ These can be useful for osint and social engineering.
 ### Unclassified
 - [Web Archive](https://web.archive.org/)
 - [SynapsInt](https://synapsint.com/)
-- [SOCRadar](https://socradar.io/)
 - [Spyse](https://spyse.com/)
 - [NetoGraph](https://netograph.io/)
-- [SecurityTrails](https://securitytrails.com/)
 - [AlienVault](https://otx.alienvault.com/)
 - [Archive.ph](https://archive.ph/)
 - [DNS.BufferOver.run](https://dns.bufferover.run/)
