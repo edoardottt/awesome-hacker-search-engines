@@ -96,6 +96,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [PhoneBook](https://phonebook.cz/)
 - [IntelligenceX](https://intelx.io/)
 - [URLScan](https://urlscan.io/)
+- [HackerTarget](https://hackertarget.com/ip-tools/)
 
 
 ### DNS
@@ -103,6 +104,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [RapidDNS](https://rapiddns.io/)
 - [DNSdb](https://docs.farsightsecurity.com/#dnsdb)
 - [Omnisint](https://omnisint.io/reverse-dns-lookup) - Reverse DNS lookup
+- [HackerTarget](https://hackertarget.com/ip-tools/)
 
 
 ### Certificates
@@ -186,7 +188,6 @@ These can be useful for osint and social engineering.
 - [C99.nl](https://api.c99.nl/)
 - [Chaos](https://chaos.projectdiscovery.io/#/)
 - [CommonCrawl](https://commoncrawl.org/)
-- [HackerTarget](https://hackertarget.com/)
 - [PassiveTotal](https://api.passivetotal.org/)
 - [RobTex](https://www.robtex.com/)
 - [SiteDossier](http://www.sitedossier.com/)
