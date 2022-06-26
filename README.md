@@ -50,6 +50,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [Rapid7 - DB](https://www.rapid7.com/db/)
 - [CVEDetails](https://www.cvedetails.com/)
 - [VulnIQ](https://vulniq.com/)
+- [SynapsInt](https://synapsint.com/)
 
 
 ### Exploits
@@ -86,6 +87,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [verify-email.org](https://verify-email.org/)
 - [Melissa - Emailcheck](https://www.melissa.com/v2/lookups/emailcheck/email/)
 - [VoilaNorbert](https://www.voilanorbert.com/)
+- [SynapsInt](https://synapsint.com/)
 - [skymem.info](http://www.skymem.info/)
 
 
@@ -104,6 +106,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [BuiltWith](https://builtwith.com/)
 - [MoonSearch](http://moonsearch.com/)
 - [sitereport.netcraft.com](https://sitereport.netcraft.com/)
+- [SynapsInt](https://synapsint.com/)
 - [statscrop.com](https://www.statscrop.com/)
 - [securityheaders.com](https://securityheaders.com/)
 - [visualsitemapper.com](http://www.visualsitemapper.com/)
@@ -138,6 +141,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [CTSearch](https://ui.ctsearch.entrust.com/ui/ctsearchui)
 - [TLS.BufferOver.run](https://tls.bufferover.run/)
 - [CertSpotter](https://sslmate.com/certspotter/)
+- [SynapsInt](https://synapsint.com/)
 
 
 ### WiFi networks
@@ -194,6 +198,7 @@ These can be useful for osint and social engineering.
 - [usphonebook.com](https://www.usphonebook.com/)
 - [truecaller.com](https://www.truecaller.com/)
 - [truepeoplesearch.com](https://www.truepeoplesearch.com/#)
+- [SynapsInt](https://synapsint.com/)
 
 
 ### Threat Intelligence
@@ -214,7 +219,6 @@ These can be useful for osint and social engineering.
 
 
 ### Unclassified
-- [SynapsInt](https://synapsint.com/)
 - [Spyse](https://spyse.com/)
 - [NetoGraph](https://netograph.io/)
 - [DNS.BufferOver.run](https://dns.bufferover.run/)
