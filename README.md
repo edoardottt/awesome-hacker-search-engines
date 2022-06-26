@@ -49,6 +49,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [Vulners.com](https://vulners.com/)
 - [Rapid7 - DB](https://www.rapid7.com/db/)
 - [CVEDetails](https://www.cvedetails.com/)
+- [VulnIQ](https://vulniq.com/)
 
 
 ### Exploits
