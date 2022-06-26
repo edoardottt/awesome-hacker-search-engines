@@ -191,6 +191,7 @@ These can be useful for osint and social engineering.
 - [thisnumber.com](https://www.thisnumber.com/)
 - [usphonebook.com](https://www.usphonebook.com/)
 - [truecaller.com](https://www.truecaller.com/)
+- [truepeoplesearch.com](https://www.truepeoplesearch.com/#)
 
 
 ### Threat Intelligence
