@@ -100,6 +100,15 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [whoisology.com](https://whoisology.com/)
 - [who.is](https://who.is/)
 - [pentest-tools.com](https://pentest-tools.com/information-gathering/find-subdomains-of-domain)
+- [BuiltWith](https://builtwith.com/)
+- [SEMRush](https://www.semrush.com/)
+- [MoonSearch](http://moonsearch.com/)
+- [sitereport.netcraft.com](https://sitereport.netcraft.com/)
+- [statscrop.com](https://www.statscrop.com/)
+- [securityheaders.com](https://securityheaders.com/)
+- [visualsitemapper.com](http://www.visualsitemapper.com/)
+- [similarweb.com](https://www.similarweb.com/)
+- [buckets.grayhatwarfare.com](https://buckets.grayhatwarfare.com/) - Public buckets
 
 
 ### URLs
@@ -107,6 +116,8 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [IntelligenceX](https://intelx.io/)
 - [URLScan](https://urlscan.io/)
 - [HackerTarget](https://hackertarget.com/ip-tools/)
+- [MOZ Link Explorer](https://moz.com/link-explorer)
+- [spyonweb.com](https://spyonweb.com/)
 
 
 ### DNS
@@ -118,6 +129,8 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [passivedns.mnemonic.no](https://passivedns.mnemonic.no/)
 - [ptrarchive.com](http://ptrarchive.com/)
 - [dnshistory.org](http://dnshistory.org/)
+- [DNSTwister](https://dnstwister.report/)
+- [DNSviz](https://dnsviz.net/)
 
 
 ### Certificates
@@ -175,7 +188,11 @@ These can be useful for osint and social engineering.
 - [EmobileTracker](https://www.emobiletracker.com/)
 - [SpyDialer](https://spydialer.com/)
 - [Reverse Phone Lookup](https://www.reversephonelookup.com/)
-- [ThatsThem](https://thatsthem.com/reverse-phone-lookup) - Reverse phone lookup 
+- [ThatsThem](https://thatsthem.com/reverse-phone-lookup) - Reverse phone lookup
+- [thisnumber.com](https://www.thisnumber.com/)
+- [usphonebook.com](https://www.usphonebook.com/)
+- [truecaller.com](https://www.truecaller.com/)
+
 
 ### Threat Intelligence
 - [PulseDive](https://pulsedive.com/)
@@ -203,7 +220,6 @@ These can be useful for osint and social engineering.
 - [Chaos](https://chaos.projectdiscovery.io/#/)
 - [CommonCrawl](https://commoncrawl.org/)
 - [PassiveTotal](https://api.passivetotal.org/)
-- [SiteDossier](http://www.sitedossier.com/)
 
 ---------
 
