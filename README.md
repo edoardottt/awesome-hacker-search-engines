@@ -184,6 +184,7 @@ These can be useful for osint and social engineering.
 - [VirusTotal](https://www.virustotal.com/)
 - [Rescure](https://rescure.me/)
 - [otx.alienvault](https://otx.alienvault.com/)
+- [urlquery.net](https://urlquery.net/)
 
 
 ### Web History
