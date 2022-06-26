@@ -161,6 +161,7 @@ These can be useful for osint and social engineering.
 - [ThreatMiner](https://www.threatminer.org/)
 - [VirusTotal](https://www.virustotal.com/)
 - [Rescure](https://rescure.me/)
+- [otx.alienvault](https://otx.alienvault.com/)
 
 
 ### Web History
@@ -174,7 +175,6 @@ These can be useful for osint and social engineering.
 - [SynapsInt](https://synapsint.com/)
 - [Spyse](https://spyse.com/)
 - [NetoGraph](https://netograph.io/)
-- [AlienVault](https://otx.alienvault.com/)
 - [DNS.BufferOver.run](https://dns.bufferover.run/)
 - [C99.nl](https://api.c99.nl/)
 - [CertSpotter](https://sslmate.com/certspotter/)
