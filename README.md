@@ -101,7 +101,6 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [who.is](https://who.is/)
 - [pentest-tools.com](https://pentest-tools.com/information-gathering/find-subdomains-of-domain)
 - [BuiltWith](https://builtwith.com/)
-- [SEMRush](https://www.semrush.com/)
 - [MoonSearch](http://moonsearch.com/)
 - [sitereport.netcraft.com](https://sitereport.netcraft.com/)
 - [statscrop.com](https://www.statscrop.com/)
