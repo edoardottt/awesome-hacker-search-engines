@@ -78,6 +78,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [PhoneBook](https://phonebook.cz/)
 - [IntelligenceX](https://intelx.io/)
 - [RocketReach](https://rocketreach.co/)
+- [email-format.com](https://www.email-format.com/)
 
 
 ### Domains
