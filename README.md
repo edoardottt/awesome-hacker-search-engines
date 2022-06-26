@@ -149,6 +149,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [Leak-Lookup](https://leak-lookup.com/)
 - [Snusbase](https://snusbase.com/)
 - [LeakCheck.io](https://leakcheck.io/)
+- [crackstation.net](https://crackstation.net/)
 
 
 ### Social Networks
