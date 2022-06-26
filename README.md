@@ -22,7 +22,8 @@ A list of search engines useful during Penetration testing, vulnerability assess
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#credentials" target="_blank">Credentials</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#social-networks" target="_blank">Social Networks</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#phone-numbers" target="_blank">Phone numbers</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#threat-intelligence" target="_blank">Threat Intelligence</a>
+  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#threat-intelligence" target="_blank">Threat Intelligence</a> •
+  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#web-history" target="_blank">Web History</a>
 </p>
 
 ### General Search Engines
