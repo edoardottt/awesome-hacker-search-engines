@@ -116,6 +116,8 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [Omnisint](https://omnisint.io/reverse-dns-lookup) - Reverse DNS lookup
 - [HackerTarget](https://hackertarget.com/ip-tools/)
 - [passivedns.mnemonic.no](https://passivedns.mnemonic.no/)
+- [ptrarchive.com](http://ptrarchive.com/)
+- [dnshistory.org](http://dnshistory.org/)
 
 
 ### Certificates
