@@ -83,6 +83,9 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [EmailHippo](https://tools.emailhippo.com/)
 - [ThatsThem](https://thatsthem.com/reverse-email-lookup) - Reverse email lookup
 - [verify-email.org](https://verify-email.org/)
+- [Melissa - Emailcheck](https://www.melissa.com/v2/lookups/emailcheck/email/)
+- [VoilaNorbert](https://www.voilanorbert.com/)
+- [skymem.info](http://www.skymem.info/)
 
 
 ### Domains
