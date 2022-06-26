@@ -94,6 +94,12 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [Omnisint](https://omnisint.io/subdomain-enumeration) - Subdomain enumeration
 - [Riddler](https://riddler.io/)
 - [RobTex](https://www.robtex.com/)
+- [CentralOps - DomainDossier](https://centralops.net/co/DomainDossier.aspx)
+- [DomainIQ](https://www.domainiq.com/)
+- [whois.domaintools.com](https://whois.domaintools.com/)
+- [whoisology.com](https://whoisology.com/)
+- [who.is](https://who.is/)
+- [pentest-tools.com](https://pentest-tools.com/information-gathering/find-subdomains-of-domain)
 
 
 ### URLs
@@ -109,6 +115,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [DNSdb](https://docs.farsightsecurity.com/#dnsdb)
 - [Omnisint](https://omnisint.io/reverse-dns-lookup) - Reverse DNS lookup
 - [HackerTarget](https://hackertarget.com/ip-tools/)
+- [passivedns.mnemonic.no](https://passivedns.mnemonic.no/)
 
 
 ### Certificates
