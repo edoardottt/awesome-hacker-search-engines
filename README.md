@@ -160,6 +160,7 @@ These can be useful for osint and social engineering.
 - [ThreatCrowd](https://threatcrowd.org/)
 - [ThreatMiner](https://www.threatminer.org/)
 - [VirusTotal](https://www.virustotal.com/)
+- [Rescure](https://rescure.me/)
 
 
 ### Web History
