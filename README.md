@@ -17,7 +17,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#domains" target="_blank">Domains</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#urls" target="_blank">URLs</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#dns" target="_blank">DNS</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#certificate-search" target="_blank">Certificates</a> •
+  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#certificates" target="_blank">Certificates</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#wifi-networks" target="_blank">WiFi networks</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#credentials" target="_blank">Credentials</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#social-networks" target="_blank">Social Networks</a> •
@@ -105,10 +105,11 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [Omnisint](https://omnisint.io/reverse-dns-lookup) - Reverse DNS lookup
 
 
-### Certificate Search
+### Certificates
 - [Crt.sh](https://crt.sh/)
 - [CTSearch](https://ui.ctsearch.entrust.com/ui/ctsearchui)
 - [TLS.BufferOver.run](https://tls.bufferover.run/)
+- [CertSpotter](https://sslmate.com/certspotter/)
 
 
 ### WiFi networks
@@ -183,7 +184,6 @@ These can be useful for osint and social engineering.
 - [NetoGraph](https://netograph.io/)
 - [DNS.BufferOver.run](https://dns.bufferover.run/)
 - [C99.nl](https://api.c99.nl/)
-- [CertSpotter](https://sslmate.com/certspotter/)
 - [Chaos](https://chaos.projectdiscovery.io/#/)
 - [CommonCrawl](https://commoncrawl.org/)
 - [HackerTarget](https://hackertarget.com/)
