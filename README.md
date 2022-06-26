@@ -165,6 +165,8 @@ These can be useful for osint and social engineering.
 ### Web History
 - [Web Archive](https://web.archive.org/)
 - [Archive.ph](https://archive.ph/)
+- [CachedPages](http://www.cachedpages.com/)
+- [stored.website](https://stored.website/)
 
 
 ### Unclassified
