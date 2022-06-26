@@ -82,6 +82,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [email-format.com](https://www.email-format.com/)
 - [EmailHippo](https://tools.emailhippo.com/)
 - [ThatsThem](https://thatsthem.com/reverse-email-lookup) - Reverse email lookup
+- [verify-email.org](https://verify-email.org/)
 
 
 ### Domains
