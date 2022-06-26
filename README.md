@@ -145,6 +145,11 @@ These can be useful for osint and social engineering.
 - [RocketReach](https://rocketreach.co/)
 - [NumLookup](https://www.numlookup.com/)
 - [WhitePages](https://www.whitepages.com/)
+- [National Cellular Directory](https://www.nationalcellulardirectory.com/)
+- [Phone Validator](https://www.phonevalidator.com/)
+- [Free Carrier Lookup](https://freecarrierlookup.com/)
+- [sync.me](https://sync.me/)
+
 
 
 ### Threat Intelligence
