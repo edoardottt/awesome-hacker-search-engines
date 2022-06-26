@@ -93,6 +93,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [IntelligenceX](https://intelx.io/)
 - [Omnisint](https://omnisint.io/subdomain-enumeration) - Subdomain enumeration
 - [Riddler](https://riddler.io/)
+- [RobTex](https://www.robtex.com/)
 
 
 ### URLs
@@ -192,7 +193,6 @@ These can be useful for osint and social engineering.
 - [Chaos](https://chaos.projectdiscovery.io/#/)
 - [CommonCrawl](https://commoncrawl.org/)
 - [PassiveTotal](https://api.passivetotal.org/)
-- [RobTex](https://www.robtex.com/)
 - [SiteDossier](http://www.sitedossier.com/)
 
 ---------
