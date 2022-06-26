@@ -115,6 +115,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [Dehashed](https://www.dehashed.com/)
 - [Leak-Lookup](https://leak-lookup.com/)
 - [Snusbase](https://snusbase.com/)
+- [LeakCheck.io](https://leakcheck.io/)
 
 
 ### Social Networks
