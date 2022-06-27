@@ -101,6 +101,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [CentralOps - DomainDossier](https://centralops.net/co/DomainDossier.aspx)
 - [DomainIQ](https://www.domainiq.com/)
 - [whois.domaintools.com](https://whois.domaintools.com/)
+- [grayhatwarfare.com - domains](https://shorteners.grayhatwarfare.com/domains)
 - [whoisology.com](https://whoisology.com/)
 - [who.is](https://who.is/)
 - [pentest-tools.com](https://pentest-tools.com/information-gathering/find-subdomains-of-domain)
@@ -122,6 +123,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [HackerTarget](https://hackertarget.com/ip-tools/)
 - [MOZ Link Explorer](https://moz.com/link-explorer)
 - [spyonweb.com](https://spyonweb.com/)
+- [shorteners.grayhatwarfare.com](https://shorteners.grayhatwarfare.com/)
 
 
 ### DNS
