@@ -41,6 +41,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [GreyNoise](https://viz.greynoise.io/)
 - [Natlas](https://natlas.io/)
 - [FOFA](https://fofa.info/)
+- [criminalip.io](https://www.criminalip.io/)
 
 ### Vulnerabilities
 - [NIST NVD](https://nvd.nist.gov/vuln/search)
