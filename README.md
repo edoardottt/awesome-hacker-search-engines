@@ -147,6 +147,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [TLS.BufferOver.run](https://tls.bufferover.run/)
 - [CertSpotter](https://sslmate.com/certspotter/)
 - [SynapsInt](https://synapsint.com/)
+- [Censys - Certificates](https://search.censys.io/certificates)
 
 
 ### WiFi networks
