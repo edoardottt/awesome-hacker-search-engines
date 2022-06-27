@@ -218,6 +218,11 @@ These can be useful for osint and social engineering.
 - [Rescure](https://rescure.me/)
 - [otx.alienvault](https://otx.alienvault.com/)
 - [urlquery.net](https://urlquery.net/)
+- [bazaar.abuse.ch](https://bazaar.abuse.ch/)
+- [feodotracker.abuse.ch](https://feodotracker.abuse.ch/)
+- [sslbl.abuse.ch](https://sslbl.abuse.ch/)
+- [urlhaus.abuse.ch](https://urlhaus.abuse.ch/)
+- [threatfox.abuse.ch](https://threatfox.abuse.ch/)
 
 
 ### Web History
