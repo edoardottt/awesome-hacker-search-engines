@@ -114,6 +114,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [visualsitemapper.com](http://www.visualsitemapper.com/)
 - [similarweb.com](https://www.similarweb.com/)
 - [buckets.grayhatwarfare.com](https://buckets.grayhatwarfare.com/) - Public buckets
+- [C99.nl](https://api.c99.nl/)
 
 
 ### URLs
@@ -137,6 +138,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [dnshistory.org](http://dnshistory.org/)
 - [DNSTwister](https://dnstwister.report/)
 - [DNSviz](https://dnsviz.net/)
+- [C99.nl](https://api.c99.nl/)
 
 
 ### Certificates
@@ -203,6 +205,7 @@ These can be useful for osint and social engineering.
 - [truecaller.com](https://www.truecaller.com/)
 - [truepeoplesearch.com](https://www.truepeoplesearch.com/#)
 - [SynapsInt](https://synapsint.com/)
+- [C99.nl](https://api.c99.nl/)
 
 
 ### Threat Intelligence
@@ -226,7 +229,6 @@ These can be useful for osint and social engineering.
 - [Spyse](https://spyse.com/)
 - [NetoGraph](https://netograph.io/)
 - [DNS.BufferOver.run](https://dns.bufferover.run/)
-- [C99.nl](https://api.c99.nl/)
 - [Chaos](https://chaos.projectdiscovery.io/#/)
 - [CommonCrawl](https://commoncrawl.org/)
 - [PassiveTotal](https://api.passivetotal.org/)
