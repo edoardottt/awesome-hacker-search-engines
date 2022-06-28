@@ -49,11 +49,13 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [osv.dev](https://osv.dev/list) - Open Source Vulnerabilities
 - [cloudvulndb.org](https://www.cloudvulndb.org/) - The Open Cloud Vulnerability & Security Issue Database
 - [Vulners.com](https://vulners.com/)
+- [opencve.io](https://www.opencve.io/cve)
 - [security.snyk.io](https://security.snyk.io/)
 - [Rapid7 - DB](https://www.rapid7.com/db/)
 - [CVEDetails](https://www.cvedetails.com/)
 - [VulnIQ](https://vulniq.com/)
 - [SynapsInt](https://synapsint.com/)
+- [Aqua Vulnerability Database](https://avd.aquasec.com/)
 
 
 ### Exploits
