@@ -47,6 +47,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [NIST NVD](https://nvd.nist.gov/vuln/search)
 - [MITRE CVE](https://cve.mitre.org/cve/search_cve_list.html)
 - [osv.dev](https://osv.dev/list) - Open Source Vulnerabilities
+- [cloudvulndb.org](https://www.cloudvulndb.org/) - The Open Cloud Vulnerability & Security Issue Database
 - [Vulners.com](https://vulners.com/)
 - [security.snyk.io](https://security.snyk.io/)
 - [Rapid7 - DB](https://www.rapid7.com/db/)
