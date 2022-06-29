@@ -174,8 +174,6 @@ A list of search engines useful during Penetration testing, vulnerability assess
 
 
 ### WiFi networks
-| name |description|
-|:---|:---|
 - [Wigle.net](https://wigle.net/)
 
 
