@@ -36,12 +36,12 @@ A list of search engines useful during Penetration testing, vulnerability assess
 ### Servers
 - [Shodan](https://shodan.io) - Search Engine for the Internet of Everything
 - [Censys](https://censys.io/)
-- [Onyphe.io](https://www.onyphe.io/)
-- [ZoomEye](https://www.zoomeye.org/)
+- [Onyphe.io](https://www.onyphe.io/) - Cyber Defense Search Engine for open-source and cyber threat intelligence data
+- [ZoomEye](https://www.zoomeye.org/) - Global cyberspace mapping
 - [GreyNoise](https://viz.greynoise.io/)
 - [Natlas](https://natlas.io/)
 - [FOFA](https://fofa.info/)
-- [criminalip.io](https://www.criminalip.io/)
+- [criminalip.io](https://www.criminalip.io/) - Cyber Threat Intelligence Search Engine and Attack Surface Management(ASM) platform
 
 ### Vulnerabilities
 - [NIST NVD](https://nvd.nist.gov/vuln/search)
