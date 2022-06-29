@@ -40,7 +40,6 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [GreyNoise](https://viz.greynoise.io/) - The source for understanding internet noise
 - [Natlas](https://natlas.io/)
 - [FOFA](https://fofa.info/)
-- [criminalip.io](https://www.criminalip.io/) - Cyber Threat Intelligence Search Engine and Attack Surface Management(ASM) platform
 
 ### Vulnerabilities
 - [NIST NVD](https://nvd.nist.gov/vuln/search) - National Vulnerability Database
@@ -69,6 +68,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [Censys](https://censys.io/) - Attack Surface Management Solutions
 - [RedHunt Labs](https://redhuntlabs.com/) - Discover your Attack Surface, Continuously
 - [SecurityTrails](https://securitytrails.com/) - The Total Internet Inventory
+- [criminalip.io](https://www.criminalip.io/) - Cyber Threat Intelligence Search Engine and Attack Surface Management(ASM) platform
 
 
 ### Code Search Engines
