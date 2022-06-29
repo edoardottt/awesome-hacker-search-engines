@@ -97,11 +97,11 @@ A list of search engines useful during Penetration testing, vulnerability assess
 
 
 ### Domains
-- [PhoneBook](https://phonebook.cz/)
-- [IntelligenceX](https://intelx.io/)
+- [PhoneBook](https://phonebook.cz/) - Lists all domains, email addresses, or URLs for the given input domain
+- [IntelligenceX](https://intelx.io/) - Search engine and data archive
 - [Omnisint](https://omnisint.io/subdomain-enumeration) - Subdomain enumeration
-- [Riddler](https://riddler.io/)
-- [RobTex](https://www.robtex.com/)
+- [Riddler](https://riddler.io/) - Allows you to search in a high quality dataset
+- [RobTex](https://www.robtex.com/) - Various kinds of research of IP numbers, Domain names, etc
 - [CentralOps - DomainDossier](https://centralops.net/co/DomainDossier.aspx)
 - [DomainIQ](https://www.domainiq.com/)
 - [whois.domaintools.com](https://whois.domaintools.com/)
