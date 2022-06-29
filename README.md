@@ -65,10 +65,10 @@ A list of search engines useful during Penetration testing, vulnerability assess
 
 
 ### Attack Surface
-- [FullHunt.io](https://fullhunt.io/)
-- [BynaryEdge](https://www.binaryedge.io/)
-- [RedHunt Labs](https://redhuntlabs.com/)
-- [SecurityTrails](https://securitytrails.com/)
+- [FullHunt.io](https://fullhunt.io/) - Attack surface database of the entire Internet
+- [BynaryEdge](https://www.binaryedge.io/) - We scan the web and gather data for you
+- [RedHunt Labs](https://redhuntlabs.com/) - Discover your Attack Surface, Continuously
+- [SecurityTrails](https://securitytrails.com/) - The Total Internet Inventory
 
 
 ### Code Search Engines
