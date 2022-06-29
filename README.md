@@ -35,7 +35,6 @@ A list of search engines useful during Penetration testing, vulnerability assess
 
 ### Servers
 - [Shodan](https://shodan.io) - Search Engine for the Internet of Everything
-- [Censys](https://censys.io/)
 - [Onyphe.io](https://www.onyphe.io/) - Cyber Defense Search Engine for open-source and cyber threat intelligence data
 - [ZoomEye](https://www.zoomeye.org/) - Global cyberspace mapping
 - [GreyNoise](https://viz.greynoise.io/) - The source for understanding internet noise
@@ -67,6 +66,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 ### Attack Surface
 - [FullHunt.io](https://fullhunt.io/) - Attack surface database of the entire Internet
 - [BynaryEdge](https://www.binaryedge.io/) - We scan the web and gather data for you
+- [Censys](https://censys.io/) - Attack Surface Management Solutions
 - [RedHunt Labs](https://redhuntlabs.com/) - Discover your Attack Surface, Continuously
 - [SecurityTrails](https://securitytrails.com/) - The Total Internet Inventory
 
