@@ -73,11 +73,11 @@ A list of search engines useful during Penetration testing, vulnerability assess
 
 ### Code Search Engines
 - [GitHub Code Search](https://cs.github.com/)
-- [grep.app](https://grep.app/)
-- [publicwww.com](https://publicwww.com/)
-- [SearchCode](https://searchcode.com/)
-- [NerdyData](https://www.nerdydata.com/)
-- [RepoSearch](http://codefinder.org/)
+- [grep.app](https://grep.app/) - Search across a half million git repos
+- [publicwww.com](https://publicwww.com/) - Find any alphanumeric snippet, signature or keyword in the web pages HTML, JS and CSS code
+- [SearchCode](https://searchcode.com/) - Search 75 billion lines of code from 40 million projects
+- [NerdyData](https://www.nerdydata.com/) - Find companies based on their website's tech stack or code
+- [RepoSearch](http://codefinder.org/) - Source code search engine that helps you find implementation details, example usages or just analyze code
 
 
 ### Mail addresses
