@@ -59,9 +59,9 @@ A list of search engines useful during Penetration testing, vulnerability assess
 
 
 ### Exploits
-- [Exploit-DB](https://www.exploit-db.com/)
-- [Sploitus](https://sploitus.com/)
-- [Rapid7 - DB](https://www.rapid7.com/db/)
+- [Exploit-DB](https://www.exploit-db.com/) - Exploit Database
+- [Sploitus](https://sploitus.com/) - Convenient central place for identifying the newest exploits
+- [Rapid7 - DB](https://www.rapid7.com/db/) - Vulnerability & Exploit Database
 
 
 ### Attack Surface
