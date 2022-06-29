@@ -81,19 +81,19 @@ A list of search engines useful during Penetration testing, vulnerability assess
 
 
 ### Mail addresses
-- [Hunter.io](https://hunter.io/)
-- [PhoneBook](https://phonebook.cz/)
-- [IntelligenceX](https://intelx.io/)
-- [Reacher.email](https://reacher.email/)
+- [Hunter.io](https://hunter.io/) - Find professional email addresses in seconds
+- [PhoneBook](https://phonebook.cz/) - Lists all domains, email addresses, or URLs for the given input domain
+- [IntelligenceX](https://intelx.io/) - Search engine and data archive
+- [Reacher.email](https://reacher.email/) - Open-Source Email Verification
 - [RocketReach](https://rocketreach.co/)
-- [email-format.com](https://www.email-format.com/)
-- [EmailHippo](https://tools.emailhippo.com/)
+- [email-format.com](https://www.email-format.com/) - Find the email address formats in use at thousands of companies
+- [EmailHippo](https://tools.emailhippo.com/) - Email address verification technology
 - [ThatsThem](https://thatsthem.com/reverse-email-lookup) - Reverse email lookup
 - [verify-email.org](https://verify-email.org/)
 - [Melissa - Emailcheck](https://www.melissa.com/v2/lookups/emailcheck/email/)
-- [VoilaNorbert](https://www.voilanorbert.com/)
-- [SynapsInt](https://synapsint.com/)
-- [skymem.info](http://www.skymem.info/)
+- [VoilaNorbert](https://www.voilanorbert.com/) - I can find anyone's email address
+- [SynapsInt](https://synapsint.com/) - The unified OSINT research tool
+- [skymem.info](http://www.skymem.info/) - Find email addresses of companies and people
 
 
 ### Domains
