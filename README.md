@@ -44,18 +44,18 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [criminalip.io](https://www.criminalip.io/) - Cyber Threat Intelligence Search Engine and Attack Surface Management(ASM) platform
 
 ### Vulnerabilities
-- [NIST NVD](https://nvd.nist.gov/vuln/search)
-- [MITRE CVE](https://cve.mitre.org/cve/search_cve_list.html)
+- [NIST NVD](https://nvd.nist.gov/vuln/search) - National Vulnerability Database
+- [MITRE CVE](https://cve.mitre.org/cve/search_cve_list.html) - Identify, define, and catalog publicly disclosed cybersecurity vulnerabilities
 - [osv.dev](https://osv.dev/list) - Open Source Vulnerabilities
 - [cloudvulndb.org](https://www.cloudvulndb.org/) - The Open Cloud Vulnerability & Security Issue Database
-- [Vulners.com](https://vulners.com/)
-- [opencve.io](https://www.opencve.io/cve)
-- [security.snyk.io](https://security.snyk.io/)
-- [Rapid7 - DB](https://www.rapid7.com/db/)
-- [CVEDetails](https://www.cvedetails.com/)
+- [Vulners.com](https://vulners.com/) - Your Search Engine for Security Intelligence
+- [opencve.io](https://www.opencve.io/cve) - Easiest way to track CVE updates and be alerted about new vulnerabilities
+- [security.snyk.io](https://security.snyk.io/) - Open Source Vulnerability Database
+- [Rapid7 - DB](https://www.rapid7.com/db/) - Vulnerability & Exploit Database
+- [CVEDetails](https://www.cvedetails.com/) - The ultimate security vulnerability datasource
 - [VulnIQ](https://vulniq.com/)
-- [SynapsInt](https://synapsint.com/)
-- [Aqua Vulnerability Database](https://avd.aquasec.com/)
+- [SynapsInt](https://synapsint.com/) - The unified OSINT research tool
+- [Aqua Vulnerability Database](https://avd.aquasec.com/) - Vulnerabilities and weaknesses in open source applications and cloud native infrastructure
 
 
 ### Exploits
