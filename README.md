@@ -104,22 +104,22 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [Riddler](https://riddler.io/) - Allows you to search in a high quality dataset
 - [RobTex](https://www.robtex.com/) - Various kinds of research of IP numbers, Domain names, etc
 - [CentralOps - DomainDossier](https://centralops.net/co/DomainDossier.aspx) - Investigate domains and IP addresses
-- [DomainIQ](https://www.domainiq.com/) - COmprehensive Domain Intelligence
+- [DomainIQ](https://www.domainiq.com/) - Comprehensive Domain Intelligence
 - [whois.domaintools.com](https://whois.domaintools.com/) - Industry’s fastest domain discovery engine and broadest, most accurate data
 - [grayhatwarfare.com - domains](https://shorteners.grayhatwarfare.com/domains) - How to search URLs exposed by Shortener services
 - [whoisology.com](https://whoisology.com/) - Deep Connections Between Domain Names & Their Owners
 - [who.is](https://who.is/) - WHOIS Search, Domain Name, Website, and IP Tools
 - [pentest-tools.com](https://pentest-tools.com/information-gathering/find-subdomains-of-domain) - Discover subdomains and determine the attack surface of an organization
-- [BuiltWith](https://builtwith.com/)
-- [MoonSearch](http://moonsearch.com/)
-- [sitereport.netcraft.com](https://sitereport.netcraft.com/)
-- [SynapsInt](https://synapsint.com/)
-- [statscrop.com](https://www.statscrop.com/)
-- [securityheaders.com](https://securityheaders.com/)
-- [visualsitemapper.com](http://www.visualsitemapper.com/)
-- [similarweb.com](https://www.similarweb.com/)
+- [BuiltWith](https://builtwith.com/) - Find out what websites are Built With
+- [MoonSearch](http://moonsearch.com/) - Backlinks checker & SEO Report
+- [sitereport.netcraft.com](https://sitereport.netcraft.com/) - Find out the infrastructure and technologies used by any site
+- [SynapsInt](https://synapsint.com/) - The unified OSINT research tool
+- [statscrop.com](https://www.statscrop.com/) - Millions of amazing websites across the web are being analyzed with StatsCrop
+- [securityheaders.com](https://securityheaders.com/) - Scan your site now
+- [visualsitemapper.com](http://www.visualsitemapper.com/) - Create a visual map of your site
+- [similarweb.com](https://www.similarweb.com/) - The easiest and fastest tool to find out what's really going on online
 - [buckets.grayhatwarfare.com](https://buckets.grayhatwarfare.com/) - Public buckets
-- [C99.nl](https://api.c99.nl/)
+- [C99.nl](https://api.c99.nl/) - Over 57 quality API's and growing!
 
 
 ### URLs
