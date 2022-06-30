@@ -92,7 +92,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [EmailHippo](https://tools.emailhippo.com/) - Email address verification technology
 - [ThatsThem](https://thatsthem.com/reverse-email-lookup) - Reverse email lookup
 - [verify-email.org](https://verify-email.org/) - Checks whether the mailbox exists or not
-- [Melissa - Emailcheck](https://www.melissa.com/v2/lookups/emailcheck/email/)
+- [Melissa - Emailcheck](https://www.melissa.com/v2/lookups/emailcheck/email/) - Check email addresses and verify they are live
 - [VoilaNorbert](https://www.voilanorbert.com/) - I can find anyone's email address
 - [SynapsInt](https://synapsint.com/) - The unified OSINT research tool
 - [skymem.info](http://www.skymem.info/) - Find email addresses of companies and people
