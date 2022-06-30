@@ -39,8 +39,9 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [Onyphe.io](https://www.onyphe.io/) - Cyber Defense Search Engine for open-source and cyber threat intelligence data
 - [ZoomEye](https://www.zoomeye.org/) - Global cyberspace mapping
 - [GreyNoise](https://viz.greynoise.io/) - The source for understanding internet noise
-- [Natlas](https://natlas.io/)
-- [FOFA](https://fofa.info/)
+- [Natlas](https://natlas.io/) - Scaling Network Scanning
+- [Netlas.io](https://netlas.io/) - Discover, Research and Monitor any Assets Available Online
+- [FOFA](https://fofa.info/) - Cyberspace mapping
 
 ### Vulnerabilities
 - [NIST NVD](https://nvd.nist.gov/vuln/search) - National Vulnerability Database
@@ -52,7 +53,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [security.snyk.io](https://security.snyk.io/) - Open Source Vulnerability Database
 - [Rapid7 - DB](https://www.rapid7.com/db/) - Vulnerability & Exploit Database
 - [CVEDetails](https://www.cvedetails.com/) - The ultimate security vulnerability datasource
-- [VulnIQ](https://vulniq.com/)
+- [VulnIQ](https://vulniq.com/) - Vulnerability intelligence and management solution
 - [SynapsInt](https://synapsint.com/) - The unified OSINT research tool
 - [Aqua Vulnerability Database](https://avd.aquasec.com/) - Vulnerabilities and weaknesses in open source applications and cloud native infrastructure
 
@@ -86,11 +87,11 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [PhoneBook](https://phonebook.cz/) - Lists all domains, email addresses, or URLs for the given input domain
 - [IntelligenceX](https://intelx.io/) - Search engine and data archive
 - [Reacher.email](https://reacher.email/) - Open-Source Email Verification
-- [RocketReach](https://rocketreach.co/)
+- [RocketReach](https://rocketreach.co/) - Your first-degree connection to any professional
 - [email-format.com](https://www.email-format.com/) - Find the email address formats in use at thousands of companies
 - [EmailHippo](https://tools.emailhippo.com/) - Email address verification technology
 - [ThatsThem](https://thatsthem.com/reverse-email-lookup) - Reverse email lookup
-- [verify-email.org](https://verify-email.org/)
+- [verify-email.org](https://verify-email.org/) - Checks whether the mailbox exists or not
 - [Melissa - Emailcheck](https://www.melissa.com/v2/lookups/emailcheck/email/)
 - [VoilaNorbert](https://www.voilanorbert.com/) - I can find anyone's email address
 - [SynapsInt](https://synapsint.com/) - The unified OSINT research tool
