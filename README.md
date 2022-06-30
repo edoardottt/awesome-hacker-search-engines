@@ -103,13 +103,13 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [Omnisint](https://omnisint.io/subdomain-enumeration) - Subdomain enumeration
 - [Riddler](https://riddler.io/) - Allows you to search in a high quality dataset
 - [RobTex](https://www.robtex.com/) - Various kinds of research of IP numbers, Domain names, etc
-- [CentralOps - DomainDossier](https://centralops.net/co/DomainDossier.aspx)
-- [DomainIQ](https://www.domainiq.com/)
-- [whois.domaintools.com](https://whois.domaintools.com/)
-- [grayhatwarfare.com - domains](https://shorteners.grayhatwarfare.com/domains)
-- [whoisology.com](https://whoisology.com/)
-- [who.is](https://who.is/)
-- [pentest-tools.com](https://pentest-tools.com/information-gathering/find-subdomains-of-domain)
+- [CentralOps - DomainDossier](https://centralops.net/co/DomainDossier.aspx) - Investigate domains and IP addresses
+- [DomainIQ](https://www.domainiq.com/) - COmprehensive Domain Intelligence
+- [whois.domaintools.com](https://whois.domaintools.com/) - Industry’s fastest domain discovery engine and broadest, most accurate data
+- [grayhatwarfare.com - domains](https://shorteners.grayhatwarfare.com/domains) - How to search URLs exposed by Shortener services
+- [whoisology.com](https://whoisology.com/) - Deep Connections Between Domain Names & Their Owners
+- [who.is](https://who.is/) - WHOIS Search, Domain Name, Website, and IP Tools
+- [pentest-tools.com](https://pentest-tools.com/information-gathering/find-subdomains-of-domain) - Discover subdomains and determine the attack surface of an organization
 - [BuiltWith](https://builtwith.com/)
 - [MoonSearch](http://moonsearch.com/)
 - [sitereport.netcraft.com](https://sitereport.netcraft.com/)
