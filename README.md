@@ -34,69 +34,84 @@ A list of search engines useful during Penetration testing, vulnerability assess
 
 
 ### Servers
-- [Shodan](https://shodan.io) - Search Engine for the Internet of Everything
-- [Onyphe.io](https://www.onyphe.io/) - Cyber Defense Search Engine for open-source and cyber threat intelligence data
-- [ZoomEye](https://www.zoomeye.org/) - Global cyberspace mapping
-- [GreyNoise](https://viz.greynoise.io/) - The source for understanding internet noise
-- [Natlas](https://natlas.io/)
-- [FOFA](https://fofa.info/)
+
+| name |description|
+|:---|:---|
+|[Shodan](https://shodan.io)|Search Engine for the Internet of Everything|
+| [Onyphe.io](https://www.onyphe.io/) | Cyber Defense Search Engine for open-source and cyber threat intelligence data |
+| [ZoomEye](https://www.zoomeye.org/) | Global cyberspace mapping |
+| [GreyNoise](https://viz.greynoise.io/) | The source for understanding internet noise |
+| [Natlas](https://natlas.io/) |
+| [FOFA](https://fofa.info/) |
 
 ### Vulnerabilities
-- [NIST NVD](https://nvd.nist.gov/vuln/search) - National Vulnerability Database
-- [MITRE CVE](https://cve.mitre.org/cve/search_cve_list.html) - Identify, define, and catalog publicly disclosed cybersecurity vulnerabilities
-- [osv.dev](https://osv.dev/list) - Open Source Vulnerabilities
-- [cloudvulndb.org](https://www.cloudvulndb.org/) - The Open Cloud Vulnerability & Security Issue Database
-- [Vulners.com](https://vulners.com/) - Your Search Engine for Security Intelligence
-- [opencve.io](https://www.opencve.io/cve) - Easiest way to track CVE updates and be alerted about new vulnerabilities
-- [security.snyk.io](https://security.snyk.io/) - Open Source Vulnerability Database
-- [Rapid7 - DB](https://www.rapid7.com/db/) - Vulnerability & Exploit Database
-- [CVEDetails](https://www.cvedetails.com/) - The ultimate security vulnerability datasource
-- [VulnIQ](https://vulniq.com/)
-- [SynapsInt](https://synapsint.com/) - The unified OSINT research tool
-- [Aqua Vulnerability Database](https://avd.aquasec.com/) - Vulnerabilities and weaknesses in open source applications and cloud native infrastructure
+| name |description|
+|:---|:---|
+|[NIST NVD](https://nvd.nist.gov/vuln/search) | National Vulnerability Database|
+| [MITRE CVE](https://cve.mitre.org/cve/search_cve_list.html) | Identify, define, and catalog |publicly disclosed cybersecurity vulnerabilities|
+| [osv.dev](https://osv.dev/list) | Open Source Vulnerabilities|
+| [cloudvulndb.org](https://www.cloudvulndb.org/) | The Open Cloud Vulnerability & Security Issue Database|
+| [Vulners.com](https://vulners.com/) | Your Search Engine for Security Intelligence
+| [opencve.io](https://www.opencve.io/cve) |Easiest way to track CVE updates and be alerted about new vulnerabilities|
+| [security.snyk.io](https://security.snyk.io/) | Open Source Vulnerability Database|
+| [Rapid7 - DB](https://www.rapid7.com/db/) | Vulnerability & Exploit Database|
+| [CVEDetails](https://www.cvedetails.com/) | The ultimate security vulnerability datasource
+|[VulnIQ](https://vulniq.com/)|
+| [SynapsInt](https://synapsint.com/) | The unified OSINT research tool|
+|[Aqua Vulnerability Database](https://avd.aquasec.com/) | Vulnerabilities and weaknesses in open source applications and cloud native infrastructure|
 
 
 ### Exploits
-- [Exploit-DB](https://www.exploit-db.com/) - Exploit Database
-- [Sploitus](https://sploitus.com/) - Convenient central place for identifying the newest exploits
-- [Rapid7 - DB](https://www.rapid7.com/db/) - Vulnerability & Exploit Database
+| name |description|
+|:---|:---|
+| [Exploit-DB](https://www.exploit-db.com/) | Exploit Database|
+| [Sploitus](https://sploitus.com/) | Convenient central place for identifying the newest exploits|
+| [Rapid7 - DB](https://www.rapid7.com/db/) | Vulnerability & Exploit Database|
 
 
 ### Attack Surface
-- [FullHunt.io](https://fullhunt.io/) - Attack surface database of the entire Internet
-- [BynaryEdge](https://www.binaryedge.io/) - We scan the web and gather data for you
-- [Censys](https://censys.io/) - Attack Surface Management Solutions
-- [RedHunt Labs](https://redhuntlabs.com/) - Discover your Attack Surface, Continuously
-- [SecurityTrails](https://securitytrails.com/) - The Total Internet Inventory
-- [criminalip.io](https://www.criminalip.io/) - Cyber Threat Intelligence Search Engine and Attack Surface Management(ASM) platform
+| name |description|
+|:---|:---|
+|[FullHunt.io](https://fullhunt.io/) | Attack surface database of the entire Internet|
+| [BynaryEdge](https://www.binaryedge.io/) | We scan the web and gather data for you|
+| [Censys](https://censys.io/) | Attack Surface Management Solutions|
+| [RedHunt Labs](https://redhuntlabs.com/)| Discover your Attack Surface, Continuously|
+|[SecurityTrails](https://securitytrails.com/) | The Total Internet Inventory|
+| [criminalip.io](https://www.criminalip.io/) | Cyber Threat Intelligence Search Engine and |Attack Surface Management(ASM) platform|
 
 
 ### Code Search Engines
-- [GitHub Code Search](https://cs.github.com/)
-- [grep.app](https://grep.app/) - Search across a half million git repos
-- [publicwww.com](https://publicwww.com/) - Find any alphanumeric snippet, signature or keyword in the web pages HTML, JS and CSS code
-- [SearchCode](https://searchcode.com/) - Search 75 billion lines of code from 40 million projects
-- [NerdyData](https://www.nerdydata.com/) - Find companies based on their website's tech stack or code
-- [RepoSearch](http://codefinder.org/) - Source code search engine that helps you find implementation details, example usages or just analyze code
+| name |description|
+|:---|:---|
+| [GitHub Code Search](https://cs.github.com/)|
+| [grep.app](https://grep.app/) | Search across a half million git repos|
+| [publicwww.com](https://publicwww.com/) | Find any alphanumeric snippet, signature or keyword in the web pages HTML, JS and CSS code|
+| [SearchCode](https://searchcode.com/) | Search 75 billion lines of code from 40 million projects|
+| [NerdyData](https://www.nerdydata.com/) | Find companies based on their website's tech stack or code|
+| [RepoSearch](http://codefinder.org/) | Source code search engine that helps you find implementation details, example usages or just analyze code |
 
 
 ### Mail addresses
-- [Hunter.io](https://hunter.io/) - Find professional email addresses in seconds
-- [PhoneBook](https://phonebook.cz/) - Lists all domains, email addresses, or URLs for the given input domain
-- [IntelligenceX](https://intelx.io/) - Search engine and data archive
-- [Reacher.email](https://reacher.email/) - Open-Source Email Verification
-- [RocketReach](https://rocketreach.co/)
-- [email-format.com](https://www.email-format.com/) - Find the email address formats in use at thousands of companies
-- [EmailHippo](https://tools.emailhippo.com/) - Email address verification technology
-- [ThatsThem](https://thatsthem.com/reverse-email-lookup) - Reverse email lookup
-- [verify-email.org](https://verify-email.org/)
-- [Melissa - Emailcheck](https://www.melissa.com/v2/lookups/emailcheck/email/)
-- [VoilaNorbert](https://www.voilanorbert.com/) - I can find anyone's email address
-- [SynapsInt](https://synapsint.com/) - The unified OSINT research tool
-- [skymem.info](http://www.skymem.info/) - Find email addresses of companies and people
+| name |description|
+|:---|:---|
+| [Hunter.io](https://hunter.io/) | Find professional email addresses in seconds|
+| [PhoneBook](https://phonebook.cz/) | Lists all domains, email addresses, or URLs for the given input domain|
+| [IntelligenceX](https://intelx.io/) | Search engine and data archive|
+| [Reacher.email](https://reacher.email/) | Open-Source Email Verification|
+| [RocketReach](https://rocketreach.co/)|
+| [email-format.com](https://www.email-format.com/) | Find the email address formats in use at thousands of companies|
+| [EmailHippo](https://tools.emailhippo.com/) | Email address verification technology|
+| [ThatsThem](https://thatsthem.com/reverse-email-lookup) | Reverse email lookup|
+| [verify-email.org](https://verify-email.org/)|
+| [Melissa - Emailcheck](https://www.melissa.com/v2/lookups/emailcheck/email/)|
+| [VoilaNorbert](https://www.voilanorbert.com/) | I can find anyone's email address|
+| [SynapsInt](https://synapsint.com/) | The unified OSINT research tool|
+| [skymem.info](http://www.skymem.info/) | Find email addresses of companies and people|
 
 
 ### Domains
+| name |description|
+|:---|:---|
 - [PhoneBook](https://phonebook.cz/) - Lists all domains, email addresses, or URLs for the given input domain
 - [IntelligenceX](https://intelx.io/) - Search engine and data archive
 - [Omnisint](https://omnisint.io/subdomain-enumeration) - Subdomain enumeration
@@ -132,6 +147,8 @@ A list of search engines useful during Penetration testing, vulnerability assess
 
 
 ### DNS
+| name |description|
+|:---|:---|
 - [DNSDumpster](https://dnsdumpster.com/)
 - [RapidDNS](https://rapiddns.io/)
 - [DNSdb](https://docs.farsightsecurity.com/#dnsdb)
@@ -146,6 +163,8 @@ A list of search engines useful during Penetration testing, vulnerability assess
 
 
 ### Certificates
+| name |description|
+|:---|:---|
 - [Crt.sh](https://crt.sh/)
 - [CTSearch](https://ui.ctsearch.entrust.com/ui/ctsearchui)
 - [TLS.BufferOver.run](https://tls.bufferover.run/)
@@ -159,6 +178,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 
 
 ### Credentials
+
 - [Have I Been Pwned](https://haveibeenpwned.com/)
 - [Dehashed](https://www.dehashed.com/)
 - [Leak-Lookup](https://leak-lookup.com/)
