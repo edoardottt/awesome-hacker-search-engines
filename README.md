@@ -159,7 +159,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 
 
 ### Device Information
-- [MAC-Address Vendor Lookup](https://www.macvendorlookup.com/) - Look up the vendor for a specific MAC-Address
+- [MAC Vendor Lookup](https://www.macvendorlookup.com/) - Look up the vendor for a specific MAC Address
 
 
 ### Credentials
