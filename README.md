@@ -242,7 +242,6 @@ These can be useful for osint and social engineering.
 
 
 ### Unclassified
-- [Spyse](https://spyse.com/)
 - [NetoGraph](https://netograph.io/)
 - [DNS.BufferOver.run](https://dns.bufferover.run/)
 - [Chaos](https://chaos.projectdiscovery.io/#/)
