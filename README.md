@@ -80,7 +80,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [RepoSearch](http://codefinder.org/) - Source code search engine that helps you find implementation details, example usages or just analyze code
 
 
-### Mail addresses
+### Mail Addresses
 - [Hunter.io](https://hunter.io/) - Find professional email addresses in seconds
 - [PhoneBook](https://phonebook.cz/) - Lists all domains, email addresses, or URLs for the given input domain
 - [IntelligenceX](https://intelx.io/) - Search engine and data archive
@@ -154,7 +154,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [Censys - Certificates](https://search.censys.io/certificates)
 
 
-### WiFi networks
+### WiFi Networks
 - [Wigle.net](https://wigle.net/)
 
 
@@ -193,7 +193,7 @@ These can be useful for osint and social engineering.
 - [Tinder](https://tinder.com/)
 
 
-### Phone numbers
+### Phone Numbers
 - [RocketReach](https://rocketreach.co/)
 - [NumLookup](https://www.numlookup.com/)
 - [WhitePages](https://www.whitepages.com/)
