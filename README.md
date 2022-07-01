@@ -115,6 +115,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [MoonSearch](http://moonsearch.com/) - Backlinks checker & SEO Report
 - [sitereport.netcraft.com](https://sitereport.netcraft.com/) - Find out the infrastructure and technologies used by any site
 - [SynapsInt](https://synapsint.com/) - The unified OSINT research tool
+- [spyonweb.com](https://spyonweb.com/) - Find out related websites
 - [statscrop.com](https://www.statscrop.com/) - Millions of amazing websites across the web are being analyzed with StatsCrop
 - [securityheaders.com](https://securityheaders.com/) - Scan your site now
 - [visualsitemapper.com](http://www.visualsitemapper.com/) - Create a visual map of your site
@@ -124,13 +125,12 @@ A list of search engines useful during Penetration testing, vulnerability assess
 
 
 ### URLs
-- [PhoneBook](https://phonebook.cz/)
-- [IntelligenceX](https://intelx.io/)
-- [URLScan](https://urlscan.io/)
-- [HackerTarget](https://hackertarget.com/ip-tools/)
-- [MOZ Link Explorer](https://moz.com/link-explorer)
-- [spyonweb.com](https://spyonweb.com/)
-- [shorteners.grayhatwarfare.com](https://shorteners.grayhatwarfare.com/)
+- [PhoneBook](https://phonebook.cz/) - Lists all domains, email addresses, or URLs for the given input domain
+- [IntelligenceX](https://intelx.io/) - Search engine and data archive
+- [URLScan](https://urlscan.io/) - A sandbox for the web
+- [HackerTarget](https://hackertarget.com/ip-tools/) - Collect information about IP Addresses, Networks, Web Pages and DNS records
+- [MOZ Link Explorer](https://moz.com/link-explorer) - The world's best backlink checker with over 40 trillion links
+- [shorteners.grayhatwarfare.com](https://shorteners.grayhatwarfare.com/) - Search URLs exposed by Shortener services
 
 
 ### DNS
