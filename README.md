@@ -157,7 +157,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 
 
 ### WiFi Networks
-- [Wigle.net](https://wigle.net/)
+- [Wigle.net](https://wigle.net/) - Maps and database of 802.11 wireless networks with statistics
 
 
 ### Device Information
