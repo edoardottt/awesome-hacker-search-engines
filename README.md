@@ -223,7 +223,7 @@ These can be useful for osint and social engineering.
 
 
 ### Threat Intelligence
-- [PulseDive](https://pulsedive.com/)
+- [PulseDive](https://pulsedive.com/) - Threat intelligence made easy
 - [ThreatCrowd](https://threatcrowd.org/)
 - [ThreatMiner](https://www.threatminer.org/)
 - [VirusTotal](https://www.virustotal.com/)
