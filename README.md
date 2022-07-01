@@ -148,12 +148,12 @@ A list of search engines useful during Penetration testing, vulnerability assess
 
 
 ### Certificates
-- [Crt.sh](https://crt.sh/)
-- [CTSearch](https://ui.ctsearch.entrust.com/ui/ctsearchui)
-- [TLS.BufferOver.run](https://tls.bufferover.run/)
-- [CertSpotter](https://sslmate.com/certspotter/)
-- [SynapsInt](https://synapsint.com/)
-- [Censys - Certificates](https://search.censys.io/certificates)
+- [Crt.sh](https://crt.sh/) - Certificate Search
+- [CTSearch](https://ui.ctsearch.entrust.com/ui/ctsearchui) - Certificate Transparency Search Tool
+- [TLS.BufferOver.run](https://tls.bufferover.run/) - Quickly find certificates in IPv4 space
+- [CertSpotter](https://sslmate.com/certspotter/) - Monitors your domains for expiring, unauthorized, and invalid SSL certificates
+- [SynapsInt](https://synapsint.com/) - The unified OSINT research tool
+- [Censys - Certificates](https://search.censys.io/certificates) - Certificates Search
 
 
 ### WiFi Networks
