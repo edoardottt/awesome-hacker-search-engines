@@ -229,8 +229,8 @@ These can be useful for osint and social engineering.
 - [ThreatMiner](https://www.threatminer.org/) - Data Mining for Threat Intelligence
 - [VirusTotal](https://www.virustotal.com/) - Analyze suspicious files, domains, IPs and URLs to detect malware and other breaches
 - [vx-underground.org](https://www.vx-underground.org/) - Malware library
-- [Rescure](https://rescure.me/)
-- [otx.alienvault](https://otx.alienvault.com/)
+- [Rescure](https://rescure.me/) - Curated cyber threat intelligence for everyone
+- [otx.alienvault](https://otx.alienvault.com/) - The World's First Truly Open Threat Intelligence Community
 - [urlquery.net](https://urlquery.net/)
 - [bazaar.abuse.ch](https://bazaar.abuse.ch/browse/)
 - [feodotracker.abuse.ch](https://feodotracker.abuse.ch/browse/)
