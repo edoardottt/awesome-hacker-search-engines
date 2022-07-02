@@ -236,6 +236,7 @@ These can be useful for osint and social engineering.
 - [sslbl.abuse.ch](https://sslbl.abuse.ch/ssl-certificates/)
 - [urlhaus.abuse.ch](https://urlhaus.abuse.ch/browse/)
 - [threatfox.abuse.ch](https://threatfox.abuse.ch/browse/)
+- [socradar.io](https://socradar.io/) - Extension to your SOC team
 
 
 ### Web History
