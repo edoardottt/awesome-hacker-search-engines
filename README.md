@@ -231,12 +231,12 @@ These can be useful for osint and social engineering.
 - [vx-underground.org](https://www.vx-underground.org/) - Malware library
 - [Rescure](https://rescure.me/) - Curated cyber threat intelligence for everyone
 - [otx.alienvault](https://otx.alienvault.com/) - The World's First Truly Open Threat Intelligence Community
-- [urlquery.net](https://urlquery.net/)
-- [bazaar.abuse.ch](https://bazaar.abuse.ch/browse/)
-- [feodotracker.abuse.ch](https://feodotracker.abuse.ch/browse/)
-- [sslbl.abuse.ch](https://sslbl.abuse.ch/ssl-certificates/)
-- [urlhaus.abuse.ch](https://urlhaus.abuse.ch/browse/)
-- [threatfox.abuse.ch](https://threatfox.abuse.ch/browse/)
+- [urlquery.net](https://urlquery.net/) - Service for detecting and analyzing web-based malware
+- [bazaar.abuse.ch](https://bazaar.abuse.ch/browse/) - Malware sample database
+- [feodotracker.abuse.ch](https://feodotracker.abuse.ch/browse/) - List of botnet Command&Control servers
+- [sslbl.abuse.ch](https://sslbl.abuse.ch/ssl-certificates/) - All malicious SSL certificates
+- [urlhaus.abuse.ch](https://urlhaus.abuse.ch/browse/) - Propose new malware urls
+- [threatfox.abuse.ch](https://threatfox.abuse.ch/browse/) - Indicator Of Compromise (IOC) database
 - [socradar.io](https://socradar.io/) - Extension to your SOC team
 
 
