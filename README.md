@@ -227,6 +227,7 @@ These can be useful for osint and social engineering.
 - [ThreatCrowd](https://threatcrowd.org/) - A Search Engine for Threats
 - [ThreatMiner](https://www.threatminer.org/) - Data Mining for Threat Intelligence
 - [VirusTotal](https://www.virustotal.com/) - Analyze suspicious files, domains, IPs and URLs to detect malware and other breaches
+- [vx-underground.org](https://www.vx-underground.org/) - Malware library
 - [Rescure](https://rescure.me/)
 - [otx.alienvault](https://otx.alienvault.com/)
 - [urlquery.net](https://urlquery.net/)
