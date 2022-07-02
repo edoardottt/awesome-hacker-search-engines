@@ -209,7 +209,7 @@ These can be useful for osint and social engineering.
 - [WhitePages](https://www.whitepages.com/) - Find people, contact info & background checks
 - [National Cellular Directory](https://www.nationalcellulardirectory.com/)
 - [Phone Validator](https://www.phonevalidator.com/) - Is it a cell phone or is it a landline or is it a fake?
-- [Free Carrier Lookup](https://freecarrierlookup.com/)
+- [Free Carrier Lookup](https://freecarrierlookup.com/) - Enter a phone number and we'll return the carrier name
 - [sync.me](https://sync.me/)
 - [EmobileTracker](https://www.emobiletracker.com/)
 - [SpyDialer](https://spydialer.com/)
