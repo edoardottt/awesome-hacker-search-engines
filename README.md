@@ -208,7 +208,7 @@ These can be useful for osint and social engineering.
 - [NumLookup](https://www.numlookup.com/) - Free reverse phone lookup
 - [WhitePages](https://www.whitepages.com/) - Find people, contact info & background checks
 - [National Cellular Directory](https://www.nationalcellulardirectory.com/)
-- [Phone Validator](https://www.phonevalidator.com/)
+- [Phone Validator](https://www.phonevalidator.com/) - Is it a cell phone or is it a landline or is it a fake?
 - [Free Carrier Lookup](https://freecarrierlookup.com/)
 - [sync.me](https://sync.me/)
 - [EmobileTracker](https://www.emobiletracker.com/)
