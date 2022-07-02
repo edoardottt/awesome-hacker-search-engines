@@ -205,7 +205,7 @@ These can be useful for osint and social engineering.
 
 ### Phone Numbers
 - [RocketReach](https://rocketreach.co/) - Your first-degree connection to any professional
-- [NumLookup](https://www.numlookup.com/)
+- [NumLookup](https://www.numlookup.com/) - Free reverse phone lookup
 - [WhitePages](https://www.whitepages.com/)
 - [National Cellular Directory](https://www.nationalcellulardirectory.com/)
 - [Phone Validator](https://www.phonevalidator.com/)
