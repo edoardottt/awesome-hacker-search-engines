@@ -217,7 +217,7 @@ These can be useful for osint and social engineering.
 - [Reverse Phone Lookup](https://www.reversephonelookup.com/) - Find Out The Owner Of A Phone Number
 - [ThatsThem](https://thatsthem.com/reverse-phone-lookup) - Reverse phone lookup
 - [thisnumber.com](https://www.thisnumber.com/) - International Phone Directories
-- [usphonebook.com](https://www.usphonebook.com/)
+- [usphonebook.com](https://www.usphonebook.com/) - Free Reverse Phone Number Lookup
 - [truecaller.com](https://www.truecaller.com/)
 - [truepeoplesearch.com](https://www.truepeoplesearch.com/#)
 - [SynapsInt](https://synapsint.com/)
