@@ -219,8 +219,8 @@ These can be useful for osint and social engineering.
 - [thisnumber.com](https://www.thisnumber.com/) - International Phone Directories
 - [usphonebook.com](https://www.usphonebook.com/) - Free Reverse Phone Number Lookup
 - [truepeoplesearch.com](https://www.truepeoplesearch.com/#) - Get current address, cell phone number, email address, relatives, friends and a lot more
-- [SynapsInt](https://synapsint.com/)
-- [C99.nl](https://api.c99.nl/)
+- [SynapsInt](https://synapsint.com/) - The unified OSINT research tool
+- [C99.nl](https://api.c99.nl/) - Over 57 quality API's and growing
 
 
 ### Threat Intelligence
