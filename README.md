@@ -254,7 +254,7 @@ These can be useful for osint and social engineering.
 ### Unclassified
 - [NetoGraph](https://netograph.io/)
 - [DNS.BufferOver.run](https://dns.bufferover.run/)
-- [Chaos](https://chaos.projectdiscovery.io/#/)
+- [Chaos](https://chaos.projectdiscovery.io/#/) - Enhance research and analyse changes around DNS for better insights
 - [PassiveTotal](https://api.passivetotal.org/)
 
 ---------
