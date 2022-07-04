@@ -56,12 +56,14 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [VulnIQ](https://vulniq.com/) - Vulnerability intelligence and management solution
 - [SynapsInt](https://synapsint.com/) - The unified OSINT research tool
 - [Aqua Vulnerability Database](https://avd.aquasec.com/) - Vulnerabilities and weaknesses in open source applications and cloud native infrastructure
+- [Vulmon](https://vulmon.com/) - Vulnerability and exploit search engine
 
 
 ### Exploits
 - [Exploit-DB](https://www.exploit-db.com/) - Exploit Database
 - [Sploitus](https://sploitus.com/) - Convenient central place for identifying the newest exploits
 - [Rapid7 - DB](https://www.rapid7.com/db/) - Vulnerability & Exploit Database
+- [Vulmon](https://vulmon.com/) - Vulnerability and exploit search engine
 
 
 ### Attack Surface
