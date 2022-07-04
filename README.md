@@ -140,6 +140,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 
 ### DNS
 - [DNSDumpster](https://dnsdumpster.com/) - dns recon & research, find & lookup dns records
+- [Chaos](https://chaos.projectdiscovery.io/#/) - Enhance research and analyse changes around DNS for better insights
 - [RapidDNS](https://rapiddns.io/) - dns query tool which make querying subdomains or sites of a same ip easy
 - [DNSdb](https://docs.farsightsecurity.com/#dnsdb) - Passive DNS historical database
 - [Omnisint](https://omnisint.io/reverse-dns-lookup) - Reverse DNS lookup
@@ -254,7 +255,6 @@ These can be useful for osint and social engineering.
 ### Unclassified
 - [NetoGraph](https://netograph.io/)
 - [DNS.BufferOver.run](https://dns.bufferover.run/)
-- [Chaos](https://chaos.projectdiscovery.io/#/) - Enhance research and analyse changes around DNS for better insights
 - [PassiveTotal](https://api.passivetotal.org/)
 
 ---------
