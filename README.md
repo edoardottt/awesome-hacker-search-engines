@@ -65,6 +65,7 @@ A list of search engines useful during Penetration testing, vulnerability assess
 - [Sploitus](https://sploitus.com/) - Convenient central place for identifying the newest exploits
 - [Rapid7 - DB](https://www.rapid7.com/db/) - Vulnerability & Exploit Database
 - [Vulmon](https://vulmon.com/) - Vulnerability and exploit search engine
+- [packetstormsecurity.com](https://packetstormsecurity.com/) - Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers
 
 
 ### Attack Surface
