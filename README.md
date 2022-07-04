@@ -242,6 +242,7 @@ These can be useful for osint and social engineering.
 - [urlhaus.abuse.ch](https://urlhaus.abuse.ch/browse/) - Propose new malware urls
 - [threatfox.abuse.ch](https://threatfox.abuse.ch/browse/) - Indicator Of Compromise (IOC) database
 - [socradar.io](https://socradar.io/) - Extension to your SOC team
+- [VirusShare](https://virusshare.com/) - System currently contains 48 million malware samples
 
 
 ### Web History
