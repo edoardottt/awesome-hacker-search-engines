@@ -130,6 +130,7 @@ A list of search engines useful during Penetration testing, Vulnerability assess
 - [similarweb.com](https://www.similarweb.com/) - The easiest and fastest tool to find out what's really going on online
 - [buckets.grayhatwarfare.com](https://buckets.grayhatwarfare.com/) - Public buckets
 - [C99.nl](https://api.c99.nl/) - Over 57 quality API's and growing!
+- [PassiveTotal](https://www.riskiq.com/products/passivetotal/) - Security intelligence that scales security operations and response
 
 
 ### URLs
@@ -262,7 +263,6 @@ These can be useful for osint and social engineering.
 ### Unclassified
 - [NetoGraph](https://netograph.io/) - Captures and indexes detailed, low-level snapshots of website behaviour
 - [DNS.BufferOver.run](https://dns.bufferover.run/)
-- [PassiveTotal](https://www.riskiq.com/products/passivetotal/) - Security intelligence that scales security operations and response
 
 ---------
 
