@@ -262,7 +262,7 @@ These can be useful for osint and social engineering.
 ### Unclassified
 - [NetoGraph](https://netograph.io/) - Captures and indexes detailed, low-level snapshots of website behaviour
 - [DNS.BufferOver.run](https://dns.bufferover.run/)
-- [PassiveTotal](https://api.passivetotal.org/)
+- [PassiveTotal](https://api.passivetotal.org/) - Security intelligence that scales security operations and response
 
 ---------
 
