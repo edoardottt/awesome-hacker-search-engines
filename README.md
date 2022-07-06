@@ -155,6 +155,7 @@ A list of search engines useful during Penetration testing, Vulnerability assess
 - [DNSTwister](https://dnstwister.report/) - The anti-phishing domain name search engine and DNS monitoring service
 - [DNSviz](https://dnsviz.net/) - Tool for visualizing the status of a DNS zone
 - [C99.nl](https://api.c99.nl/) - Over 57 quality API's and growing
+- [PassiveTotal](https://www.riskiq.com/products/passivetotal/) - Security intelligence that scales security operations and response
 
 
 ### Certificates
