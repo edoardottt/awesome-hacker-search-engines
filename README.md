@@ -33,6 +33,7 @@ A list of search engines useful during Penetration testing, Vulnerability assess
 - [Yahoo!](http://www.yahoo.com/)
 - [Yandex](https://yandex.com/)
 - [Ask](https://www.ask.com/)
+- [Baidu](https://www.baidu.com/)
 
 
 ### Servers
