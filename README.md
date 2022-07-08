@@ -189,6 +189,7 @@ A list of search engines useful during Penetration testing, Vulnerability assess
 - [LeakCheck.io](https://leakcheck.io/) - Make sure your credentials haven't been compromised
 - [crackstation.net](https://crackstation.net/) -Massive pre-computed lookup tables to crack password hashes
 - [breachdirectory.org](https://breachdirectory.org/) - Check if your information was exposed in a data breach
+- [BreachForums](https://breached.to/)
 
 
 ### Social Networks
