@@ -90,6 +90,7 @@ A list of search engines useful during Penetration testing, Vulnerability assess
 - [NerdyData](https://www.nerdydata.com/) - Find companies based on their website's tech stack or code
 - [RepoSearch](http://codefinder.org/) - Source code search engine that helps you find implementation details, example usages or just analyze code
 - [SourceGraph](https://about.sourcegraph.com/) - Understand and search across your entire codebase
+- [HotExamples](https://hotexamples.com/) - Search code examples from over 1 million projects
 
 
 ### Mail Addresses
