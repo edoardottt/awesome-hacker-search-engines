@@ -258,7 +258,7 @@ These can be useful for osint and social engineering.
 - [VirusShare](https://virusshare.com/) - System currently contains 48 million malware samples
 - [WikiLeaks](https://wikileaks.org/) - News leaks and classified media provided by anonymous sources
 - [PassiveTotal](https://www.riskiq.com/products/passivetotal/) - Security intelligence that scales security operations and response
-- [malapi.io](https://malapi.io/) - Windows API used for malicious purposes
+- [malapi.io](https://malapi.io/) - Windows APIs used for malicious purposes
 
 
 ### Web History
