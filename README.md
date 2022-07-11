@@ -259,6 +259,7 @@ These can be useful for osint and social engineering.
 - [WikiLeaks](https://wikileaks.org/) - News leaks and classified media provided by anonymous sources
 - [PassiveTotal](https://www.riskiq.com/products/passivetotal/) - Security intelligence that scales security operations and response
 - [malapi.io](https://malapi.io/) - Windows APIs used for malicious purposes
+- [filesec.io](https://filesec.io/) - Latest file extensions being used by attackers
 
 
 ### Web History
