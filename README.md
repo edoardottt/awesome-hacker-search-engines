@@ -69,7 +69,8 @@ A list of search engines useful during Penetration testing, Vulnerability assess
 - [Rapid7 - DB](https://www.rapid7.com/db/) - Vulnerability & Exploit Database
 - [Vulmon](https://vulmon.com/) - Vulnerability and exploit search engine
 - [packetstormsecurity.com](https://packetstormsecurity.com/) - Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers
-- [0day.today](https://0day.today/) - Ultimate database of exploits and vulnerabilities 
+- [0day.today](https://0day.today/) - Ultimate database of exploits and vulnerabilities
+- [LOLBAS](https://lolbas-project.github.io/) - Living Off The Land Binaries, Scripts and Libraries
 
 
 ### Attack Surface
