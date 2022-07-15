@@ -261,6 +261,7 @@ These can be useful for osint and social engineering.
 - [PassiveTotal](https://www.riskiq.com/products/passivetotal/) - Security intelligence that scales security operations and response
 - [malapi.io](https://malapi.io/) - Windows APIs used for malicious purposes
 - [filesec.io](https://filesec.io/) - Latest file extensions being used by attackers
+- [leakix.net](https://leakix.net/) - Search engine indexing public information and an open reporting platform linked to the results
 
 
 ### Web History
