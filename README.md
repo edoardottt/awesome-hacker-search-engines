@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-A list of search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more
+A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more
 </p>
 
 <p align="center">
