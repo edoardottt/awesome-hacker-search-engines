@@ -176,6 +176,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 
 ### WiFi Networks
 - [Wigle.net](https://wigle.net/) - Maps and database of 802.11 wireless networks with statistics
+- [openwifimap.net](https://openwifimap.net/) - HTML5 map with OpenWiFiMap data
 
 
 ### Device Information
