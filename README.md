@@ -45,6 +45,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Netlas.io](https://netlas.io/) - Discover, Research and Monitor any Assets Available Online
 - [FOFA](https://fofa.info/) - Cyberspace mapping
 
+
 ### Vulnerabilities
 - [NIST NVD](https://nvd.nist.gov/vuln/search) - National Vulnerability Database
 - [MITRE CVE](https://cve.mitre.org/cve/search_cve_list.html) - Identify, define, and catalog publicly disclosed cybersecurity vulnerabilities
@@ -54,6 +55,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Vulners.com](https://vulners.com/) - Your Search Engine for Security Intelligence
 - [opencve.io](https://www.opencve.io/cve) - Easiest way to track CVE updates and be alerted about new vulnerabilities
 - [security.snyk.io](https://security.snyk.io/) - Open Source Vulnerability Database
+- [Mend Vulnerability Database](https://www.mend.io/vulnerability-database/) - The largest open source vulnerability DB
 - [Rapid7 - DB](https://www.rapid7.com/db/) - Vulnerability & Exploit Database
 - [CVEDetails](https://www.cvedetails.com/) - The ultimate security vulnerability datasource
 - [VulnIQ](https://vulniq.com/) - Vulnerability intelligence and management solution
