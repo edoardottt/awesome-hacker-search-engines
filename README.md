@@ -257,14 +257,15 @@ These can be useful for osint and social engineering.
 - [ThreatMiner](https://www.threatminer.org/) - Data Mining for Threat Intelligence
 - [VirusTotal](https://www.virustotal.com/) - Analyze suspicious files, domains, IPs and URLs to detect malware and other breaches
 - [vx-underground.org](https://www.vx-underground.org/) - Malware library
-- [Rescure](https://rescure.me/) - Curated cyber threat intelligence for everyone
-- [otx.alienvault](https://otx.alienvault.com/) - The World's First Truly Open Threat Intelligence Community
-- [urlquery.net](https://urlquery.net/) - Service for detecting and analyzing web-based malware
 - [bazaar.abuse.ch](https://bazaar.abuse.ch/browse/) - Malware sample database
 - [feodotracker.abuse.ch](https://feodotracker.abuse.ch/browse/) - List of botnet Command&Control servers
 - [sslbl.abuse.ch](https://sslbl.abuse.ch/ssl-certificates/) - All malicious SSL certificates
 - [urlhaus.abuse.ch](https://urlhaus.abuse.ch/browse/) - Propose new malware urls
 - [threatfox.abuse.ch](https://threatfox.abuse.ch/browse/) - Indicator Of Compromise (IOC) database
+- [yaraify.abuse.ch](https://yaraify.abuse.ch/) - Scan suspicious files such as malware samples or process dumps against a large repository of YARA rules
+- [Rescure](https://rescure.me/) - Curated cyber threat intelligence for everyone
+- [otx.alienvault](https://otx.alienvault.com/) - The World's First Truly Open Threat Intelligence Community
+- [urlquery.net](https://urlquery.net/) - Service for detecting and analyzing web-based malware
 - [socradar.io](https://socradar.io/) - Extension to your SOC team
 - [VirusShare](https://virusshare.com/) - System currently contains 48 million malware samples
 - [WikiLeaks](https://wikileaks.org/) - News leaks and classified media provided by anonymous sources
