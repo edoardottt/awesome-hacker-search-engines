@@ -28,6 +28,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 </p>
 
 ### General Search Engines
+
 - [Google](https://www.google.com/)
 - [Bing](https://www.bing.com/)
 - [Yahoo!](http://www.yahoo.com/)
@@ -37,7 +38,9 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 
 
 ### Servers
+
 - [Shodan](https://shodan.io) - Search Engine for the Internet of Everything
+- [Censys Search](https://search.censys.io/) - Search Engine for every server on the Internet to reduce exposure and improve security.
 - [Onyphe.io](https://www.onyphe.io/) - Cyber Defense Search Engine for open-source and cyber threat intelligence data
 - [ZoomEye](https://www.zoomeye.org/) - Global cyberspace mapping
 - [GreyNoise](https://viz.greynoise.io/) - The source for understanding internet noise
@@ -47,6 +50,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 
 
 ### Vulnerabilities
+
 - [NIST NVD](https://nvd.nist.gov/vuln/search) - National Vulnerability Database
 - [MITRE CVE](https://cve.mitre.org/cve/search_cve_list.html) - Identify, define, and catalog publicly disclosed cybersecurity vulnerabilities
 - [GitHub Advisory Database](https://github.com/advisories) - Security vulnerability database inclusive of CVEs and GitHub originated security advisories
@@ -66,6 +70,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 
 
 ### Exploits
+
 - [Exploit-DB](https://www.exploit-db.com/) - Exploit Database
 - [Sploitus](https://sploitus.com/) - Convenient central place for identifying the newest exploits
 - [Rapid7 - DB](https://www.rapid7.com/db/) - Vulnerability & Exploit Database
@@ -77,9 +82,10 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 
 
 ### Attack Surface
+
 - [FullHunt.io](https://fullhunt.io/) - Attack surface database of the entire Internet
 - [BynaryEdge](https://www.binaryedge.io/) - We scan the web and gather data for you
-- [Censys](https://censys.io/) - Attack Surface Management Solutions
+- [Censys ASM](https://censys.io/) - Attack Surface Management Solutions
 - [RedHunt Labs](https://redhuntlabs.com/) - Discover your Attack Surface, Continuously
 - [SecurityTrails](https://securitytrails.com/) - The Total Internet Inventory
 - [criminalip.io](https://www.criminalip.io/) - Cyber Threat Intelligence Search Engine and Attack Surface Management(ASM) platform
@@ -87,6 +93,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 
 
 ### Code Search Engines
+
 - [GitHub Code Search](https://cs.github.com/) - Search globally across all of GitHub, or scope your search to a particular repository or organization
 - [grep.app](https://grep.app/) - Search across a half million git repos
 - [publicwww.com](https://publicwww.com/) - Find any alphanumeric snippet, signature or keyword in the web pages HTML, JS and CSS code
@@ -98,6 +105,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 
 
 ### Mail Addresses
+
 - [Hunter.io](https://hunter.io/) - Find professional email addresses in seconds
 - [PhoneBook](https://phonebook.cz/) - Lists all domains, email addresses, or URLs for the given input domain
 - [IntelligenceX](https://intelx.io/) - Search engine and data archive
@@ -115,6 +123,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 
 
 ### Domains
+
 - [PhoneBook](https://phonebook.cz/) - Lists all domains, email addresses, or URLs for the given input domain
 - [IntelligenceX](https://intelx.io/) - Search engine and data archive
 - [Omnisint](https://omnisint.io/subdomain-enumeration) - Subdomain enumeration
@@ -143,6 +152,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 
 
 ### URLs
+
 - [PhoneBook](https://phonebook.cz/) - Lists all domains, email addresses, or URLs for the given input domain
 - [IntelligenceX](https://intelx.io/) - Search engine and data archive
 - [URLScan](https://urlscan.io/) - A sandbox for the web
@@ -153,6 +163,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 
 
 ### DNS
+
 - [DNSDumpster](https://dnsdumpster.com/) - dns recon & research, find & lookup dns records
 - [Chaos](https://chaos.projectdiscovery.io/#/) - Enhance research and analyse changes around DNS for better insights
 - [RapidDNS](https://rapiddns.io/) - dns query tool which make querying subdomains or sites of a same ip easy
@@ -170,16 +181,18 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 
 
 ### Certificates
+
 - [Crt.sh](https://crt.sh/) - Certificate Search
 - [CTSearch](https://ui.ctsearch.entrust.com/ui/ctsearchui) - Certificate Transparency Search Tool
 - [tls.bufferover.run](https://tls.bufferover.run/) - Quickly find certificates in IPv4 space
 - [CertSpotter](https://sslmate.com/certspotter/) - Monitors your domains for expiring, unauthorized, and invalid SSL certificates
 - [SynapsInt](https://synapsint.com/) - The unified OSINT research tool
-- [Censys - Certificates](https://search.censys.io/certificates) - Certificates Search
+- [Censys Search - Certificates](https://search.censys.io/certificates) - Certificates Search
 - [PassiveTotal](https://www.riskiq.com/products/passivetotal/) - Security intelligence that scales security operations and response
 
 
 ### WiFi Networks
+
 - [Wigle.net](https://wigle.net/) - Maps and database of 802.11 wireless networks with statistics
 - [wifimap.io](https://www.wifimap.io/) - Connect to all Free WiFi Hotspots using WiFi Map App all over the World!
 - [wificafespots.com](http://www.wificafespots.com/) - Free WiFi Cafe Spots
@@ -189,6 +202,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 
 
 ### Device Information
+
 - [MAC Vendor Lookup](https://www.macvendorlookup.com/) - Look up the vendor for a specific MAC Address
 - [macvendors.com](https://macvendors.com/) - Find MAC Address Vendors. Now.
 - [macaddress.io](https://macaddress.io/) - MAC address vendor lookup
@@ -196,6 +210,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 
 
 ### Credentials
+
 - [Have I Been Pwned](https://haveibeenpwned.com/) - Check if your email or phone is in a data breach
 - [Dehashed](https://www.dehashed.com/) - Free deep-web scans and protection against credential leaks
 - [Leak-Lookup](https://leak-lookup.com/) - Search across thousands of data breaches
@@ -232,6 +247,7 @@ These can be useful for osint and social engineering.
 
 
 ### Phone Numbers
+
 - [NumLookup](https://www.numlookup.com/) - Free reverse phone lookup
 - [SpyDialer](https://spydialer.com/) - Free Reverse Lookup Search
 - [WhitePages](https://www.whitepages.com/) - Find people, contact info & background checks
@@ -252,6 +268,7 @@ These can be useful for osint and social engineering.
 
 
 ### Threat Intelligence
+
 - [MITRE ATT&CK](https://attack.mitre.org/) - Globally-accessible knowledge base of adversary tactics and techniques
 - [PulseDive](https://pulsedive.com/) - Threat intelligence made easy
 - [ThreatCrowd](https://threatcrowd.org/) - A Search Engine for Threats
@@ -277,6 +294,7 @@ These can be useful for osint and social engineering.
 
 
 ### Web History
+
 - [Web Archive](https://web.archive.org/) - Explore more than 702 billion web pages saved over time
 - [Archive.ph](https://archive.ph/) - Create a copy of a webpage that will always be up even if the original link is down
 - [CachedPages](http://www.cachedpages.com/) - Get the cached page of any URL
@@ -286,6 +304,7 @@ These can be useful for osint and social engineering.
 
 
 ### Unclassified
+
 - [NetoGraph](https://netograph.io/) - Captures and indexes detailed, low-level snapshots of website behaviour
 - [DNS.BufferOver.run](https://dns.bufferover.run/)
 
