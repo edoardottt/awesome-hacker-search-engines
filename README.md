@@ -291,6 +291,7 @@ These can be useful for osint and social engineering.
 - [malapi.io](https://malapi.io/) - Windows APIs used for malicious purposes
 - [filesec.io](https://filesec.io/) - Latest file extensions being used by attackers
 - [leakix.net](https://leakix.net/) - Search engine indexing public information and an open reporting platform linked to the results
+- [tria.ge](https://tria.ge/s) - Fully automated solution for high-volume malware analysis using advanced sandboxing technology
 
 
 ### Web History
