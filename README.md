@@ -224,7 +224,8 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 
 ### Hidden Services
 
-- [AHMIA](https://ahmia.fi/) - Search hidden services on the Tor network. 
+- [AHMIA](https://ahmia.fi/) - Search hidden services on the Tor network
+- [thehiddenwiki.org](https://thehiddenwiki.org/) - The darknet guide
 
 
 ### Social Networks
