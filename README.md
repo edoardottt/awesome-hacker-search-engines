@@ -221,6 +221,11 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [BreachForums](https://breached.to/) - Breaches, Data leaks, databases and more
 
 
+### Hidden Services
+
+- [AHMIA](https://ahmia.fi/) - Search hidden services on the Tor network. 
+
+
 ### Social Networks
 
 These can be useful for osint and social engineering.
