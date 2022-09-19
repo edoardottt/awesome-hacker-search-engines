@@ -306,6 +306,7 @@ These can be useful for osint and social engineering.
 - [leakix.net](https://leakix.net/) - Search engine indexing public information and an open reporting platform linked to the results
 - [tria.ge](https://tria.ge/s) - Fully automated solution for high-volume malware analysis using advanced sandboxing technology
 - [Polyswarm](https://polyswarm.network/) - Launchpad for new technologies and innovative threat detection methods
+- [Cisco Talos](https://talosintelligence.com/) - The threat intelligence organization at the center of the Cisco Security portfolio
 
 
 ### Web History
