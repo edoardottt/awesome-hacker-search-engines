@@ -81,6 +81,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [LOLBAS](https://lolbas-project.github.io/) - Living Off The Land Binaries, Scripts and Libraries
 - [GTFOBins](https://gtfobins.github.io/) - Curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
 - [Payloads All The Things](https://swisskyrepo.github.io/PayloadsAllTheThingsWeb/) - A list of useful payloads and bypasses for Web Application Security
+- [XSS Payloads](http://www.xss-payloads.com/) - The wonderland of JavaScript unexpected usages, and more.
 
 
 ### Attack Surface
