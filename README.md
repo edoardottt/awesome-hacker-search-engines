@@ -325,6 +325,7 @@ These can be useful for osint and social engineering.
 
 - [NetoGraph](https://netograph.io/) - Captures and indexes detailed, low-level snapshots of website behaviour
 - [DorkSearch](https://dorksearch.com/) - Speed up your Dorking
+- [usersearch.org](https://usersearch.org/) - Find someone by username or email on Social Networks, Dating Sites, Forums, Crypto Forums, Chat Sites and Blogs
 
 
 ### Not working / Paused
