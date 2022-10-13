@@ -68,6 +68,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Aqua Vulnerability Database](https://avd.aquasec.com/) - Vulnerabilities and weaknesses in open source applications and cloud native infrastructure
 - [Vulmon](https://vulmon.com/) - Vulnerability and exploit search engine
 - [VulDB](https://vuldb.com/) - Number one vulnerability database
+- [ScanFactory](https://in.scanfactory.io/cvemon.html) - Realtime Security Monitoring
 
 
 ### Exploits
