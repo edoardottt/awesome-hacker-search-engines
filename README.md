@@ -308,6 +308,7 @@ These can be useful for osint and social engineering.
 - [tria.ge](https://tria.ge/s) - Fully automated solution for high-volume malware analysis using advanced sandboxing technology
 - [Polyswarm](https://polyswarm.network/) - Launchpad for new technologies and innovative threat detection methods
 - [Cisco Talos](https://talosintelligence.com/) - The threat intelligence organization at the center of the Cisco Security portfolio
+- [scamsearch.io](https://scamsearch.io/#anchorCeckNow) - Find your scammer online & report them
 
 
 ### Web History
