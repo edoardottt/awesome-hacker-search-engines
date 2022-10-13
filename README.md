@@ -92,7 +92,6 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Censys ASM](https://censys.io/) - Attack Surface Management Solutions
 - [RedHunt Labs](https://redhuntlabs.com/) - Discover your Attack Surface, Continuously
 - [SecurityTrails](https://securitytrails.com/) - The Total Internet Inventory
-- [criminalip.io](https://www.criminalip.io/) - Cyber Threat Intelligence Search Engine and Attack Surface Management(ASM) platform
 - [overcast-security.com](https://overcast-security.com/) - We make tracking your external attack surface easy
 
 
