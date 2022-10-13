@@ -323,7 +323,11 @@ These can be useful for osint and social engineering.
 ### Unclassified
 
 - [NetoGraph](https://netograph.io/) - Captures and indexes detailed, low-level snapshots of website behaviour
+
+
+### Not working / Paused
 - [DNS.BufferOver.run](https://dns.bufferover.run/)
+
 
 ---------
 
