@@ -214,7 +214,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [crackstation.net](https://crackstation.net/) -Massive pre-computed lookup tables to crack password hashes
 - [breachdirectory.org](https://breachdirectory.org/) - Check if your information was exposed in a data breach
 - [BreachForums](https://breached.to/) - Breaches, Data leaks, databases and more
-- [Siph0n Breach DB (onionsite)](siphondkh34l5vki.onion/) -  Breaches, Data leaks, Exploits (TOR URL)
+- [Siph0n Breach DB (onionsite)](siphondkh34l5vki.onion/) -  Breaches, Data leaks, Exploits
 - [HashKiller](https://hashkiller.io/listmanager) - Pre-cracked Hashes, easily searchable
 
 ### Hidden Services
