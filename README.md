@@ -36,6 +36,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Yandex](https://yandex.com/)
 - [Ask](https://www.ask.com/)
 - [Baidu](https://www.baidu.com/)
+- [You](https://you.com/)
 
 
 ### Servers
