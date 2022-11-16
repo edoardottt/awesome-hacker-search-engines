@@ -104,6 +104,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [RepoSearch](http://codefinder.org/) - Source code search engine that helps you find implementation details, example usages or just analyze code
 - [SourceGraph](https://about.sourcegraph.com/) - Understand and search across your entire codebase
 - [HotExamples](https://hotexamples.com/) - Search code examples from over 1 million projects
+- [WP Directory](https://wpdirectory.net/) - Lightning fast regex searching of code in the WordPress Plugin and Theme Directories
 
 ### Mail Addresses
 
