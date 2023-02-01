@@ -190,6 +190,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [SynapsInt](https://synapsint.com/) - The unified OSINT research tool
 - [Censys Search - Certificates](https://search.censys.io/certificates) - Certificates Search
 - [PassiveTotal](https://www.riskiq.com/products/passivetotal/) - Security intelligence that scales security operations and response
+- [ciphersuite.info](https://ciphersuite.info/) - TLS Ciphersuite Search. Search for a particular cipher suite by using IANA, OpenSSL or GnuTLS name format
 
 ### WiFi Networks
 
