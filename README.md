@@ -306,6 +306,7 @@ These can be useful for osint and social engineering.
 - [ORKL](https://orkl.eu/) - The Community Driven Cyber Threat Intelligence Library
 - [Maltiverse](https://maltiverse.com/search) - Data from more than 100 different Threat Intelligence sources
 - [Inquest Labs](https://labs.inquest.net/) - Threat intelligence from hundreds of public, private, and internal sources to develop new FDR signatures and rules
+- [PhishTank](https://phishtank.org/) - Collaborative clearing house for data and information about phishing on the Internet
 
 ### Web History
 
