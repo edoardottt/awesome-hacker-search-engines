@@ -72,6 +72,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [ScanFactory](https://in.scanfactory.io/cvemon.html) - Realtime Security Monitoring
 - [Trend Micro Zero Day Initiative](https://www.zerodayinitiative.com/advisories/published/) - Publicly disclosed vulnerabilities discovered by Zero Day Initiative researchers
 - [Google Project Zero](https://bugs.chromium.org/p/project-zero/issues/list?can=1&q=&sort=-id&colspec=ID%20Type%20Status%20Priority%20Milestone%20Owner%20Summary) - Vulnerabilities including Zero Days
+- [Trickest CVE Repository](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
 
 ### Exploits
 
@@ -86,6 +87,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Payloads All The Things](https://swisskyrepo.github.io/PayloadsAllTheThingsWeb/) - A list of useful payloads and bypasses for Web Application Security
 - [XSS Payloads](http://www.xss-payloads.com/) - The wonderland of JavaScript unexpected usages, and more
 - [exploitalert.com](https://www.exploitalert.com/search-results.html) - Database of Exploits
+- [Reverse Shell generator](https://www.revshells.com/) - Online Reverse Shell generator with Local Storage functionality, URI & Base64 Encoding, MSFVenom Generator, and Raw Mode.
 
 ### Attack Surface
 
