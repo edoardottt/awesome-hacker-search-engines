@@ -309,6 +309,7 @@ These can be useful for osint and social engineering.
 - [Maltiverse](https://maltiverse.com/search) - Data from more than 100 different Threat Intelligence sources
 - [Inquest Labs](https://labs.inquest.net/) - Threat intelligence from hundreds of public, private, and internal sources to develop new FDR signatures and rules
 - [PhishTank](https://phishtank.org/) - Collaborative clearing house for data and information about phishing on the Internet
+- [IntelOwl](https://github.com/intelowlproject/IntelOwl) - Open Source Intelligence, or OSINT solution to get threat intelligence data about a specific file, an IP or a domain from a single API at scale
 
 ### Web History
 
