@@ -310,6 +310,7 @@ These can be useful for osint and social engineering.
 - [Inquest Labs](https://labs.inquest.net/) - Threat intelligence from hundreds of public, private, and internal sources to develop new FDR signatures and rules
 - [PhishTank](https://phishtank.org/) - Collaborative clearing house for data and information about phishing on the Internet
 - [IntelOwl](https://github.com/intelowlproject/IntelOwl) - Open Source Intelligence, or OSINT solution to get threat intelligence data about a specific file, an IP or a domain from a single API at scale
+- [Lupovis](https://prowl.lupovis.io/) - Analyze and collect data on Internet-wide scans and attacks in real-time. We use this data to identify and classify malicious actors.
 
 ### Web History
 
