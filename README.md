@@ -73,6 +73,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Trend Micro Zero Day Initiative](https://www.zerodayinitiative.com/advisories/published/) - Publicly disclosed vulnerabilities discovered by Zero Day Initiative researchers
 - [Google Project Zero](https://bugs.chromium.org/p/project-zero/issues/list?can=1&q=&sort=-id&colspec=ID%20Type%20Status%20Priority%20Milestone%20Owner%20Summary) - Vulnerabilities including Zero Days
 - [Trickest CVE Repository](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
+- [Sucuri SiteCheck](https://sitecheck.sucuri.net/) - Scan sites for errors, malware and vendor blocks.
 
 ### Exploits
 
@@ -182,6 +183,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [C99.nl](https://api.c99.nl/) - Over 57 quality API's and growing
 - [PassiveTotal](https://www.riskiq.com/products/passivetotal/) - Security intelligence that scales security operations and response
 - [wannabe1337.xyz](https://wannabe1337.xyz/) - Online Tools
+- [DNSlytics](https://dnslytics.com/) - Many tools to analyze domains and IPs. 
 
 ### Certificates
 
@@ -311,6 +313,7 @@ These can be useful for osint and social engineering.
 - [PhishTank](https://phishtank.org/) - Collaborative clearing house for data and information about phishing on the Internet
 - [IntelOwl](https://github.com/intelowlproject/IntelOwl) - Open Source Intelligence, or OSINT solution to get threat intelligence data about a specific file, an IP or a domain from a single API at scale
 - [Lupovis](https://prowl.lupovis.io/) - Analyze and collect data on Internet-wide scans and attacks in real-time. We use this data to identify and classify malicious actors.
+- [AbuseIPDB](https://www.abuseipdb.com/) - Check the report history of any IP address to see if anyone else has reported malicious activities.
 
 ### Web History
 
