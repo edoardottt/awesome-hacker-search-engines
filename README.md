@@ -73,7 +73,6 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Trend Micro Zero Day Initiative](https://www.zerodayinitiative.com/advisories/published/) - Publicly disclosed vulnerabilities discovered by Zero Day Initiative researchers
 - [Google Project Zero](https://bugs.chromium.org/p/project-zero/issues/list?can=1&q=&sort=-id&colspec=ID%20Type%20Status%20Priority%20Milestone%20Owner%20Summary) - Vulnerabilities including Zero Days
 - [Trickest CVE Repository](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
-- [Sucuri SiteCheck](https://sitecheck.sucuri.net/) - Scan sites for errors, malware and vendor blocks.
 
 ### Exploits
 
@@ -156,6 +155,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [PassiveTotal](https://www.riskiq.com/products/passivetotal/) - Security intelligence that scales security operations and response
 - [wannabe1337.xyz](https://wannabe1337.xyz/) - Online Tools
 - [subdomainfinder.c99.nl](https://subdomainfinder.c99.nl/) - Scanner that scans an entire domain to find as many subdomains as possible
+- [Sucuri SiteCheck](https://sitecheck.sucuri.net/) - Check websites for known malware, viruses, blacklisting status, website errors, out-of-date software, and malicious code.
 
 ### URLs
 
@@ -183,7 +183,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [C99.nl](https://api.c99.nl/) - Over 57 quality API's and growing
 - [PassiveTotal](https://www.riskiq.com/products/passivetotal/) - Security intelligence that scales security operations and response
 - [wannabe1337.xyz](https://wannabe1337.xyz/) - Online Tools
-- [DNSlytics](https://dnslytics.com/) - Many tools to analyze domains and IPs. 
+- [DNSlytics](https://dnslytics.com/) - Find out everything about a domain name, IP address or provider.
 
 ### Certificates
 
