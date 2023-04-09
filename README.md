@@ -92,7 +92,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 ### Attack Surface
 
 - [FullHunt.io](https://fullhunt.io/) - Attack surface database of the entire Internet
-- [BynaryEdge](https://www.binaryedge.io/) - We scan the web and gather data for you
+- [BinaryEdge](https://www.binaryedge.io/) - We scan the web and gather data for you
 - [Censys ASM](https://censys.io/) - Attack Surface Management Solutions
 - [RedHunt Labs](https://redhuntlabs.com/) - Discover your Attack Surface, Continuously
 - [SecurityTrails](https://securitytrails.com/) - The Total Internet Inventory
