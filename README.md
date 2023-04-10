@@ -182,6 +182,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [C99.nl](https://api.c99.nl/) - Over 57 quality API's and growing
 - [PassiveTotal](https://www.riskiq.com/products/passivetotal/) - Security intelligence that scales security operations and response
 - [wannabe1337.xyz](https://wannabe1337.xyz/) - Online Tools
+- [DNSlytics](https://dnslytics.com/) - Find out everything about a domain name, IP address or provider.
 
 ### Certificates
 
@@ -311,6 +312,8 @@ These can be useful for osint and social engineering.
 - [PhishTank](https://phishtank.org/) - Collaborative clearing house for data and information about phishing on the Internet
 - [IntelOwl](https://github.com/intelowlproject/IntelOwl) - Open Source Intelligence, or OSINT solution to get threat intelligence data about a specific file, an IP or a domain from a single API at scale
 - [Lupovis](https://prowl.lupovis.io/) - Analyze and collect data on Internet-wide scans and attacks in real-time. We use this data to identify and classify malicious actors.
+- [AbuseIPDB](https://www.abuseipdb.com/) - Check the report history of any IP address to see if anyone else has reported malicious activities.
+- [Sucuri SiteCheck](https://sitecheck.sucuri.net/) - Check websites for known malware, viruses, blacklisting status, website errors, out-of-date software, and malicious code.
 
 ### Web History
 
