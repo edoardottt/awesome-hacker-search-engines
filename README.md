@@ -155,6 +155,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [PassiveTotal](https://www.riskiq.com/products/passivetotal/) - Security intelligence that scales security operations and response
 - [wannabe1337.xyz](https://wannabe1337.xyz/) - Online Tools
 - [subdomainfinder.c99.nl](https://subdomainfinder.c99.nl/) - Scanner that scans an entire domain to find as many subdomains as possible
+- [AnubisDB](https://jonlu.ca/anubis/) - Subdomain enumeration and information gathering tool
 
 ### URLs
 
@@ -183,6 +184,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [PassiveTotal](https://www.riskiq.com/products/passivetotal/) - Security intelligence that scales security operations and response
 - [wannabe1337.xyz](https://wannabe1337.xyz/) - Online Tools
 - [DNSlytics](https://dnslytics.com/) - Find out everything about a domain name, IP address or provider.
+- [dnsrepo.noc.org](https://dnsrepo.noc.org/) - DNS Database Repository Search
 
 ### Certificates
 
@@ -314,6 +316,7 @@ These can be useful for osint and social engineering.
 - [Lupovis](https://prowl.lupovis.io/) - Analyze and collect data on Internet-wide scans and attacks in real-time. We use this data to identify and classify malicious actors.
 - [AbuseIPDB](https://www.abuseipdb.com/) - Check the report history of any IP address to see if anyone else has reported malicious activities.
 - [Sucuri SiteCheck](https://sitecheck.sucuri.net/) - Check websites for known malware, viruses, blacklisting status, website errors, out-of-date software, and malicious code.
+- [Spamhaus](https://spamhaus.com) - Protect and investigate using IP and domain reputation data
 
 ### Web History
 
@@ -323,6 +326,7 @@ These can be useful for osint and social engineering.
 - [stored.website](https://stored.website/) - View cached web pages/website
 - [CommonCrawl](https://commoncrawl.org/) - Open repository of web crawl data
 - [UK Web Archive](https://www.webarchive.org.uk/ukwa/) - Collects millions of websites each year, preserving them for future generations
+- [Arquivo](https://arquivo.pt/) - Non-profit service that maintains information published on the web of interest to the Portuguese community.
 
 ### Unclassified
 
