@@ -340,6 +340,7 @@ These can be useful for osint and social engineering.
 - [Sucuri SiteCheck](https://sitecheck.sucuri.net/) - Check websites for known malware, viruses, blacklisting status, website errors, out-of-date software, and malicious code
 - [Spamhaus](https://spamhaus.com) - Protect and investigate using IP and domain reputation data
 - [ThreatBook](https://threatbook.io/) - One step ahead of your adversary with high-fidelity, efficient and actionable cyber threat intelligence
+- [ShadowServer](https://www.shadowserver.org/) - Nonprofit security organization working altruistically behind the scenes to make the Internet more secure for everyone
 
 ### Web History
 
