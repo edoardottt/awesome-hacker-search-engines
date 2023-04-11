@@ -167,6 +167,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [WhoisXMLAPI](https://www.whoisxmlapi.com/) - Domain & IP Data Intelligence for Greater Enterprise Security
 - [HypeStat](https://hypestat.com/) - Free statistics and analytics service, where you can find information about every website
 - [Private Key Project](https://www.pkey.in/tools-i/search-subdomains) - Information security tools from Private Key Project
+- [SiteDossier](http://www.sitedossier.com/) - Profiles for millions of sites on the web
 
 ### URLs
 
