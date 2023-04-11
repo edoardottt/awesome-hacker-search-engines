@@ -25,7 +25,8 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#social-networks" target="_blank">Social Networks</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#phone-numbers" target="_blank">Phone numbers</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#threat-intelligence" target="_blank">Threat Intelligence</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#web-history" target="_blank">Web History</a>
+  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#web-history" target="_blank">Web History</a> •
+  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#surveillance-cameras" target="_blank">Surveillance cameras</a>
 </p>
 
 ### General Search Engines
@@ -336,12 +337,15 @@ These can be useful for osint and social engineering.
 - [Arquivo](https://arquivo.pt/) - Non-profit service that maintains information published on the web of interest to the Portuguese community
 - [Archive-It](https://archive-it.org/) - An archive of digital government and non-government organization (NGO) documents and reports
 
+### Surveillance cameras
+
+- [Insecam.org](http://www.insecam.org/en/) - The world biggest directory of online surveillance security cameras
+
 ### Unclassified
 
 - [NetoGraph](https://netograph.io/) - Captures and indexes detailed, low-level snapshots of website behaviour
 - [DorkSearch](https://dorksearch.com/) - Speed up your Dorking
 - [usersearch.org](https://usersearch.org/) - Find someone by username or email on Social Networks, Dating Sites, Forums, Crypto Forums, Chat Sites and Blogs
-- [Insecam.org](http://www.insecam.org/en/) - The world biggest directory of online surveillance security cameras
 
 ### Not working / Paused
 
