@@ -51,7 +51,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Natlas](https://natlas.io/) - Scaling Network Scanning
 - [Netlas.io](https://netlas.io/) - Discover, Research and Monitor any Assets Available Online
 - [FOFA](https://fofa.info/) - Cyberspace mapping
-
+- [Quake](https://quake.360.net/quake/#/index) - Cyberspace surveying and mapping system
 
 ### Vulnerabilities
 
@@ -108,6 +108,8 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [BGPview](https://bgpview.io/) - Debug and investigate information about IP addresses, ASN, IXs, BGP, ISPs, Prefixes and Domain names
 - [BigDataCloud](https://www.bigdatacloud.com/) - The API provides comprehensive location and network data
 - [RADb](https://www.radb.net/query) - The world's largest public routing registry
+- [Deepinfo](https://www.deepinfo.com/) - Empower your security with the most comprehensive Internet data
+- [Detectify](https://detectify.com/) - Complete External Attack Surface Management
 
 ### Code Search Engines
 
@@ -341,6 +343,8 @@ These can be useful for osint and social engineering.
 - [ThreatBook](https://threatbook.io/) - One step ahead of your adversary with high-fidelity, efficient and actionable cyber threat intelligence
 - [ShadowServer](https://www.shadowserver.org/) - Nonprofit security organization working altruistically behind the scenes to make the Internet more secure for everyone
 - [Team Cymru](https://www.team-cymru.com/) - Global leader in cyber threat intelligence and attack surface management
+- [BeVigil](https://bevigil.com/) - Search engine for mobile application security testing
+- [CIRCL](https://www.circl.lu/) - The Computer Incident Response Center Luxembourg is a government-driven initiative designed to gather, review, report and respond to computer security threats and incidents
 
 ### Web History
 
