@@ -51,6 +51,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Netlas.io](https://netlas.io/) - Discover, Research and Monitor any Assets Available Online
 - [FOFA](https://fofa.info/) - Cyberspace mapping
 
+
 ### Vulnerabilities
 
 - [NIST NVD](https://nvd.nist.gov/vuln/search) - National Vulnerability Database
@@ -97,6 +98,9 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [RedHunt Labs](https://redhuntlabs.com/) - Discover your Attack Surface, Continuously
 - [SecurityTrails](https://securitytrails.com/) - The Total Internet Inventory
 - [overcast-security.com](https://overcast-security.com/) - We make tracking your external attack surface easy
+- [IPInfo.io](https://ipinfo.io/) - The trusted source for IP address data
+- [IPData.co](https://ipdata.co/) - IP Geolocation and Threat Intelligence API
+- [NetworksDB](https://networksdb.io/) - information about the public IPv4 and IPv6 addresses, networks and domains owned by companies and organisations across the world
 
 ### Code Search Engines
 
@@ -156,6 +160,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [wannabe1337.xyz](https://wannabe1337.xyz/) - Online Tools
 - [subdomainfinder.c99.nl](https://subdomainfinder.c99.nl/) - Scanner that scans an entire domain to find as many subdomains as possible
 - [AnubisDB](https://jonlu.ca/anubis/) - Subdomain enumeration and information gathering tool
+- [WhoisXMLAPI](https://www.whoisxmlapi.com/) - Domain & IP Data Intelligence for Greater Enterprise Security
 
 ### URLs
 
