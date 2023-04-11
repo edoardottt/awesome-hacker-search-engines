@@ -197,6 +197,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [DNSlytics](https://dnslytics.com/) - Find out everything about a domain name, IP address or provider
 - [dnsrepo.noc.org](https://dnsrepo.noc.org/) - DNS Database Repository Search
 - [DNSSpy](https://dnsspy.io/) - Monitor, validate and verify your DNS configurations
+- [ZETAlytics](https://zetalytics.com/) - We offer unrivalled geographic diversity and exclusive global network visibility in searchable datasets for use by cyber security analysts
 
 ### Certificates
 
