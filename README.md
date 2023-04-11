@@ -91,6 +91,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [exploitalert.com](https://www.exploitalert.com/search-results.html) - Database of Exploits
 - [Reverse Shell generator](https://www.revshells.com/) - Online Reverse Shell generator with Local Storage functionality, URI & Base64 Encoding, MSFVenom Generator, and Raw Mode
 - [HackerOne hacktivity](https://hackerone.com/hacktivity) - See the latest hacker activity on HackerOne
+- [Bugcrowd Crowdstream](https://bugcrowd.com/crowdstream) - Showcase of accepted and disclosed submissions on Bugcrowd programs
 
 ### Attack Surface
 
