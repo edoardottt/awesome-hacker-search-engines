@@ -168,6 +168,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [HypeStat](https://hypestat.com/) - Free statistics and analytics service, where you can find information about every website
 - [Private Key Project](https://www.pkey.in/tools-i/search-subdomains) - Information security tools from Private Key Project
 - [SiteDossier](http://www.sitedossier.com/) - Profiles for millions of sites on the web
+- [SpyOnWeb](https://spyonweb.com/) - Quick and convenient search for the websites that probably belong to the same owner
 
 ### URLs
 
@@ -199,6 +200,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [dnsrepo.noc.org](https://dnsrepo.noc.org/) - DNS Database Repository Search
 - [DNSSpy](https://dnsspy.io/) - Monitor, validate and verify your DNS configurations
 - [ZETAlytics](https://zetalytics.com/) - We offer unrivalled geographic diversity and exclusive global network visibility in searchable datasets for use by cyber security analysts
+- [AskDNS](https://askdns.com/) - Lookup Connected Domain Names and IP Addresses
 
 ### Certificates
 
