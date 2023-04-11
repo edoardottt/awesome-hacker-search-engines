@@ -341,6 +341,7 @@ These can be useful for osint and social engineering.
 - [UK Web Archive](https://www.webarchive.org.uk/ukwa/) - Collects millions of websites each year, preserving them for future generations
 - [Arquivo](https://arquivo.pt/) - Non-profit service that maintains information published on the web of interest to the Portuguese community
 - [Archive-It](https://archive-it.org/) - An archive of digital government and non-government organization (NGO) documents and reports
+- [HAW](https://haw.nsk.hr/en/) - Croatian Web Archive
 
 ### Surveillance cameras
 
