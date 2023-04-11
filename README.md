@@ -207,6 +207,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Censys Search - Certificates](https://search.censys.io/certificates) - Certificates Search
 - [PassiveTotal](https://www.riskiq.com/products/passivetotal/) - Security intelligence that scales security operations and response
 - [ciphersuite.info](https://ciphersuite.info/) - TLS Ciphersuite Search. Search for a particular cipher suite by using IANA, OpenSSL or GnuTLS name format
+- [certificatedetails](https://certificatedetails.com/) - Online certificate viewer. Inspect and dowload certificates from your browser
 
 ### WiFi Networks
 
