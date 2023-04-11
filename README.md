@@ -90,6 +90,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [XSS Payloads](http://www.xss-payloads.com/) - The wonderland of JavaScript unexpected usages, and more
 - [exploitalert.com](https://www.exploitalert.com/search-results.html) - Database of Exploits
 - [Reverse Shell generator](https://www.revshells.com/) - Online Reverse Shell generator with Local Storage functionality, URI & Base64 Encoding, MSFVenom Generator, and Raw Mode
+- [HackerOne hacktivity](https://hackerone.com/hacktivity) - See the latest hacker activity on HackerOne
 
 ### Attack Surface
 
