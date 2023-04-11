@@ -165,7 +165,6 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [similarweb.com](https://www.similarweb.com/) - The easiest and fastest tool to find out what's really going on online
 - [buckets.grayhatwarfare.com](https://buckets.grayhatwarfare.com/) - Public buckets
 - [C99.nl](https://api.c99.nl/) - Over 57 quality API's and growing!
-- [PassiveTotal](https://www.riskiq.com/products/passivetotal/) - Security intelligence that scales security operations and response
 - [wannabe1337.xyz](https://wannabe1337.xyz/) - Online Tools
 - [subdomainfinder.c99.nl](https://subdomainfinder.c99.nl/) - Scanner that scans an entire domain to find as many subdomains as possible
 - [AnubisDB](https://jonlu.ca/anubis/) - Subdomain enumeration and information gathering tool
@@ -199,7 +198,6 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [DNSTwister](https://dnstwister.report/) - The anti-phishing domain name search engine and DNS monitoring service
 - [DNSviz](https://dnsviz.net/) - Tool for visualizing the status of a DNS zone
 - [C99.nl](https://api.c99.nl/) - Over 57 quality API's and growing
-- [PassiveTotal](https://www.riskiq.com/products/passivetotal/) - Security intelligence that scales security operations and response
 - [wannabe1337.xyz](https://wannabe1337.xyz/) - Online Tools
 - [DNSlytics](https://dnslytics.com/) - Find out everything about a domain name, IP address or provider
 - [dnsrepo.noc.org](https://dnsrepo.noc.org/) - DNS Database Repository Search
@@ -215,9 +213,9 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [CertSpotter](https://sslmate.com/certspotter/) - Monitors your domains for expiring, unauthorized, and invalid SSL certificates
 - [SynapsInt](https://synapsint.com/) - The unified OSINT research tool
 - [Censys Search - Certificates](https://search.censys.io/certificates) - Certificates Search
-- [PassiveTotal](https://www.riskiq.com/products/passivetotal/) - Security intelligence that scales security operations and response
 - [ciphersuite.info](https://ciphersuite.info/) - TLS Ciphersuite Search. Search for a particular cipher suite by using IANA, OpenSSL or GnuTLS name format
 - [certificatedetails](https://certificatedetails.com/) - Online certificate viewer. Inspect and dowload certificates from your browser
+- [FacebookCT](https://developers.facebook.com/tools/ct/search/) - Search for certificates issued for a given domain and subscribe to notifications from Facebook regarding new certificates
 
 ### WiFi Networks
 
@@ -341,6 +339,7 @@ These can be useful for osint and social engineering.
 - [Spamhaus](https://spamhaus.com) - Protect and investigate using IP and domain reputation data
 - [ThreatBook](https://threatbook.io/) - One step ahead of your adversary with high-fidelity, efficient and actionable cyber threat intelligence
 - [ShadowServer](https://www.shadowserver.org/) - Nonprofit security organization working altruistically behind the scenes to make the Internet more secure for everyone
+- [Team Cymru](https://www.team-cymru.com/) - Global leader in cyber threat intelligence and attack surface management
 
 ### Web History
 
