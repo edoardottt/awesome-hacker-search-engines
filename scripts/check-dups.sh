@@ -1,4 +1,7 @@
 #!/bin/bash
+#
+# This script checks if there are duplicate entries in the README file.
+#
 
 readme="README.md"
 
