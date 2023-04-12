@@ -1,8 +1,13 @@
 #!/bin/bash
 
-echo $(pwd)
-
 readme="README.md"
+
+pwd=$(pwd)
+
+if [[ "${pwd: -7}" == "scripts" ]];
+then
+    readme="../README.md"    
+fi
 
 links=$(cat $readme | egrep "\- \[" | wc -l)
 
