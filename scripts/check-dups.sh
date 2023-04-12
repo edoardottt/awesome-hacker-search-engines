@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo $(pwd)
+
 readme="README.md"
 
 links=$(cat $readme | egrep "\- \[" | wc -l)
