@@ -125,6 +125,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [HotExamples](https://hotexamples.com/) - Search code examples from over 1 million projects
 - [WP Directory](https://wpdirectory.net/) - Lightning fast regex searching of code in the WordPress Plugin and Theme Directories
 - [GitHub Gists](https://gist.github.com/discover) - Instantly share code, notes, and snippets
+- [CodeBerg](https://codeberg.org/explore/repos) - Collaboration platform and Git hosting for free and open source software, content and projects.
 
 ### Mail Addresses
 
