@@ -133,6 +133,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [gitorious.org](https://gitorious.org/) - Read-only mirror of the former gitorious.org code hosting website
 - [Sourcehut](https://sr.ht/projects) - Collection of tools useful for software development
 - [android.googlesource.com](https://android.googlesource.com/) - Git repositories on android
+- [deps.dev](https://deps.dev/) - Service developed and hosted by Google to help developers better understand the structure, construction, and security of open source software packages
 
 ### Mail Addresses
 
