@@ -26,7 +26,8 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#phone-numbers" target="_blank">Phone numbers</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#threat-intelligence" target="_blank">Threat Intelligence</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#web-history" target="_blank">Web History</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#surveillance-cameras" target="_blank">Surveillance cameras</a>
+  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#surveillance-cameras" target="_blank">Surveillance cameras</a> •
+  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#Podcast" target="_blank">Podcast</a>
 </p>
 
 ### General Search Engines
@@ -362,6 +363,11 @@ These can be useful for osint and social engineering.
 ### Surveillance cameras
 
 - [Insecam.org](http://www.insecam.org/en/) - The world biggest directory of online surveillance security cameras
+
+### Podcast
+
+- [Listen Notes](https://www.listennotes.com) - a podcast search engine to look for whether the target do any podcast.
+- [Podcast Online](http://www.podcasts-online.org) - another podcast search engine.
 
 ### Unclassified
 
