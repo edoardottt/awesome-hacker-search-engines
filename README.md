@@ -128,6 +128,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [GitHub Gists](https://gist.github.com/discover) - Instantly share code, notes, and snippets
 - [CodeBerg](https://codeberg.org/explore/repos) - Collaboration platform and Git hosting for free and open source software, content and projects
 - [Fedora Pagure](https://pagure.io/browse/projects/) - Open Source software code hosting system
+- [LaunchPad](https://launchpad.net/) - Software collaboration platform that provides: Bug tracking, Code hosting, Code reviews, Ubuntu package building and hosting, Translations...
 
 ### Mail Addresses
 
