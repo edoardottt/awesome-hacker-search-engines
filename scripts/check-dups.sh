@@ -19,7 +19,7 @@ uniqlinks=$(cat $readme | egrep "\- \[" | uniq | wc -l)
 if [[ $links -eq $uniqlinks ]];
 then
     echo "[ OK! ] NO DUPLICATES FOUND."
-    echo $links | wc -l
+    echo "$links links in README."
 else
     echo "[ ERR ] DUPLICATES FOUND!"
     cat $readme | egrep "\- \[" | uniq -c | egrep -iv "1 - ["
