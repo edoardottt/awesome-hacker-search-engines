@@ -152,6 +152,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [SynapsInt](https://synapsint.com/) - The unified OSINT research tool
 - [skymem.info](http://www.skymem.info/) - Find email addresses of companies and people
 - [findemails.com](https://www.findemails.com/) - Find Anyone's Email Address in Seconds
+- [Experte email finder](https://www.experte.com/email-finder) - Find the right email address, even if you only know the name and the company
 
 ### Domains
 
