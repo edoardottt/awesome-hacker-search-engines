@@ -94,6 +94,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [HackerOne hacktivity](https://hackerone.com/hacktivity) - See the latest hacker activity on HackerOne
 - [Bugcrowd Crowdstream](https://bugcrowd.com/crowdstream) - Showcase of accepted and disclosed submissions on Bugcrowd programs
 - [GTFOArgs](https://gtfoargs.github.io/) - Curated list of Unix binaries that can be manipulated for argument injection
+- [shell-storm.org/shellcode](https://shell-storm.org/shellcode/index.html) - Shellcodes database for study cases
 
 ### Attack Surface
 
