@@ -3,7 +3,8 @@
         429,
         200,
         202,
-        403
+        403,
+        400
     ],
     "timeout": "20s",
     "httpHeaders": [
@@ -17,6 +18,11 @@
             "headers": {
                 "Accept-Encoding": "zstd, br, gzip, deflate"
             }
+        }
+    ],
+    "ignorePatterns": [
+        {
+            "pattern": ".onion$"
         }
     ]
 }
