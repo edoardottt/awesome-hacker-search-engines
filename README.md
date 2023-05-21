@@ -386,7 +386,11 @@ These can be useful for osint and social engineering.
 
 ### Not working / Paused
 
+<!-- markdown-link-check-disable -->
+
 - [DNS.BufferOver.run](https://dns.bufferover.run/)
+
+<!-- markdown-link-check-enable -->
 
 ---------
 
