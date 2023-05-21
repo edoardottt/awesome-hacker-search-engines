@@ -17,3 +17,4 @@ jobs:
       with:
         use-quiet-mode: 'yes'
         config-file: '.github/mlc_config.json'
+        file-path: './README.md'

@@ -1,8 +1,11 @@
 {
     "aliveStatusCodes": [
         429,
-        200
+        200,
+        202,
+        403
     ],
+    "timeout": "20s",
     "httpHeaders": [
         {
             "urls": [
