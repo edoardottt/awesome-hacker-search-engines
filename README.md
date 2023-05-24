@@ -96,6 +96,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [GTFOArgs](https://gtfoargs.github.io/) - Curated list of Unix binaries that can be manipulated for argument injection
 - [shell-storm.org/shellcode](https://shell-storm.org/shellcode/index.html) - Shellcodes database for study cases
 - [Hacking the Cloud](https://hackingthe.cloud/) - Encyclopedia of the attacks/tactics/techniques that offensive security professionals can use on their next cloud exploitation adventure
+- [LOLDrivers](https://www.loldrivers.io/) - Open-source project that brings together vulnerable, malicious, and known malicious Windows drivers
 
 ### Attack Surface
 
