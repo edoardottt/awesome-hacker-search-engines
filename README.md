@@ -252,7 +252,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [macaddress.io](https://macaddress.io/) - MAC address vendor lookup
 - [maclookup.app](https://maclookup.app/) - Find the vendor name of a device by entering an OUI or a MAC address
 
-### Credentials
+### Credentials and Leaks
 
 - [Have I Been Pwned](https://haveibeenpwned.com/) - Check if your email or phone is in a data breach
 - [Dehashed](https://www.dehashed.com/) - Free deep-web scans and protection against credential leaks
