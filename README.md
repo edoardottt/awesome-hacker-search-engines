@@ -20,7 +20,8 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#certificates" target="_blank">Certificates</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#wifi-networks" target="_blank">WiFi networks</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#device-information" target="_blank">Device Info</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#credentials-and-leaks" target="_blank">Credentials and Leaks</a> •
+  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#credentials" target="_blank">Credentials</a> •
+  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#leaks" target="_blank">Leaks</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#hidden-services" target="_blank">Hidden Services</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#social-networks" target="_blank">Social Networks</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#phone-numbers" target="_blank">Phone numbers</a> •
@@ -252,18 +253,22 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [macaddress.io](https://macaddress.io/) - MAC address vendor lookup
 - [maclookup.app](https://maclookup.app/) - Find the vendor name of a device by entering an OUI or a MAC address
 
-### Credentials and Leaks
+### Credentials
 
 - [Have I Been Pwned](https://haveibeenpwned.com/) - Check if your email or phone is in a data breach
 - [Dehashed](https://www.dehashed.com/) - Free deep-web scans and protection against credential leaks
-- [Leak-Lookup](https://leak-lookup.com/) - Search across thousands of data breaches
-- [Snusbase](https://snusbase.com/) - Stay on top of the latest database breaches
 - [LeakCheck.io](https://leakcheck.io/) - Make sure your credentials haven't been compromised
 - [crackstation.net](https://crackstation.net/) -Massive pre-computed lookup tables to crack password hashes
+- [HashKiller](https://hashkiller.io/listmanager) - Pre-cracked Hashes, easily searchable
+
+### Leaks
+
+- [WikiLeaks](https://wikileaks.org/) - News leaks and classified media provided by anonymous sources
+- [Leak-Lookup](https://leak-lookup.com/) - Search across thousands of data breaches
+- [Snusbase](https://snusbase.com/) - Stay on top of the latest database breaches
 - [breachdirectory.org](https://breachdirectory.org/) - Check if your information was exposed in a data breach
 - [BreachForums](https://breached.to/) - Breaches, Data leaks, databases and more
 - [Siph0n Breach DB (onionsite)](siphondkh34l5vki.onion/) -  Breaches, Data leaks, Exploits
-- [HashKiller](https://hashkiller.io/listmanager) - Pre-cracked Hashes, easily searchable
 - [Exposed Forum](https://exposed.vc/) - The premier Databreach discussion & leaks forum
 
 ### Hidden Services
@@ -338,7 +343,6 @@ These can be useful for osint and social engineering.
 - [urlquery.net](https://urlquery.net/) - Service for detecting and analyzing web-based malware
 - [socradar.io](https://socradar.io/) - Extension to your SOC team
 - [VirusShare](https://virusshare.com/) - System currently contains 48 million malware samples
-- [WikiLeaks](https://wikileaks.org/) - News leaks and classified media provided by anonymous sources
 - [PassiveTotal](https://www.riskiq.com/products/passivetotal/) - Security intelligence that scales security operations and response
 - [malapi.io](https://malapi.io/) - Windows APIs used for malicious purposes
 - [filesec.io](https://filesec.io/) - Latest file extensions being used by attackers
