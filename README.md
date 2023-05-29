@@ -264,6 +264,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [BreachForums](https://breached.to/) - Breaches, Data leaks, databases and more
 - [Siph0n Breach DB (onionsite)](siphondkh34l5vki.onion/) -  Breaches, Data leaks, Exploits
 - [HashKiller](https://hashkiller.io/listmanager) - Pre-cracked Hashes, easily searchable
+- [Exposed Forum](https://exposed.vc/) - The premier Databreach discussion & leaks forum
 
 ### Hidden Services
 
