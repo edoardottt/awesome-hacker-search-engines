@@ -78,6 +78,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Google Project Zero](https://bugs.chromium.org/p/project-zero/issues/list?can=1&q=&sort=-id&colspec=ID%20Type%20Status%20Priority%20Milestone%20Owner%20Summary) - Vulnerabilities including Zero Days
 - [Trickest CVE Repository](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC
 - [cnvd.org.cn](https://www.cnvd.org.cn/) - Chinese National Vulnerability Database
+- [InTheWild.io](https://inthewild.io/feed) - Check CVEs in our free, open source feed of exploited vulnerabilities
 
 ### Exploits
 
