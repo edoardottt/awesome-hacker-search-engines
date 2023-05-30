@@ -57,7 +57,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 
 ### Vulnerabilities
 
-- [NIST NVD](https://nvd.nist.gov/vuln/search) - National Vulnerability Database
+- [NIST NVD](https://nvd.nist.gov/vuln/search) - US National Vulnerability Database
 - [MITRE CVE](https://cve.mitre.org/cve/search_cve_list.html) - Identify, define, and catalog publicly disclosed cybersecurity vulnerabilities
 - [GitHub Advisory Database](https://github.com/advisories) - Security vulnerability database inclusive of CVEs and GitHub originated security advisories
 - [cloudvulndb.org](https://www.cloudvulndb.org/) - The Open Cloud Vulnerability & Security Issue Database
@@ -77,6 +77,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Trend Micro Zero Day Initiative](https://www.zerodayinitiative.com/advisories/published/) - Publicly disclosed vulnerabilities discovered by Zero Day Initiative researchers
 - [Google Project Zero](https://bugs.chromium.org/p/project-zero/issues/list?can=1&q=&sort=-id&colspec=ID%20Type%20Status%20Priority%20Milestone%20Owner%20Summary) - Vulnerabilities including Zero Days
 - [Trickest CVE Repository](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC
+- [cnvd.org.cn](https://www.cnvd.org.cn/) - Chinese National Vulnerability Database
 
 ### Exploits
 
