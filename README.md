@@ -100,6 +100,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [shell-storm.org/shellcode](https://shell-storm.org/shellcode/index.html) - Shellcodes database for study cases
 - [Hacking the Cloud](https://hackingthe.cloud/) - Encyclopedia of the attacks/tactics/techniques that offensive security professionals can use on their next cloud exploitation adventure
 - [LOLDrivers](https://www.loldrivers.io/) - Open-source project that brings together vulnerable, malicious, and known malicious Windows drivers
+- [PwnWiki](http://pwnwiki.io/) - Collection of TTPs (tools, tactics, and procedures) for what to do after access has been gained
 
 ### Attack Surface
 
