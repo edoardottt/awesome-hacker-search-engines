@@ -19,6 +19,14 @@
             "headers": {
                 "Accept-Encoding": "zstd, br, gzip, deflate"
             }
+        },
+        {
+            "urls": [
+                "http"
+            ],
+            "headers": {
+                "User-Agent": "GitHub Action"
+            }
         }
     ],
     "ignorePatterns": [
