@@ -327,6 +327,7 @@ These can be useful for osint and social engineering.
 - [SynapsInt](https://synapsint.com/) - The unified OSINT research tool
 - [C99.nl](https://api.c99.nl/) - Over 57 quality API's and growing
 - [ValidNumber.com](https://validnumber.com/) - Free reverse phone lookup service to let you identify a caller associated with any 10-digit phone number from the US and Canada
+- [CellIdFinder](https://cellidfinder.com/) - Nonprofit project wich helps you to find GSM BTS by MCC, MNC, LAC and CellID
 
 ### Threat Intelligence
 
