@@ -326,6 +326,7 @@ These can be useful for osint and social engineering.
 - [Tellows](https://www.tellows.com/) - Who is calling? The phone number reverse search
 - [SynapsInt](https://synapsint.com/) - The unified OSINT research tool
 - [C99.nl](https://api.c99.nl/) - Over 57 quality API's and growing
+- [ValidNumber.com](https://validnumber.com/) - Free reverse phone lookup service to let you identify a caller associated with any 10-digit phone number from the US and Canada
 
 ### Threat Intelligence
 
