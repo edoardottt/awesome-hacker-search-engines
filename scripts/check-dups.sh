@@ -1,5 +1,7 @@
 #!/bin/bash
 #
+# https://github.com/edoardottt/awesome-hacker-search-engines
+#
 # This script checks if there are duplicate entries in the README file.
 #
 
