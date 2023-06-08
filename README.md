@@ -143,6 +143,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Sourcehut](https://sr.ht/projects) - Collection of tools useful for software development
 - [android.googlesource.com](https://android.googlesource.com/) - Git repositories on android
 - [deps.dev](https://deps.dev/) - Service developed and hosted by Google to help developers better understand the structure, construction, and security of open source software packages
+- [WebFinery](https://webfinery.com/search) - Search the source code of the web
 
 ### Mail Addresses
 
