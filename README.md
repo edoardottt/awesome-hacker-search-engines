@@ -369,6 +369,7 @@ These can be useful for osint and social engineering.
 - [Team Cymru](https://www.team-cymru.com/) - Global leader in cyber threat intelligence and attack surface management
 - [BeVigil](https://bevigil.com/) - Search engine for mobile application security testing
 - [CIRCL](https://www.circl.lu/) - The Computer Incident Response Center Luxembourg is a government-driven initiative designed to gather, review, report and respond to computer security threats and incidents
+- [MetaDefender Cloud](https://metadefender.opswat.com/) - Advanced threat detection and prevention platform
 
 ### Web History
 
