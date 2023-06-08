@@ -6,7 +6,7 @@
         403,
         400
     ],
-    "timeout": "20s",
+    "timeout": "30s",
     "httpHeaders": [
         {
             "urls": [
