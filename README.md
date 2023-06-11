@@ -264,6 +264,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [LeakCheck.io](https://leakcheck.io/) - Make sure your credentials haven't been compromised
 - [crackstation.net](https://crackstation.net/) -Massive pre-computed lookup tables to crack password hashes
 - [HashKiller](https://hashkiller.io/listmanager) - Pre-cracked Hashes, easily searchable
+- [LeakedPassword](https://leakedpassword.com/) - Search across multiple data breaches to see if your pass has been compromised
 
 ### Leaks
 
