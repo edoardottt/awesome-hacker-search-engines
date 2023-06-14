@@ -265,6 +265,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [crackstation.net](https://crackstation.net/) -Massive pre-computed lookup tables to crack password hashes
 - [HashKiller](https://hashkiller.io/listmanager) - Pre-cracked Hashes, easily searchable
 - [LeakedPassword](https://leakedpassword.com/) - Search across multiple data breaches to see if your pass has been compromised
+- [BugMeNot](https://bugmenot.com/) - Find and share logins
 
 ### Leaks
 
