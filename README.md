@@ -45,6 +45,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 ### Servers
 
 - [Shodan](https://shodan.io) - Search Engine for the Internet of Everything
+- [Criminal IP](https://www.criminalip.io/en) - Search Engine that provides all and selective information based on IP addresses
 - [Censys Search](https://search.censys.io/) - Search Engine for every server on the Internet to reduce exposure and improve security
 - [Onyphe.io](https://www.onyphe.io/) - Cyber Defense Search Engine for open-source and cyber threat intelligence data
 - [ZoomEye](https://www.zoomeye.org/) - Global cyberspace mapping
@@ -104,6 +105,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 
 ### Attack Surface
 
+- [Criminal IP ASM](https://www.criminalip.io/en/asm/attack-surface-management) - Solution Based on Threat Intelligence
 - [FullHunt.io](https://fullhunt.io/) - Attack surface database of the entire Internet
 - [BinaryEdge](https://www.binaryedge.io/) - We scan the web and gather data for you
 - [Censys ASM](https://censys.io/) - Attack Surface Management Solutions
