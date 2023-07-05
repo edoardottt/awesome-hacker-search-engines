@@ -229,6 +229,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [ZETAlytics](https://zetalytics.com/) - We offer unrivalled geographic diversity and exclusive global network visibility in searchable datasets for use by cyber security analysts
 - [AskDNS](https://askdns.com/) - Lookup Connected Domain Names and IP Addresses
 - [360 PassiveDNS.CN](https://passivedns.cn/) - Biggest public available db in China designed for security and research purpose
+- [MXtoolbox](https://mxtoolbox.com/SuperTool.aspx) - All of your MX record, DNS, blacklist and SMTP diagnostics in one integrated tool
 
 ### Certificates
 
@@ -253,7 +254,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 
 ### Device Information
 
-- [MAC Vendor Lookup](https://www.macvendorlookup.com/) - Look up the vendor for a specific MAC Address
+- [MACVendorLookup.com](https://www.macvendorlookup.com/) - Look up the vendor for a specific MAC Address
 - [macvendors.com](https://macvendors.com/) - Find MAC Address Vendors. Now
 - [macaddress.io](https://macaddress.io/) - MAC address vendor lookup
 - [maclookup.app](https://maclookup.app/) - Find the vendor name of a device by entering an OUI or a MAC address
