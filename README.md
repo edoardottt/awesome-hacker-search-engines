@@ -334,6 +334,7 @@ These can be useful for osint and social engineering.
 - [CellIdFinder](https://cellidfinder.com/) - Nonprofit project wich helps you to find GSM BTS by MCC, MNC, LAC and CellID
 - [OldPhoneBook](http://www.oldphonebook.com/) - Intantly search a large selection from the past 20 years of USA phone listings
 - [Spokeo](https://www.spokeo.com/) - Search by name, phone, address, or email to confidentially lookup information about people you know
+- [Intelius Phone Lookup](https://www.intelius.com/reverse-phone-lookup/) - Look up a phone number to find owner information, carrier details, and more!
 
 ### Threat Intelligence
 
