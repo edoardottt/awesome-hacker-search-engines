@@ -230,6 +230,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [AskDNS](https://askdns.com/) - Lookup Connected Domain Names and IP Addresses
 - [360 PassiveDNS.CN](https://passivedns.cn/) - Biggest public available db in China designed for security and research purpose
 - [MXtoolbox](https://mxtoolbox.com/SuperTool.aspx) - All of your MX record, DNS, blacklist and SMTP diagnostics in one integrated tool
+- [NSLookup.io](https://www.nslookup.io/) - Find all DNS records for a domain name using this online tool
 
 ### Certificates
 
