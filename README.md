@@ -337,6 +337,7 @@ These can be useful for osint and social engineering.
 - [Intelius Phone Lookup](https://www.intelius.com/reverse-phone-lookup/) - Look up a phone number to find owner information, carrier details, and more
 - [ZabaSearch Phone Lookup](https://www.zabasearch.com/reverse-phone-lookup/) - Reverse Phone Lookup Tool Can Uncover Personal Information, Social Media Data, Online Activity, Photos, and More
 - [AnyWho Phone Lookup](https://www.anywho.com/reverse-phone-lookup/) - Find out information associated with a phone number
+- [Radaris Phone Lookup](https://radaris.com/#findPhoneH) - Look up any phone number to see its owner and identify who's calling or texting you
 
 ### Threat Intelligence
 
