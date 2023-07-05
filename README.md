@@ -378,6 +378,7 @@ These can be useful for osint and social engineering.
 - [CIRCL](https://www.circl.lu/) - The Computer Incident Response Center Luxembourg is a government-driven initiative designed to gather, review, report and respond to computer security threats and incidents
 - [MetaDefender Cloud](https://metadefender.opswat.com/) - Advanced threat detection and prevention platform
 - [Cybersixgill](https://cybersixgill.com/) - Threat intelligence platform that provides access to a wide range of cybersecurity information, including dark web monitoring and threat actor analysis.
+- [Hybrid Analysis](https://www.hybrid-analysis.com/) - Free malware analysis service for the community that detects and analyzes unknown threats using a unique Hybrid Analysis technology.
 
 ### Web History
 
