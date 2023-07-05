@@ -333,6 +333,7 @@ These can be useful for osint and social engineering.
 - [ValidNumber.com](https://validnumber.com/) - Free reverse phone lookup service to let you identify a caller associated with any 10-digit phone number from the US and Canada
 - [CellIdFinder](https://cellidfinder.com/) - Nonprofit project wich helps you to find GSM BTS by MCC, MNC, LAC and CellID
 - [OldPhoneBook](http://www.oldphonebook.com/) - Intantly search a large selection from the past 20 years of USA phone listings
+- [Spokeo](https://www.spokeo.com/) - Search by name, phone, address, or email to confidentially lookup information about people you know
 
 ### Threat Intelligence
 
