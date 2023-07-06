@@ -80,6 +80,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [cnvd.org.cn](https://www.cnvd.org.cn/) - Chinese National Vulnerability Database
 - [InTheWild.io](https://inthewild.io/feed) - Check CVEs in our free, open source feed of exploited vulnerabilities
 - [Vulnerability Lab](https://www.vulnerability-lab.com/) - Vulnerability research, bug bounties and vulnerability assessments
+- [Red Hat Security Advisories](https://access.redhat.com/security/security-updates/) - Information about security flaws that affect Red Hat products and services in the form of security advisories
 
 ### Exploits
 
