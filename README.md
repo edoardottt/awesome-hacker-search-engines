@@ -170,6 +170,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [findemails.com](https://www.findemails.com/) - Find Anyone's Email Address in Seconds
 - [Experte email finder](https://www.experte.com/email-finder) - Find the right email address, even if you only know the name and the company
 - [EmailSherlock](https://www.emailsherlock.com/) - Search for the Person behind the Email address and find our reputation score
+- [Anymail Finder](https://anymailfinder.com/) - Find verified emails
 
 ### Domains
 
