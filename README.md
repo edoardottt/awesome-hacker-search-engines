@@ -128,7 +128,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 
 ### Code Search Engines
 
-- [GitHub Code Search](https://cs.github.com/) - Search globally across all of GitHub, or scope your search to a particular repository or organization
+- [GitHub Code Search](https://github.com/search?type=code) - Search globally across all of GitHub, or scope your search to a particular repository or organization
 - [GitLab Code Search](https://gitlab.com/) - Advanced search for faster, more efficient search across the entire GitLab instance
 - [Sourceforge](https://sourceforge.net/) - Complete Open-Source and Business Software Platform
 - [grep.app](https://grep.app/) - Search across a half million git repos
@@ -149,6 +149,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [android.googlesource.com](https://android.googlesource.com/) - Git repositories on android
 - [deps.dev](https://deps.dev/) - Service developed and hosted by Google to help developers better understand the structure, construction, and security of open source software packages
 - [WebFinery](https://webfinery.com/search) - Search the source code of the web
+- [Google Code Archive](https://code.google.com/archive/) - Data found on the Google Code Project Hosting Service, which was turned down in early 2016.
 
 ### Mail Addresses
 
