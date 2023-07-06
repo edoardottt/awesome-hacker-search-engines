@@ -81,6 +81,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [InTheWild.io](https://inthewild.io/feed) - Check CVEs in our free, open source feed of exploited vulnerabilities
 - [Vulnerability Lab](https://www.vulnerability-lab.com/) - Vulnerability research, bug bounties and vulnerability assessments
 - [Red Hat Security Advisories](https://access.redhat.com/security/security-updates/) - Information about security flaws that affect Red Hat products and services in the form of security advisories
+- [Cisco Security Advisories](https://sec.cloudapps.cisco.com/security/center/publicationListing.x) - Security advisories and vulnerability information for Cisco products, including network equipment and software
 
 ### Exploits
 
