@@ -149,7 +149,8 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [android.googlesource.com](https://android.googlesource.com/) - Git repositories on android
 - [deps.dev](https://deps.dev/) - Service developed and hosted by Google to help developers better understand the structure, construction, and security of open source software packages
 - [WebFinery](https://webfinery.com/search) - Search the source code of the web
-- [Google Code Archive](https://code.google.com/archive/) - Data found on the Google Code Project Hosting Service, which was turned down in early 2016.
+- [Google Code Archive](https://code.google.com/archive/) - Data found on the Google Code Project Hosting Service, which was turned down in early 2016
+- [Snipplr](https://snipplr.com/all) - Code snippet search engine that allows users to search and share code snippets across various programming languages and frameworks
 
 ### Mail Addresses
 
