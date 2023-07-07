@@ -216,6 +216,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [shorteners.grayhatwarfare.com](https://shorteners.grayhatwarfare.com/) - Search URLs exposed by Shortener services
 - [CommonCrawl Index](http://index.commoncrawl.org/) - Open repository of web crawl data
 - [URLVoid](https://www.urlvoid.com/) - Check the online reputation/safety of a website
+- [Norton SafeWeb](https://safeweb.norton.com/) - Look up a site, Get our rating
 
 ### DNS
 
