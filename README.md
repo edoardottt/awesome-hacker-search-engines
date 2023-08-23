@@ -27,11 +27,12 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#phone-numbers" target="_blank">Phone numbers</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#threat-intelligence" target="_blank">Threat Intelligence</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#web-history" target="_blank">Web History</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#surveillance-cameras" target="_blank">Surveillance cameras</a>
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#alternative-search-engines" target="_blank">Alternative Search Engines</a>
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#specialty-search-engines" target="_blank">Specialty Search Engines</a>
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#open-source-search-engines" target="_blank">Open Source Search Engines</a>
+  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#surveillance-cameras" target="_blank">Surveillance cameras</a> •
+  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#alternative-search-engines" target="_blank">Alternative Search Engines</a> •
+  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#specialty-search-engines" target="_blank">Specialty Search Engines</a> •
+  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#open-source-search-engines" target="_blank">Open Source Search Engines</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#international-search-engines" target="_blank">International Search Engines</a>
+  
 </p>
 
 ### General Search Engines
