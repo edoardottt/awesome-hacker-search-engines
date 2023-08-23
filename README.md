@@ -28,6 +28,10 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#threat-intelligence" target="_blank">Threat Intelligence</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#web-history" target="_blank">Web History</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#surveillance-cameras" target="_blank">Surveillance cameras</a>
+  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#alternative-search-engines" target="_blank">Alternative Search Engines</a>
+  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#specialty-search-engines" target="_blank">Specialty Search Engines</a>
+  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#open-source-search-engines" target="_blank">Open Source Search Engines</a>
+  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#international-search-engines" target="_blank">International Search Engines</a>
 </p>
 
 ### General Search Engines
@@ -417,6 +421,42 @@ These can be useful for osint and social engineering.
 
 - [Insecam.org](http://www.insecam.org/en/) - The world biggest directory of online surveillance security cameras
 - [Surveillance under Surveillance](https://sunders.uber.space/) - Cameras and guards watching you almost everywhere
+
+### Alternative Search Engines
+
+- [Mojeek.com](https://www.mojeek.com/) - Independent search engine which does not track you.
+- [Gibiru](https://gibiru.com/) - Uncensored Private Search
+- [MetaGer](https://metager.org/) - Non-profit search engine based on privacy and freedom, located in Germany.
+- [You](https://you.com/) - An AI-Powered Search Engine.
+- [Ecosia](https://www.ecosia.org/) - The search engine that plants trees.
+- [Swisscows](https://swisscows.com/) - Switzerland-based private search engine that does very well with privacy and security.
+- [InfoTiger](https://infotiger.com/) - Independent, privacy respecting search engine.
+- [Oscobo](https://www.oscobo.com/) - Privacy protecting search that using no third-party tools. 
+- [Infinity Search](https://infinitysearch.co/) - Alternative search engine with a special focus on privacy.
+- [Disconnect](https://search.disconnect.me/) - Conduct anonymous searches through a search engine of your choice.
+- [Search Encrypt](https://www.searchencrypt.com/) - Another privacy-based search engine which uses local encryption to ensure that users’ identifiable information cannot be tracked.
+- [Qwant](https://www.qwant.com/) - Privacy-based search engine that won’t record your searches or use your personal details for advertising; Based in France.
+- [Lukol](https://www.lukol.com/) - Anonymous search engine that serves results from Google but maintains your privacy by removing any traceable elements.
+- [StartPage](https://www.startpage.com/) - A safer way to search and browse online without personal data collection, tracking or targeting.
+  
+### Specialty Search Engines
+
+- [Presearch](https://presearch.io/) - Decentralized Search Engine.
+- [WolframAlpha](https://www.wolframalpha.com/) - Making the world's knowledge computable.
+- [Openverse](http://openverse.org) - A Copyright-Free Search Engine.
+- [Boardreader](https://boardreader.com/) - Search engine for forums and message boards. It allows you to search forums and then filter down results by date and language.
+- [Seekr](http://seekr.com) - A revolutionary AI scoring engine that rates content for reliability and reveals political lean.
+  
+### Open Source Search Engines
+
+- [SearX](https://searx.thegpm.org) - A privacy-respecting, open metasearch engine with many instances: https://searx.space/.
+  
+## International Search Engines
+
+- [Baidu](https://www.baidu.com/) - Baidu is the largest search engine in China and has a 65% market share.
+- [Yandex](https://yandex.com/) - Yandex is used by more than 54% of Russian internet users. It is also used in Belarus, Kazakhstan, Turkey, and Ukraine.
+- [Sogou](https://www.sogou.com/) - Sogou is a Chinese search engine that is growing in popularity.
+- [Naver](https://www.naver.com/) - Naver is the largest search engine in South Korea, offering a range of services including blogs, news, music, and shopping.
 
 ### Unclassified
 
