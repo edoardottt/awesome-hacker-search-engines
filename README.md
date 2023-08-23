@@ -31,7 +31,8 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#alternative-search-engines" target="_blank">Alternative Search Engines</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#specialty-search-engines" target="_blank">Specialty Search Engines</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#open-source-search-engines" target="_blank">Open Source Search Engines</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#international-search-engines" target="_blank">International Search Engines</a>
+  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#international-search-engines" target="_blank">International Search Engines</a> •
+  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#unclassified" target="_blank">Unclassified</a>
   
 </p>
 
