@@ -1,0 +1,37 @@
+{
+    "aliveStatusCodes": [
+        429,
+        200,
+        202,
+        403,
+        400
+    ],
+    "timeout": "30s",
+    "httpHeaders": [
+        {
+            "urls": [
+                "https://github.com/",
+                "https://guides.github.com/",
+                "https://help.github.com/",
+                "https://gist.github.com/",
+                "https://docs.github.com/"
+            ],
+            "headers": {
+                "Accept-Encoding": "zstd, br, gzip, deflate"
+            }
+        },
+        {
+            "urls": [
+                "http"
+            ],
+            "headers": {
+                "User-Agent": "GitHub Action"
+            }
+        }
+    ],
+    "ignorePatterns": [
+        {
+            "pattern": ".onion$"
+        }
+    ]
+}

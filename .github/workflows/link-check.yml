@@ -1,0 +1,17 @@
+name: Check Markdown links
+
+on:
+  schedule:
+  # Run at 9:00 AM every Friday
+  - cron: "0 9 * * 5"
+
+jobs:
+  markdown-link-check:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - uses: gaurav-nelson/github-action-markdown-link-check@v1
+      with:
+        use-verbose-mode: 'yes'
+        config-file: '.github/mlc_config.json'
+        file-path: './README.md'
