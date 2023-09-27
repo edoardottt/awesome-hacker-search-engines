@@ -255,6 +255,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [ciphersuite.info](https://ciphersuite.info/) - TLS Ciphersuite Search. Search for a particular cipher suite by using IANA, OpenSSL or GnuTLS name format
 - [certificatedetails](https://certificatedetails.com/) - Online certificate viewer. Inspect and dowload certificates from your browser
 - [FacebookCT](https://developers.facebook.com/tools/ct/search/) - Search for certificates issued for a given domain and subscribe to notifications from Facebook regarding new certificates
+- [certs.io](https://certs.io/) - Search TLS certificates across the internet.
 
 ### WiFi Networks
 
