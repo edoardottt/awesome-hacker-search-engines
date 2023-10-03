@@ -401,6 +401,7 @@ These can be useful for osint and social engineering.
 - [Cybersixgill](https://cybersixgill.com/) - Threat intelligence platform that provides access to a wide range of cybersecurity information, including dark web monitoring and threat actor analysis
 - [Hybrid Analysis](https://www.hybrid-analysis.com/) - Free malware analysis service for the community that detects and analyzes unknown threats using a unique Hybrid Analysis technology
 - [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/) - Threat intelligence sharing platform enabling research on security threats, aggregation of intelligence, and collaboration with peers
+- [The DFIR Report](https://thedfirreport.com/) - Real Intrusions by Real Attackers, The Truth Behind the Intrusion
 
 ### Web History
 
