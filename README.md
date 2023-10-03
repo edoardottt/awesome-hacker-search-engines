@@ -358,6 +358,7 @@ These can be useful for osint and social engineering.
 
 ### Images
 
+- [Baidu Image](https://image.baidu.com/) - Popular Chinese image search engine that censors search results, complying with Chinese regulations.
 
 ### Threat Intelligence
 
