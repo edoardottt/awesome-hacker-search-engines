@@ -358,7 +358,7 @@ These can be useful for osint and social engineering.
 
 ### Images
 
-- [Baidu Image](https://image.baidu.com/) - Baidu Image Search.
+- [Baidu Image](https://image.baidu.com/) - Baidu Image Search
 
 ### Threat Intelligence
 
