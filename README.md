@@ -361,7 +361,7 @@ These can be useful for osint and social engineering.
 - [Baidu Image](https://image.baidu.com/) - Baidu Image Search
 - [Yahoo Image](https://images.search.yahoo.com/) - Yahoo Image Search
 - [Yandex Image](https://www.yandex.com/images/) - Yandex Image Search
-- [Bing Images](https://www.bing.com/images) - Intelligent search from Bing makes it easier to quickly find what you’re looking for and rewards you.
+- [Bing Visual Search](https://www.bing.com/visualsearch) - See it, search it
 
 ### Threat Intelligence
 
