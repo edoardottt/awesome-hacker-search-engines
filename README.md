@@ -364,6 +364,7 @@ These can be useful for osint and social engineering.
 - [Facecheck.id](https://facecheck.id/) - Search for people by photo and verify you are talking to the person they claim to be
 - [Bing Visual Search](https://www.bing.com/visualsearch) - See it, search it
 - [Reverse Image Search](https://www.reverseimagesearch.org/ ) - Super-fast image finder that helps you find similar images online
+- [Pictriev Image Search](http://www.pictriev.com/) - Find look-alike celebrities on the web using the face recognition
 
 ### Threat Intelligence
 
