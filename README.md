@@ -292,7 +292,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Snusbase](https://snusbase.com/) - Stay on top of the latest database breaches
 - [breachdirectory.org](https://breachdirectory.org/) - Check if your information was exposed in a data breach
 - [BreachForums](https://breached.to/) - Breaches, Data leaks, databases and more
-- [Siph0n Breach DB (onionsite)](siphondkh34l5vki.onion/) -  Breaches, Data leaks, Exploits
+- [Siph0n Breach DB (onionsite)](siphondkh34l5vki.onion/) - Breaches, Data leaks, Exploits
 - [Exposed Forum](https://exposed.vc/) - The premier Databreach discussion & leaks forum
 
 ### Hidden Services
@@ -364,7 +364,8 @@ These can be useful for osint and social engineering.
 - [Facecheck.id](https://facecheck.id/) - Search for people by photo and verify you are talking to the person they claim to be
 - [Bing Visual Search](https://www.bing.com/visualsearch) - See it, search it
 - [Reverse Image Search](https://www.reverseimagesearch.org/ ) - Super-fast image finder that helps you find similar images online
-- [Reverse Image Search](https://reverseimage.net/) - Find Where Images Appear Online
+- [Reverse Image](https://reverseimage.net/) - Find Where Images Appear Online
+- [Pixsy](https://www.pixsy.com) - Find and fight image theft
 
 ### Threat Intelligence
 
@@ -446,7 +447,7 @@ These can be useful for osint and social engineering.
 
 <!-- markdown-link-check-enable -->
 
----------
+---
 
 If you want to propose changes, just open an [issue](https://github.com/edoardottt/awesome-hacker-search-engines/issues) or a [pull request](https://github.com/edoardottt/awesome-hacker-search-engines/pulls).
 
