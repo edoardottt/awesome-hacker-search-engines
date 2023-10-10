@@ -292,7 +292,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Snusbase](https://snusbase.com/) - Stay on top of the latest database breaches
 - [breachdirectory.org](https://breachdirectory.org/) - Check if your information was exposed in a data breach
 - [BreachForums](https://breached.to/) - Breaches, Data leaks, databases and more
-- [Siph0n Breach DB (onionsite)](siphondkh34l5vki.onion/) -  Breaches, Data leaks, Exploits
+- [Siph0n Breach DB (onionsite)](siphondkh34l5vki.onion/) - Breaches, Data leaks, Exploits
 - [Exposed Forum](https://exposed.vc/) - The premier Databreach discussion & leaks forum
 
 ### Hidden Services
@@ -363,8 +363,12 @@ These can be useful for osint and social engineering.
 - [Yandex Image](https://www.yandex.com/images/) - Yandex Image Search
 - [Facecheck.id](https://facecheck.id/) - Search for people by photo and verify you are talking to the person they claim to be
 - [Bing Visual Search](https://www.bing.com/visualsearch) - See it, search it
-- [Reverse Image Search](https://www.reverseimagesearch.org/ ) - Super-fast image finder that helps you find similar images online
-- [Karmadecay Reverse Image Search](http://karmadecay.com/) - Reverse image search of Reddit.com (beta)
+- [Reverse Image Search](https://www.reverseimagesearch.org/) - Super-fast image finder that helps you find similar images online
+- [Reverse Image](https://reverseimage.net/) - Find Where Images Appear Online
+- [Pixsy](https://www.pixsy.com) - Find and fight image theft
+- [Pimeyes](https://pimeyes.com/) - Face Search Engine, Reverse Image Search
+- [Pictriev](http://www.pictriev.com/) - Find look-alike celebrities on the web using the face recognition
+- [Karmadecay](http://karmadecay.com/) - Reverse image search of Reddit.com
 
 ### Threat Intelligence
 
@@ -446,7 +450,7 @@ These can be useful for osint and social engineering.
 
 <!-- markdown-link-check-enable -->
 
----------
+---
 
 If you want to propose changes, just open an [issue](https://github.com/edoardottt/awesome-hacker-search-engines/issues) or a [pull request](https://github.com/edoardottt/awesome-hacker-search-engines/pulls).
 
