@@ -368,6 +368,7 @@ These can be useful for osint and social engineering.
 - [Pixsy](https://www.pixsy.com) - Find and fight image theft
 - [Pimeyes](https://pimeyes.com/) - Face Search Engine, Reverse Image Search
 - [Pictriev](http://www.pictriev.com/) - Find look-alike celebrities on the web using the face recognition
+- [Karmadecay](http://karmadecay.com/) - Reverse image search of Reddit.com
 
 ### Threat Intelligence
 
