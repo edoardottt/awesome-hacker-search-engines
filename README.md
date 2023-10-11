@@ -371,7 +371,8 @@ These can be useful for osint and social engineering.
 - [Pictriev](http://www.pictriev.com/) - Find look-alike celebrities on the web using the face recognition
 - [Karmadecay](http://karmadecay.com/) - Reverse image search of Reddit.com
 - [Infringement Report](https://infringement.report/) - The web's best image copyright infringement search tool
-- [Flickr](https://flickr.com/search/) - An image hosting and video hosting service
+- [Tineye](https://tineye.com/) - Image search and recognition company
+- [Flickr](https://flickr.com/search/) - Home to tens of billions of photos and 2 million groups
 
 ### Threat Intelligence
 
