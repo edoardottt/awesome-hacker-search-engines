@@ -173,6 +173,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [EmailSherlock](https://www.emailsherlock.com/) - Search for the Person behind the Email address and find our reputation score
 - [Anymail Finder](https://anymailfinder.com/) - Find verified emails
 - [Tomba.io](https://tomba.io/) - With 430+ million email addresses indexed, effective search filters, and deliverability checks, Tomba's email finder is its most powerful tool
+- [Snov Email Finder](https://snov.io/email-finder) Find any email. Anywhere
 
 ### Domains
 
