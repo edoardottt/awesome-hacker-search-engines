@@ -12,7 +12,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#vulnerabilities" target="_blank">Vulnerabilities</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#exploits" target="_blank">Exploits</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#attack-surface" target="_blank">Attack surface</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#code-search-engines" target="_blank">Code</a> •
+  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#code" target="_blank">Code</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#mail-addresses" target="_blank">Mail addresses</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#domains" target="_blank">Domains</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#urls" target="_blank">URLs</a> •
