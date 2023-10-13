@@ -377,6 +377,7 @@ These can be useful for osint and social engineering.
 - [Flickr](https://flickr.com/search/) - Home to tens of billions of photos and 2 million groups
 - [Sogou](https://pic.sogou.com/) - Chinese technology company that offers a search engine
 - [Jimpl](https://jimpl.com/) - Online photo metadata and EXIF data viewer
+- [Same Energy](https://same.energy/) - Find beautiful images
 
 ### Threat Intelligence
 
