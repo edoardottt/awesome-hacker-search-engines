@@ -128,7 +128,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Deepinfo](https://www.deepinfo.com/) - Empower your security with the most comprehensive Internet data
 - [Detectify](https://detectify.com/) - Complete External Attack Surface Management
 
-### Code Search Engines
+### Code
 
 - [GitHub Code Search](https://github.com/search?type=code) - Search globally across all of GitHub, or scope your search to a particular repository or organization
 - [GitLab Code Search](https://gitlab.com/) - Advanced search for faster, more efficient search across the entire GitLab instance
