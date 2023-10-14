@@ -194,7 +194,6 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [MoonSearch](http://moonsearch.com/) - Backlinks checker & SEO Report
 - [sitereport.netcraft.com](https://sitereport.netcraft.com/) - Find out the infrastructure and technologies used by any site
 - [SynapsInt](https://synapsint.com/) - The unified OSINT research tool
-- [spyonweb.com](https://spyonweb.com/) - Find out related websites
 - [statscrop.com](https://www.statscrop.com/) - Millions of amazing websites across the web are being analyzed with StatsCrop
 - [securityheaders.com](https://securityheaders.com/) - Scan your site now
 - [visualsitemapper.com](http://www.visualsitemapper.com/) - Create a visual map of your site
