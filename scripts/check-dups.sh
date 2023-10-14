@@ -14,15 +14,24 @@ then
     readme="../README.md"    
 fi
 
-links=$(cat $readme | egrep "\- \[" | wc -l)
+# Function to extract links from a section and check for duplicates
+check_section() {
+    section=$1
+    section_escaped=$(sed 's/[&/\]/\\&/g' <<< "$section")
+    section_content=$(awk -v section="$section" '/^### / {p=0} {if(p)print} /^### '"$section"'/ {p=1}' "$readme")
+    duplicate_links=$(echo "$section_content" | grep -oP '\[.*?\]\(\K[^)]+' | sort | uniq -d)
+    if [[ -n $duplicate_links ]]; then
+        echo "[ ERR ] DUPLICATE LINKS FOUND"
+        echo "$duplicate_links"
+        exit 1
+    fi
+}
 
-uniqlinks=$(cat $readme | egrep "\- \[" | uniq | wc -l)
+# Get all unique section headings from the README file and handle spaces and slashes
+sections=$(grep '^### ' "$readme" | sed 's/^### //' | sed 's/[\/&]/\\&/g')
 
-if [[ $links -eq $uniqlinks ]];
-then
-    echo "[ OK! ] NO DUPLICATES FOUND."
-    echo "$links links in README."
-else
-    echo "[ ERR ] DUPLICATES FOUND!"
-    cat $readme | egrep "\- \[" | uniq -c | egrep -iv "1 - ["
-fi
+# Call the function for each section
+for section in $sections; do
+    check_section "$section"
+done
+echo "[ OK! ] NO DUPLICATES FOUND."
