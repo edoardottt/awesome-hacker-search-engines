@@ -17,7 +17,6 @@ fi
 # Function to extract links from a section and check for duplicates
 check_section() {
     section=$1
-    section_escaped=$(sed 's/[&/\]/\\&/g' <<< "$section")
     section_content=$(awk -v section="$section" '/^### / {p=0} {if(p)print} /^### '"$section"'/ {p=1}' "$readme")
     duplicate_links=$(echo "$section_content" | grep -oP '\[.*?\]\(\K[^)]+' | sort | uniq -d)
     if [[ -n $duplicate_links ]]; then
