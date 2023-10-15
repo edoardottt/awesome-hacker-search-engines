@@ -460,6 +460,21 @@ These can be useful for osint and social engineering.
 
 ---
 
+### License
+
+<table>
+  <tr>
+     <td>
+       <p align="center"> <img src="https://github.com/malivinayak/malivinayak/blob/main/LICENSE-Logo/MIT.png?raw=true" width="80%"></img>
+    </td>
+    <td> 
+      <img src="https://img.shields.io/badge/License-MIT-yellow.svg"/> <br> 
+This project is licensed under <a href="./LICENSE">MIT</a>. <img width=2300/>
+    </td>
+  </tr>
+</table>
+
+
 If you want to propose changes, just open an [issue](https://github.com/edoardottt/awesome-hacker-search-engines/issues) or a [pull request](https://github.com/edoardottt/awesome-hacker-search-engines/pulls).
 
 [edoardoottavianelli.it](https://www.edoardoottavianelli.it) to contact me.
