@@ -426,8 +426,7 @@ These can be useful for osint and social engineering.
 - [Hybrid Analysis](https://www.hybrid-analysis.com/) - Free malware analysis service for the community that detects and analyzes unknown threats using a unique Hybrid Analysis technology
 - [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/) - Threat intelligence sharing platform enabling research on security threats, aggregation of intelligence, and collaboration with peers
 - [The DFIR Report](https://thedfirreport.com/) - Real Intrusions by Real Attackers, The Truth Behind the Intrusion
-- [Detection.FYI](https://detection.fyi/) - Detects when a Microsoft Cloud App Security reported users were active from an IP address identified as risky by Microsoft Threat Intelligence
-
+- [Detection.FYI](https://detection.fyi/) - Detection.FYI is a website that provides a collection of security detections for a variety of security tools and platforms.
 ### Web History
 
 - [Web Archive](https://web.archive.org/) - Explore more than 702 billion web pages saved over time
@@ -444,7 +443,6 @@ These can be useful for osint and social engineering.
 
 - [Insecam.org](http://www.insecam.org/en/) - The world biggest directory of online surveillance security cameras
 - [Surveillance under Surveillance](https://sunders.uber.space/) - Cameras and guards watching you almost everywhere
-- [World Cams](https://worldcams.tv/) - The live streaming webcam feeds from around the world.
 
 ### Unclassified
 
