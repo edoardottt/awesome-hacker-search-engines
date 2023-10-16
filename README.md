@@ -43,6 +43,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [SearXNG](https://searx.be/?q=)
 - [EXALead](http://www.exalead.com/search/web/)
 - [DuckDuckGo](https://duckduckgo.com/)
+- [Swisscows](https://swisscows.com/en)
 
 ### Servers
 
