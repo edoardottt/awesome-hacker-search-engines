@@ -12,7 +12,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#vulnerabilities" target="_blank">Vulnerabilities</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#exploits" target="_blank">Exploits</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#attack-surface" target="_blank">Attack surface</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#code-search-engines" target="_blank">Code</a> •
+  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#code" target="_blank">Code</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#mail-addresses" target="_blank">Mail addresses</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#domains" target="_blank">Domains</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#urls" target="_blank">URLs</a> •
@@ -42,6 +42,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [You](https://you.com/)
 - [SearXNG](https://searx.be/?q=)
 - [EXALead](http://www.exalead.com/search/web/)
+- [DuckDuckGo](https://duckduckgo.com/)
 - [Swisscows](https://swisscows.com/en)
 
 ### Servers
@@ -128,7 +129,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Deepinfo](https://www.deepinfo.com/) - Empower your security with the most comprehensive Internet data
 - [Detectify](https://detectify.com/) - Complete External Attack Surface Management
 
-### Code Search Engines
+### Code
 
 - [GitHub Code Search](https://github.com/search?type=code) - Search globally across all of GitHub, or scope your search to a particular repository or organization
 - [GitLab Code Search](https://gitlab.com/) - Advanced search for faster, more efficient search across the entire GitLab instance
@@ -194,7 +195,6 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [MoonSearch](http://moonsearch.com/) - Backlinks checker & SEO Report
 - [sitereport.netcraft.com](https://sitereport.netcraft.com/) - Find out the infrastructure and technologies used by any site
 - [SynapsInt](https://synapsint.com/) - The unified OSINT research tool
-- [spyonweb.com](https://spyonweb.com/) - Find out related websites
 - [statscrop.com](https://www.statscrop.com/) - Millions of amazing websites across the web are being analyzed with StatsCrop
 - [securityheaders.com](https://securityheaders.com/) - Scan your site now
 - [visualsitemapper.com](http://www.visualsitemapper.com/) - Create a visual map of your site
@@ -375,6 +375,9 @@ These can be useful for osint and social engineering.
 - [Infringement Report](https://infringement.report/) - The web's best image copyright infringement search tool
 - [Tineye](https://tineye.com/) - Image search and recognition company
 - [Flickr](https://flickr.com/search/) - Home to tens of billions of photos and 2 million groups
+- [Sogou](https://pic.sogou.com/) - Chinese technology company that offers a search engine
+- [Jimpl](https://jimpl.com/) - Online photo metadata and EXIF data viewer
+- [Same Energy](https://same.energy/) - Find beautiful images
 
 ### Threat Intelligence
 
