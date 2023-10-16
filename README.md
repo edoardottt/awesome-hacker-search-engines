@@ -86,6 +86,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Red Hat Security Advisories](https://access.redhat.com/security/security-updates/) - Information about security flaws that affect Red Hat products and services in the form of security advisories
 - [Cisco Security Advisories](https://sec.cloudapps.cisco.com/security/center/publicationListing.x) - Security advisories and vulnerability information for Cisco products, including network equipment and software
 - [Microsoft Security Response Center](https://msrc.microsoft.com/update-guide/en-us) - Reports of security vulnerabilities affecting Microsoft products and services
+- [VARIoT](https://www.variotdbs.pl/vulns/) - VARIoT IoT vulnerabilities database
 
 ### Exploits
 
