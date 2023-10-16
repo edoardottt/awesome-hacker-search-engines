@@ -203,7 +203,6 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [wannabe1337.xyz](https://wannabe1337.xyz/) - Online Tools
 - [subdomainfinder.c99.nl](https://subdomainfinder.c99.nl/) - Scanner that scans an entire domain to find as many subdomains as possible
 - [AnubisDB](https://jonlu.ca/anubis/) - Subdomain enumeration and information gathering tool
-- [WhoisXMLAPI](https://www.whoisxmlapi.com/) - Domain & IP Data Intelligence for Greater Enterprise Security
 - [HypeStat](https://hypestat.com/) - Free statistics and analytics service, where you can find information about every website
 - [Private Key Project](https://www.pkey.in/tools-i/search-subdomains) - Information security tools from Private Key Project
 - [SiteDossier](http://www.sitedossier.com/) - Profiles for millions of sites on the web
@@ -425,6 +424,8 @@ These can be useful for osint and social engineering.
 - [Hybrid Analysis](https://www.hybrid-analysis.com/) - Free malware analysis service for the community that detects and analyzes unknown threats using a unique Hybrid Analysis technology
 - [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/) - Threat intelligence sharing platform enabling research on security threats, aggregation of intelligence, and collaboration with peers
 - [The DFIR Report](https://thedfirreport.com/) - Real Intrusions by Real Attackers, The Truth Behind the Intrusion
+- [WhoisXMLAPI](https://www.whoisxmlapi.com/) - Domain & IP Data Intelligence for Greater Enterprise Security
+- [APIVoid](https://www.apivoid.com/) - Threat analysis centered on IP and Domain reputation, along with additional services
 
 ### Web History
 
