@@ -296,6 +296,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [BreachForums](https://breached.to/) - Breaches, Data leaks, databases and more
 - [Siph0n Breach DB (onionsite)](siphondkh34l5vki.onion/) - Breaches, Data leaks, Exploits
 - [Exposed Forum](https://exposed.vc/) - The premier Databreach discussion & leaks forum
+- [ddosecrets](https://ddosecrets.com/) - Distributed Denial of Secrets is a journalist 501(c)(3) non-profit devoted to publishing and archiving leaks, and to the free transmission of data in the public interest.
 
 ### Hidden Services
 
