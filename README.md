@@ -446,7 +446,7 @@ These can be useful for osint and social engineering.
 - [Insecam.org](http://www.insecam.org/en/) - The world biggest directory of online surveillance security cameras
 - [Surveillance under Surveillance](https://sunders.uber.space/) - Cameras and guards watching you almost everywhere
 - [Skylinewebcams](https://www.skylinewebcams.com/) - Live HD webcams broadcasting from the world's best attractions and destinations
-- [WebKams](https://www.webkams.com/) - Over 30k online cameras throughout the world
+- [WebKams](https://www.webkams.com/) - Live Web Cameras Everywhere
 
 ### Unclassified
 
