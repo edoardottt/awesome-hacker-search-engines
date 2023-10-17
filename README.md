@@ -155,6 +155,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [WebFinery](https://webfinery.com/search) - Search the source code of the web
 - [Google Code Archive](https://code.google.com/archive/) - Data found on the Google Code Project Hosting Service, which was turned down in early 2016
 - [Snipplr](https://snipplr.com/all) - Code snippet search engine that allows users to search and share code snippets across various programming languages and frameworks
+- [Postman](https://www.postman.com/explore/collections) - Explore the best APIs, collections, workspaces in the world on the Postman Public API Network
 
 ### Mail Addresses
 
