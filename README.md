@@ -455,6 +455,7 @@ These can be useful for osint and social engineering.
 - [WebKams](https://www.webkams.com/) - Live Web Cameras Everywhere
 - [WorldCam](https://worldcam.eu/) - Webcams from around the world
 - [Webcam Hopper](https://www.webcamhopper.com/) - Live Webcams from around the world
+- [Live Traffic](https://livetraffic.eu/) - Real-time monitoring of Europe’s live traffic cameras
 
 ### Unclassified
 
