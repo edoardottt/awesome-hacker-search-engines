@@ -457,6 +457,7 @@ These can be useful for osint and social engineering.
 - [Webcam Hopper](https://www.webcamhopper.com/) - Live Webcams from around the world
 - [Live Traffic](https://livetraffic.eu/) - Real-time monitoring of Europe’s live traffic cameras
 - [Geocam.ru](https://www.geocam.ru/en/) - Webcams of the world
+- [Moldova's borders webcams](https://www.border.gov.md/camere-web) - Official list of webcams at various border crossings around Moldova
 
 ### Unclassified
 
