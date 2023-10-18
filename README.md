@@ -381,6 +381,7 @@ These can be useful for osint and social engineering.
 - [Jimpl](https://jimpl.com/) - Online photo metadata and EXIF data viewer
 - [Same Energy](https://same.energy/) - Find beautiful images
 - [FotoForensics](https://fotoforensics.com/) - Tools and training for digital picture analysis, including error level analysis, metadata, and tutorials
+- [Exif data](http://exifdata.com/) - Online application that lets you take a deeper look at your favorite images
 
 ### Threat Intelligence
 
