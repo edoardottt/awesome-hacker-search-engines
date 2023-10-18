@@ -43,6 +43,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [SearXNG](https://searx.be/?q=)
 - [EXALead](http://www.exalead.com/search/web/)
 - [DuckDuckGo](https://duckduckgo.com/)
+- [Swisscows](https://swisscows.com/en)
 
 ### Servers
 
@@ -85,6 +86,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Red Hat Security Advisories](https://access.redhat.com/security/security-updates/) - Information about security flaws that affect Red Hat products and services in the form of security advisories
 - [Cisco Security Advisories](https://sec.cloudapps.cisco.com/security/center/publicationListing.x) - Security advisories and vulnerability information for Cisco products, including network equipment and software
 - [Microsoft Security Response Center](https://msrc.microsoft.com/update-guide/en-us) - Reports of security vulnerabilities affecting Microsoft products and services
+- [VARIoT](https://www.variotdbs.pl/vulns/) - VARIoT IoT Vulnerabilities Database 
 
 ### Exploits
 
@@ -108,6 +110,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [LOLDrivers](https://www.loldrivers.io/) - Open-source project that brings together vulnerable, malicious, and known malicious Windows drivers
 - [PwnWiki](http://pwnwiki.io/) - Collection of TTPs (tools, tactics, and procedures) for what to do after access has been gained
 - [CVExploits Search](https://cvexploits.io/) - Your comprehensive database for CVE exploits from across the internet
+- [VARIoT](https://www.variotdbs.pl/exploits/) - VARIoT IoT exploits database
 
 ### Attack Surface
 
@@ -153,6 +156,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [WebFinery](https://webfinery.com/search) - Search the source code of the web
 - [Google Code Archive](https://code.google.com/archive/) - Data found on the Google Code Project Hosting Service, which was turned down in early 2016
 - [Snipplr](https://snipplr.com/all) - Code snippet search engine that allows users to search and share code snippets across various programming languages and frameworks
+- [Postman Public Collections](https://www.postman.com/explore/collections) - Explore the best APIs, collections, workspaces in the world on the Postman Public API Network
 
 ### Mail Addresses
 
@@ -203,7 +207,6 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [wannabe1337.xyz](https://wannabe1337.xyz/) - Online Tools
 - [subdomainfinder.c99.nl](https://subdomainfinder.c99.nl/) - Scanner that scans an entire domain to find as many subdomains as possible
 - [AnubisDB](https://jonlu.ca/anubis/) - Subdomain enumeration and information gathering tool
-- [WhoisXMLAPI](https://www.whoisxmlapi.com/) - Domain & IP Data Intelligence for Greater Enterprise Security
 - [HypeStat](https://hypestat.com/) - Free statistics and analytics service, where you can find information about every website
 - [Private Key Project](https://www.pkey.in/tools-i/search-subdomains) - Information security tools from Private Key Project
 - [SiteDossier](http://www.sitedossier.com/) - Profiles for millions of sites on the web
@@ -295,6 +298,8 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [BreachForums](https://breached.to/) - Breaches, Data leaks, databases and more
 - [Siph0n Breach DB (onionsite)](siphondkh34l5vki.onion/) - Breaches, Data leaks, Exploits
 - [Exposed Forum](https://exposed.vc/) - The premier Databreach discussion & leaks forum
+- [Distributed Denial of Secrets](https://ddosecrets.com/) - Journalist 501(c)(3) non-profit devoted to publishing and archiving leaks
+- [Have I Been Zuckered](https://haveibeenzuckered.com/) - Facebook Data Breach Checker
 
 ### Hidden Services
 
@@ -378,6 +383,9 @@ These can be useful for osint and social engineering.
 - [Jimpl](https://jimpl.com/) - Online photo metadata and EXIF data viewer
 - [Same Energy](https://same.energy/) - Find beautiful images
 - [Pixabay](https://pixabay.com/) - Stunning royalty-free images & royalty-free stock
+- [FotoForensics](https://fotoforensics.com/) - Tools and training for digital picture analysis, including error level analysis, metadata, and tutorials
+- [Exif data](http://exifdata.com/) - Online application that lets you take a deeper look at your favorite images
+- [Image Identify](https://www.imageidentify.com/) - Image recognition site, just drag your image & identify
 
 ### Threat Intelligence
 
@@ -426,6 +434,8 @@ These can be useful for osint and social engineering.
 - [Hybrid Analysis](https://www.hybrid-analysis.com/) - Free malware analysis service for the community that detects and analyzes unknown threats using a unique Hybrid Analysis technology
 - [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/) - Threat intelligence sharing platform enabling research on security threats, aggregation of intelligence, and collaboration with peers
 - [The DFIR Report](https://thedfirreport.com/) - Real Intrusions by Real Attackers, The Truth Behind the Intrusion
+- [WhoisXMLAPI](https://www.whoisxmlapi.com/) - Domain & IP Data Intelligence for Greater Enterprise Security
+- [APIVoid](https://www.apivoid.com/) - Threat analysis centered on IP and Domain reputation, along with additional services
 
 ### Web History
 
@@ -440,9 +450,16 @@ These can be useful for osint and social engineering.
 - [HAW](https://haw.nsk.hr/en/) - Croatian Web Archive
 
 ### Surveillance cameras
-
 - [Insecam.org](http://www.insecam.org/en/) - The world biggest directory of online surveillance security cameras
 - [Surveillance under Surveillance](https://sunders.uber.space/) - Cameras and guards watching you almost everywhere
+- [World Cams](https://worldcams.tv/) - Live Streaming Webcams Like Never Seen Before
+- [Skylinewebcams](https://www.skylinewebcams.com/) - Live HD webcams broadcasting from the world's best attractions and destinations
+- [WebKams](https://www.webkams.com/) - Live Web Cameras Everywhere
+- [WorldCam](https://worldcam.eu/) - Webcams from around the world
+- [Webcam Hopper](https://www.webcamhopper.com/) - Live Webcams from around the world
+- [Live Traffic](https://livetraffic.eu/) - Real-time monitoring of Europe’s live traffic cameras
+- [Geocam.ru](https://www.geocam.ru/en/) - Webcams of the world
+- [Moldova's borders webcams](https://www.border.gov.md/camere-web) - Official list of webcams at various border crossings around Moldova
 
 ### Unclassified
 
