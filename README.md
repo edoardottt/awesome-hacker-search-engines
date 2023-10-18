@@ -110,6 +110,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [LOLDrivers](https://www.loldrivers.io/) - Open-source project that brings together vulnerable, malicious, and known malicious Windows drivers
 - [PwnWiki](http://pwnwiki.io/) - Collection of TTPs (tools, tactics, and procedures) for what to do after access has been gained
 - [CVExploits Search](https://cvexploits.io/) - Your comprehensive database for CVE exploits from across the internet
+- [VARIoT](https://www.variotdbs.pl/exploits/) - VARIoT IoT exploits database
 
 ### Attack Surface
 
