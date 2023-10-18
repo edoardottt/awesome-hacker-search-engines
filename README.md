@@ -377,7 +377,7 @@ These can be useful for osint and social engineering.
 - [Sogou](https://pic.sogou.com/) - Chinese technology company that offers a search engine
 - [Jimpl](https://jimpl.com/) - Online photo metadata and EXIF data viewer
 - [Same Energy](https://same.energy/) - Find beautiful images
-- [fotoforensics](https://fotoforensics.com/)-Foto-Forensic
+- [FotoForensics](https://fotoforensics.com/) - Tools and training for digital picture analysis, including error level analysis, metadata, and tutorials
 
 ### Threat Intelligence
 
