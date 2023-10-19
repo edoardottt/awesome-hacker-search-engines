@@ -44,6 +44,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [EXALead](http://www.exalead.com/search/web/)
 - [DuckDuckGo](https://duckduckgo.com/)
 - [Swisscows](https://swisscows.com/en)
+- [WolframAlpha](https://wolframalpha.com)
 
 ### Servers
 
