@@ -211,7 +211,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Private Key Project](https://www.pkey.in/tools-i/search-subdomains) - Information security tools from Private Key Project
 - [SiteDossier](http://www.sitedossier.com/) - Profiles for millions of sites on the web
 - [SpyOnWeb](https://spyonweb.com/) - Quick and convenient search for the websites that probably belong to the same owner
-- [HaveIBeenSquatted](https://www.haveibeensquatted.com/) - A platform to check if a domain has been typosquatted
+- [HaveIBeenSquatted](https://www.haveibeensquatted.com/) - Check if a domain has been typosquatted
 
 ### URLs
 
