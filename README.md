@@ -459,6 +459,7 @@ These can be useful for osint and social engineering.
 - [Live Traffic](https://livetraffic.eu/) - Real-time monitoring of Europe’s live traffic cameras
 - [Geocam.ru](https://www.geocam.ru/en/) - Webcams of the world
 - [Moldova's borders webcams](https://www.border.gov.md/camere-web) - Official list of webcams at various border crossings around Moldova
+- [Earth Cam](https://www.earthcam.com/) - Global network of owned and operated live streaming webcams
 
 ### Unclassified
 
