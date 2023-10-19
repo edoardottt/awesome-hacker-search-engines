@@ -249,7 +249,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [MXtoolbox](https://mxtoolbox.com/SuperTool.aspx) - All of your MX record, DNS, blacklist and SMTP diagnostics in one integrated tool
 - [NSLookup.io](https://www.nslookup.io/) - Find all DNS records for a domain name using this online tool
 - [Robtex DNS Lookup](https://www.robtex.com/dns-lookup/) - Get detailed information on the nameservers associated with a domain name
-- [DNSMap](https://dnsmap.io/) - DNS Propagation Checker
+- [DNSMap](https://dnsmap.io/) - Worldwide DNS Propagation Checker
 
 ### Certificates
 
