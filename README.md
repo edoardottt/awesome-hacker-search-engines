@@ -59,7 +59,6 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Quake](https://quake.360.net/quake/#/index) - Cyberspace surveying and mapping system
 - [Hunter](https://hunter.how/) - Internet Search Engines For Security Researchers
 - [PublicWWW](https://publicwww.com) - A source code search engine that can help discover websites using specific technologies and vulnerabilities
-- [OSINT Framework](https://osintframework.com) - A collection of tools, resources, and search engines for open-source intelligence gathering
 
 ### Vulnerabilities
 
