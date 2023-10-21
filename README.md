@@ -87,7 +87,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Red Hat Security Advisories](https://access.redhat.com/security/security-updates/) - Information about security flaws that affect Red Hat products and services in the form of security advisories
 - [Cisco Security Advisories](https://sec.cloudapps.cisco.com/security/center/publicationListing.x) - Security advisories and vulnerability information for Cisco products, including network equipment and software
 - [Microsoft Security Response Center](https://msrc.microsoft.com/update-guide/en-us) - Reports of security vulnerabilities affecting Microsoft products and services
-- [VARIoT](https://www.variotdbs.pl/vulns/) - VARIoT IoT Vulnerabilities Database 
+- [VARIoT](https://www.variotdbs.pl/vulns/) - VARIoT IoT Vulnerabilities Database
 
 ### Exploits
 
@@ -438,6 +438,7 @@ These can be useful for osint and social engineering.
 - [Hybrid Analysis](https://www.hybrid-analysis.com/) - Free malware analysis service for the community that detects and analyzes unknown threats using a unique Hybrid Analysis technology
 - [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/) - Threat intelligence sharing platform enabling research on security threats, aggregation of intelligence, and collaboration with peers
 - [The DFIR Report](https://thedfirreport.com/) - Real Intrusions by Real Attackers, The Truth Behind the Intrusion
+- [Detection.FYI](https://detection.fyi/) - Search Sigma rules
 - [WhoisXMLAPI](https://www.whoisxmlapi.com/) - Domain & IP Data Intelligence for Greater Enterprise Security
 - [APIVoid](https://www.apivoid.com/) - Threat analysis centered on IP and Domain reputation, along with additional services
 
@@ -454,6 +455,7 @@ These can be useful for osint and social engineering.
 - [HAW](https://haw.nsk.hr/en/) - Croatian Web Archive
 
 ### Surveillance cameras
+
 - [Insecam.org](http://www.insecam.org/en/) - The world biggest directory of online surveillance security cameras
 - [Surveillance under Surveillance](https://sunders.uber.space/) - Cameras and guards watching you almost everywhere
 - [World Cams](https://worldcams.tv/) - Live Streaming Webcams Like Never Seen Before
