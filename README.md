@@ -161,7 +161,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Snipplr](https://snipplr.com/all) - Code snippet search engine that allows users to search and share code snippets across various programming languages and frameworks
 - [Postman Public Collections](https://www.postman.com/explore/collections) - Explore the best APIs, collections, workspaces in the world on the Postman Public API Network
 - [ScriptMafia](https://scriptmafia.org) - Download full nulled scripts
-- [SearchFTPs](https://www.searchftps.net/) - Download files located on public FTP servers
+- [SearchFTPs](https://www.searchftps.net/) - The most advanced FTP Search Engine service maintained by members
 
 ### Mail Addresses
 
