@@ -47,7 +47,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Naver](https://www.naver.com/)
 - [AOL](https://search.aol.com)
 - [Yep](https://yep.com/)
-- [Openverse](https://openverse.org/)
+- [Swisscows](https://swisscows.com/en)
 
 ### Servers
 
