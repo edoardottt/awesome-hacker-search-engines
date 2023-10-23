@@ -479,6 +479,7 @@ These can be useful for osint and social engineering.
 - [DorkSearch](https://dorksearch.com/) - Speed up your Dorking
 - [usersearch.org](https://usersearch.org/) - Find someone by username or email on Social Networks, Dating Sites, Forums, Crypto Forums, Chat Sites and Blogs
 - [Pastebin](https://pastebin.com/) - Website where you can store text online for a set period of time
+- [Wappalyzer](https://www.wappalyzer.com/) - Instant access to website technology stacks, company and contact details, social media profiles, email verification and more
 
 ### Not working / Paused
 
