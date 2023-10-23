@@ -46,6 +46,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Swisscows](https://swisscows.com/en)
 - [Naver](https://www.naver.com/)
 - [AOL](https://search.aol.com)
+- [Brave](https://search.brave.com/)
 - [Yep](https://yep.com/)
 - [Gibiru](https://gibiru.com/)
 
@@ -188,6 +189,8 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [EmailSearch.io](https://emailsearch.io/) - Find any emails and phones from a domain, Linkedin, name, and company
 - [MetricSparrow Email Permutator+](http://metricsparrow.com/toolkit/email-permutator/#) - This tool is intended to help you find the email addresses of people you need to contact by generating potential email addresses by permutating different combinations.
 - [Emailrep.io](https://emailrep.io/) - Simple Email Reputation
+- [Mailboxvalidator](https://www.mailboxvalidator.com/) - Secure and reliable email validation service to check for invalid email addresses
+- [ContactOut](https://contactout.com/) - Most accurate email finder for personal and work email outreach
 
 
 ### Domains
@@ -312,6 +315,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Exposed Forum](https://exposed.vc/) - The premier Databreach discussion & leaks forum
 - [Distributed Denial of Secrets](https://ddosecrets.com/) - Journalist 501(c)(3) non-profit devoted to publishing and archiving leaks
 - [Have I Been Zuckered](https://haveibeenzuckered.com/) - Facebook Data Breach Checker
+- [Cryptome](https://cryptome.org/) - Documents for publication that are prohibited by governments worldwide
 
 ### Hidden Services
 
@@ -475,6 +479,7 @@ These can be useful for osint and social engineering.
 - [Geocam.ru](https://www.geocam.ru/en/) - Webcams of the world
 - [Moldova's borders webcams](https://www.border.gov.md/camere-web) - Official list of webcams at various border crossings around Moldova
 - [Earth Cam](https://www.earthcam.com/) - Leading network of live streaming webcams for tourism and entertainment
+- [Webcam Taxi](https://www.webcamtaxi.com/en/) - Live Virtual Travel
 
 ### Unclassified
 
