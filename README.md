@@ -47,6 +47,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Naver](https://www.naver.com/)
 - [AOL](https://search.aol.com)
 - [Yep](https://yep.com/)
+- [Gibiru](https://gibiru.com/)
 
 ### Servers
 
@@ -161,6 +162,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Snipplr](https://snipplr.com/all) - Code snippet search engine that allows users to search and share code snippets across various programming languages and frameworks
 - [Postman Public Collections](https://www.postman.com/explore/collections) - Explore the best APIs, collections, workspaces in the world on the Postman Public API Network
 - [ScriptMafia](https://scriptmafia.org) - Download full nulled scripts
+- [SearchFTPs](https://www.searchftps.net/) - The most advanced FTP Search Engine service maintained by members
 
 ### Mail Addresses
 
@@ -184,7 +186,10 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Tomba.io](https://tomba.io/) - With 430+ million email addresses indexed, effective search filters, and deliverability checks, Tomba's email finder is its most powerful tool
 - [Snov Email Finder](https://snov.io/email-finder) Find any email. Anywhere
 - [EmailSearch.io](https://emailsearch.io/) - Find any emails and phones from a domain, Linkedin, name, and company
-- [MetricSparrow Email Permutator+](http://metricsparrow.com/toolkit/email-permutator/#) - This tool is intended to help you find the email addresses of people you need to contact by generating potential email addresses by permutating different combinations. 
+- [MetricSparrow Email Permutator+](http://metricsparrow.com/toolkit/email-permutator/#) - This tool is intended to help you find the email addresses of people you need to contact by generating potential email addresses by permutating different combinations.
+- [Emailrep.io](https://emailrep.io/) - Simple Email Reputation
+
+
 ### Domains
 
 - [PhoneBook](https://phonebook.cz/) - Lists all domains, email addresses, or URLs for the given input domain
@@ -473,16 +478,17 @@ These can be useful for osint and social engineering.
 
 ### Unclassified
 
-- [NetoGraph](https://netograph.io/) - Captures and indexes detailed, low-level snapshots of website behaviour
 - [DorkSearch](https://dorksearch.com/) - Speed up your Dorking
 - [usersearch.org](https://usersearch.org/) - Find someone by username or email on Social Networks, Dating Sites, Forums, Crypto Forums, Chat Sites and Blogs
 - [Pastebin](https://pastebin.com/) - Website where you can store text online for a set period of time
+- [Wappalyzer](https://www.wappalyzer.com/) - Instant access to website technology stacks, company and contact details, social media profiles, email verification and more
 
 ### Not working / Paused
 
 <!-- markdown-link-check-disable -->
 
 - [DNS.BufferOver.run](https://dns.bufferover.run/)
+- [NetoGraph](https://netograph.io/) - Captures and indexes detailed, low-level snapshots of website behaviour
 
 <!-- markdown-link-check-enable -->
 
