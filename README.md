@@ -187,6 +187,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Snov Email Finder](https://snov.io/email-finder) Find any email. Anywhere
 - [EmailSearch.io](https://emailsearch.io/) - Find any emails and phones from a domain, Linkedin, name, and company
 - [Emailrep.io](https://emailrep.io/) - Simple Email Reputation
+- [Mailboxvalidator](https://www.mailboxvalidator.com/) - Secure and reliable email validation service to check for invalid email addresses
 
 ### Domains
 
