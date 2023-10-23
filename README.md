@@ -476,6 +476,7 @@ These can be useful for osint and social engineering.
 - [Geocam.ru](https://www.geocam.ru/en/) - Webcams of the world
 - [Moldova's borders webcams](https://www.border.gov.md/camere-web) - Official list of webcams at various border crossings around Moldova
 - [Earth Cam](https://www.earthcam.com/) - Leading network of live streaming webcams for tourism and entertainment
+- [Webcam Taxi](https://www.webcamtaxi.com/en/) - Live Virtual Travel
 
 ### Unclassified
 
