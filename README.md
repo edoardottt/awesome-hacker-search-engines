@@ -46,7 +46,6 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Swisscows](https://swisscows.com/en)
 - [Naver](https://www.naver.com/)
 - [AOL](https://search.aol.com)
-- [Brave](https://search.brave.com/)
 - [Yep](https://yep.com/)
 - [Gibiru](https://gibiru.com/)
 
@@ -188,6 +187,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Snov Email Finder](https://snov.io/email-finder) Find any email. Anywhere
 - [EmailSearch.io](https://emailsearch.io/) - Find any emails and phones from a domain, Linkedin, name, and company
 - [Emailrep.io](https://emailrep.io/) - Simple Email Reputation
+- [Email Permutator](http://metricsparrow.com/toolkit/email-permutator/) - Email Permutator+ 
 
 ### Domains
 
