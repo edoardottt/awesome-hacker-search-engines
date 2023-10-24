@@ -187,6 +187,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Tomba.io](https://tomba.io/) - With 430+ million email addresses indexed, effective search filters, and deliverability checks, Tomba's email finder is its most powerful tool
 - [Snov Email Finder](https://snov.io/email-finder) Find any email. Anywhere
 - [EmailSearch.io](https://emailsearch.io/) - Find any emails and phones from a domain, Linkedin, name, and company
+- [Email Permutator+](http://metricsparrow.com/toolkit/email-permutator/#) - Find potential email addresses permutating different combinations
 - [Emailrep.io](https://emailrep.io/) - Simple Email Reputation
 - [Mailboxvalidator](https://www.mailboxvalidator.com/) - Secure and reliable email validation service to check for invalid email addresses
 - [ContactOut](https://contactout.com/) - Most accurate email finder for personal and work email outreach
