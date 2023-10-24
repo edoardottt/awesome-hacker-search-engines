@@ -49,6 +49,8 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Brave](https://search.brave.com/)
 - [Yep](https://yep.com/)
 - [Gibiru](https://gibiru.com/)
+- [Ecosia](https://www.ecosia.org/)
+- [Wolframalpha](https://www.wolframalpha.com/)
 
 ### Servers
 
