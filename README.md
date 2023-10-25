@@ -135,6 +135,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [RADb](https://www.radb.net/query) - The world's largest public routing registry
 - [Deepinfo](https://www.deepinfo.com/) - Empower your security with the most comprehensive Internet data
 - [Detectify](https://detectify.com/) - Complete External Attack Surface Management
+-[cortex](https://www.paloaltonetworks.com/cortex/cortex-xpanse)-Expanse provides a comprehensive attack surface management platform for organizations to monitor and secure their internet-connected assets.
 
 ### Code
 
