@@ -116,6 +116,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [PwnWiki](http://pwnwiki.io/) - Collection of TTPs (tools, tactics, and procedures) for what to do after access has been gained
 - [CVExploits Search](https://cvexploits.io/) - Your comprehensive database for CVE exploits from across the internet
 - [VARIoT](https://www.variotdbs.pl/exploits/) - VARIoT IoT exploits database
+- [LOOBins](https://www.loobins.io/) - Detailed information on various built-in macOS binaries and how they can be used by threat actors for malicious purposes
 
 ### Attack Surface
 
