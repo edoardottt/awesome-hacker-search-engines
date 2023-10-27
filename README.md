@@ -242,6 +242,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 
 ### DNS
 
+- [Validin](https://app.validin.com/) - Massive collection of DNS records with free DNS history search
 - [DNSDumpster](https://dnsdumpster.com/) - dns recon & research, find & lookup dns records
 - [Chaos](https://chaos.projectdiscovery.io/#/) - Enhance research and analyse changes around DNS for better insights
 - [RapidDNS](https://rapiddns.io/) - dns query tool which make querying subdomains or sites of a same ip easy
