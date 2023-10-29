@@ -129,7 +129,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [overcast-security.com](https://overcast-security.com/) - We make tracking your external attack surface easy
 - [IPInfo.io](https://ipinfo.io/) - The trusted source for IP address data
 - [IPData.co](https://ipdata.co/) - IP Geolocation and Threat Intelligence API
-- [NetworksDB](https://networksdb.io/) - information about the public IPv4 and IPv6 addresses, networks and domains owned by companies and organisations across the world
+- [NetworksDB](https://networksdb.io/) - Information about the public IPv4 and IPv6 addresses, networks and domains owned by companies and organisations across the world
 - [ASNlookup](https://asnlookup.com/) - Quickly lookup updated information about specific Autonomous System Number (ASN), Organization, CIDR, or registered IP addresses (IPv4 and IPv6) among other relevant data
 - [BGPtools](https://bgp.tools/) - Browse the Internet ecosystem
 - [BGPview](https://bgpview.io/) - Debug and investigate information about IP addresses, ASN, IXs, BGP, ISPs, Prefixes and Domain names
@@ -242,9 +242,9 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 
 ### DNS
 
-- [DNSDumpster](https://dnsdumpster.com/) - dns recon & research, find & lookup dns records
+- [DNSDumpster](https://dnsdumpster.com/) - DNS recon & research, find & lookup dns records
 - [Chaos](https://chaos.projectdiscovery.io/#/) - Enhance research and analyse changes around DNS for better insights
-- [RapidDNS](https://rapiddns.io/) - dns query tool which make querying subdomains or sites of a same ip easy
+- [RapidDNS](https://rapiddns.io/) - DNS query tool which make querying subdomains or sites of a same ip easy
 - [DNSdb](https://docs.farsightsecurity.com/#dnsdb) - Passive DNS historical database
 - [Omnisint](https://omnisint.io/reverse-dns-lookup) - Reverse DNS lookup
 - [HackerTarget](https://hackertarget.com/ip-tools/) - Collect information about IP Addresses, Networks, Web Pages and DNS records
