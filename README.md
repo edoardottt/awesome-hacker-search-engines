@@ -265,6 +265,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [NSLookup.io](https://www.nslookup.io/) - Find all DNS records for a domain name using this online tool
 - [Robtex DNS Lookup](https://www.robtex.com/dns-lookup/) - Get detailed information on the nameservers associated with a domain name
 - [DNSMap](https://dnsmap.io/) - Worldwide DNS Propagation Checker
+- [Validin](https://app.validin.com/) - Massive collection of DNS records with free DNS history search
 
 ### Certificates
 
