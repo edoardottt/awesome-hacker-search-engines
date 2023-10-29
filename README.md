@@ -276,7 +276,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [SynapsInt](https://synapsint.com/) - The unified OSINT research tool
 - [Censys Search - Certificates](https://search.censys.io/certificates) - Certificates Search
 - [ciphersuite.info](https://ciphersuite.info/) - TLS Ciphersuite Search. Search for a particular cipher suite by using IANA, OpenSSL or GnuTLS name format
-- [certificatedetails](https://certificatedetails.com/) - Online certificate viewer. Inspect and dowload certificates from your browser
+- [certificatedetails](https://certificatedetails.com/) - Online certificate viewer. Inspect and download certificates from your browser
 - [FacebookCT](https://developers.facebook.com/tools/ct/search/) - Search for certificates issued for a given domain and subscribe to notifications from Facebook regarding new certificates
 - [certs.io](https://certs.io/) - Search TLS certificates across the internet.
 
@@ -373,8 +373,8 @@ These can be useful for osint and social engineering.
 - [SynapsInt](https://synapsint.com/) - The unified OSINT research tool
 - [C99.nl](https://api.c99.nl/) - Over 57 quality API's and growing
 - [ValidNumber.com](https://validnumber.com/) - Free reverse phone lookup service to let you identify a caller associated with any 10-digit phone number from the US and Canada
-- [CellIdFinder](https://cellidfinder.com/) - Nonprofit project wich helps you to find GSM BTS by MCC, MNC, LAC and CellID
-- [OldPhoneBook](http://www.oldphonebook.com/) - Intantly search a large selection from the past 20 years of USA phone listings
+- [CellIdFinder](https://cellidfinder.com/) - Nonprofit project which helps you to find GSM BTS by MCC, MNC, LAC and CellID
+- [OldPhoneBook](http://www.oldphonebook.com/) - Instantly search a large selection from the past 20 years of USA phone listings
 - [Spokeo](https://www.spokeo.com/) - Search by name, phone, address, or email to confidentially lookup information about people you know
 - [Intelius Phone Lookup](https://www.intelius.com/reverse-phone-lookup/) - Look up a phone number to find owner information, carrier details, and more
 - [ZabaSearch Phone Lookup](https://www.zabasearch.com/reverse-phone-lookup/) - Reverse Phone Lookup Tool Can Uncover Personal Information, Social Media Data, Online Activity, Photos, and More
