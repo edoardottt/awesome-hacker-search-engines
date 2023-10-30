@@ -68,11 +68,11 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 
 - [NIST NVD](https://nvd.nist.gov/vuln/search) - US National Vulnerability Database
 - [MITRE CVE](https://cve.mitre.org/cve/search_cve_list.html) - Identify, define, and catalog publicly disclosed cybersecurity vulnerabilities
-- [GitHub Advisory Database](https://github.com/advisories) - Security vulnerability database inclusive of CVEs and GitHub originated security advisories
+- [GitHub Advisory Database](https://github.com/advisories) - Security vulnerability database inclusive of CVEs and GitHub-originated security advisories
 - [cloudvulndb.org](https://www.cloudvulndb.org/) - The Open Cloud Vulnerability & Security Issue Database
 - [osv.dev](https://osv.dev/list) - Open Source Vulnerabilities
 - [Vulners.com](https://vulners.com/) - Your Search Engine for Security Intelligence
-- [opencve.io](https://www.opencve.io/cve) - Easiest way to track CVE updates and be alerted about new vulnerabilities
+- [opencve.io](https://www.opencve.io/cve) - The easiest way to track CVE updates and be alerted about new vulnerabilities
 - [security.snyk.io](https://security.snyk.io/) - Open Source Vulnerability Database
 - [Mend Vulnerability Database](https://www.mend.io/vulnerability-database/) - The largest open source vulnerability DB
 - [Rapid7 - DB](https://www.rapid7.com/db/) - Vulnerability & Exploit Database
@@ -87,7 +87,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Google Project Zero](https://bugs.chromium.org/p/project-zero/issues/list?can=1&q=&sort=-id&colspec=ID%20Type%20Status%20Priority%20Milestone%20Owner%20Summary) - Vulnerabilities including Zero Days
 - [Trickest CVE Repository](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC
 - [cnvd.org.cn](https://www.cnvd.org.cn/) - Chinese National Vulnerability Database
-- [InTheWild.io](https://inthewild.io/feed) - Check CVEs in our free, open source feed of exploited vulnerabilities
+- [InTheWild.io](https://inthewild.io/feed) - Check CVEs in our free, open-source feed of exploited vulnerabilities
 - [Vulnerability Lab](https://www.vulnerability-lab.com/) - Vulnerability research, bug bounties and vulnerability assessments
 - [Red Hat Security Advisories](https://access.redhat.com/security/security-updates/) - Information about security flaws that affect Red Hat products and services in the form of security advisories
 - [Cisco Security Advisories](https://sec.cloudapps.cisco.com/security/center/publicationListing.x) - Security advisories and vulnerability information for Cisco products, including network equipment and software
@@ -129,8 +129,8 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [overcast-security.com](https://overcast-security.com/) - We make tracking your external attack surface easy
 - [IPInfo.io](https://ipinfo.io/) - The trusted source for IP address data
 - [IPData.co](https://ipdata.co/) - IP Geolocation and Threat Intelligence API
-- [NetworksDB](https://networksdb.io/) - Information about the public IPv4 and IPv6 addresses, networks and domains owned by companies and organisations across the world
-- [ASNlookup](https://asnlookup.com/) - Quickly lookup updated information about specific Autonomous System Number (ASN), Organization, CIDR, or registered IP addresses (IPv4 and IPv6) among other relevant data
+- [NetworksDB](https://networksdb.io/) - Information about the public IPv4 and IPv6 addresses, networks and domains owned by companies and organizations across the world
+- [ASNlookup](https://asnlookup.com/) - Quickly look for updated information about specific Autonomous System Number (ASN), Organizations, CIDR, or registered IP addresses (IPv4 and IPv6) among other relevant data
 - [BGPtools](https://bgp.tools/) - Browse the Internet ecosystem
 - [BGPview](https://bgpview.io/) - Debug and investigate information about IP addresses, ASN, IXs, BGP, ISPs, Prefixes and Domain names
 - [BigDataCloud](https://www.bigdatacloud.com/) - The API provides comprehensive location and network data
@@ -150,7 +150,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [RepoSearch](http://codefinder.org/) - Source code search engine that helps you find implementation details, example usages or just analyze code
 - [SourceGraph](https://about.sourcegraph.com/) - Understand and search across your entire codebase
 - [HotExamples](https://hotexamples.com/) - Search code examples from over 1 million projects
-- [WP Directory](https://wpdirectory.net/) - Lightning fast regex searching of code in the WordPress Plugin and Theme Directories
+- [WP Directory](https://wpdirectory.net/) - Lightning-fast regex searching of code in the WordPress Plugin and Theme Directories
 - [GitHub Gists](https://gist.github.com/discover) - Instantly share code, notes, and snippets
 - [CodeBerg](https://codeberg.org/explore/repos) - Collaboration platform and Git hosting for free and open source software, content and projects
 - [Fedora Pagure](https://pagure.io/browse/projects/) - Open Source software code hosting system
@@ -159,14 +159,14 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [gitorious.org](https://gitorious.org/) - Read-only mirror of the former gitorious.org code hosting website
 - [Sourcehut](https://sr.ht/projects) - Collection of tools useful for software development
 - [android.googlesource.com](https://android.googlesource.com/) - Git repositories on android
-- [deps.dev](https://deps.dev/) - Service developed and hosted by Google to help developers better understand the structure, construction, and security of open source software packages
+- [deps.dev](https://deps.dev/) - Service developed and hosted by Google to help developers better understand the structure, construction, and security of open-source software packages
 - [WebFinery](https://webfinery.com/search) - Search the source code of the web
 - [Google Code Archive](https://code.google.com/archive/) - Data found on the Google Code Project Hosting Service, which was turned down in early 2016
 - [Snipplr](https://snipplr.com/all) - Code snippet search engine that allows users to search and share code snippets across various programming languages and frameworks
-- [Postman Public Collections](https://www.postman.com/explore/collections) - Explore the best APIs, collections, workspaces in the world on the Postman Public API Network
+- [Postman Public Collections](https://www.postman.com/explore/collections) - Explore the best APIs, collections, and workspaces in the world on the Postman Public API Network
 - [ScriptMafia](https://scriptmafia.org) - Download full nulled scripts
 - [SearchFTPs](https://www.searchftps.net/) - The most advanced FTP Search Engine service maintained by members
-- [Ecosyste.ms](https://ecosyste.ms/) - An open API service providing package, version and dependency metadata of many open source software ecosystems and registries
+- [Ecosyste.ms](https://ecosyste.ms/) - An open API service providing package, version and dependency metadata of many open-source software ecosystems and registries
   
 ### Mail Addresses
 
@@ -218,7 +218,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [visualsitemapper.com](http://www.visualsitemapper.com/) - Create a visual map of your site
 - [similarweb.com](https://www.similarweb.com/) - The easiest and fastest tool to find out what's really going on online
 - [buckets.grayhatwarfare.com](https://buckets.grayhatwarfare.com/) - Public buckets
-- [C99.nl](https://api.c99.nl/) - Over 57 quality API's and growing!
+- [C99.nl](https://api.c99.nl/) - Over 57 quality APIs and growing!
 - [wannabe1337.xyz](https://wannabe1337.xyz/) - Online Tools
 - [subdomainfinder.c99.nl](https://subdomainfinder.c99.nl/) - Scanner that scans an entire domain to find as many subdomains as possible
 - [AnubisDB](https://jonlu.ca/anubis/) - Subdomain enumeration and information gathering tool
@@ -226,7 +226,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Private Key Project](https://www.pkey.in/tools-i/search-subdomains) - Information security tools from Private Key Project
 - [SiteDossier](http://www.sitedossier.com/) - Profiles for millions of sites on the web
 - [SpyOnWeb](https://spyonweb.com/) - Quick and convenient search for the websites that probably belong to the same owner
-- [HaveIBeenSquatted](https://www.haveibeensquatted.com/) - Check if a domain has been typosquatted
+- [HaveIBeenSquatted](https://www.haveibeensquatted.com/) - Check if a domain has been typo squatted
 
 ### URLs
 
@@ -243,8 +243,8 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 ### DNS
 
 - [DNSDumpster](https://dnsdumpster.com/) - DNS recon & research, find & lookup dns records
-- [Chaos](https://chaos.projectdiscovery.io/#/) - Enhance research and analyse changes around DNS for better insights
-- [RapidDNS](https://rapiddns.io/) - DNS query tool which make querying subdomains or sites of a same ip easy
+- [Chaos](https://chaos.projectdiscovery.io/#/) - Enhance research and analyze changes around DNS for better insights
+- [RapidDNS](https://rapiddns.io/) - DNS query tool which makes querying subdomains or sites of a same ip easy
 - [DNSdb](https://docs.farsightsecurity.com/#dnsdb) - Passive DNS historical database
 - [Omnisint](https://omnisint.io/reverse-dns-lookup) - Reverse DNS lookup
 - [HackerTarget](https://hackertarget.com/ip-tools/) - Collect information about IP Addresses, Networks, Web Pages and DNS records
@@ -253,14 +253,14 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [dnshistory.org](http://dnshistory.org/) - Domain Name System Historical Record Archive
 - [DNSTwister](https://dnstwister.report/) - The anti-phishing domain name search engine and DNS monitoring service
 - [DNSviz](https://dnsviz.net/) - Tool for visualizing the status of a DNS zone
-- [C99.nl](https://api.c99.nl/) - Over 57 quality API's and growing
+- [C99.nl](https://api.c99.nl/) - Over 57 quality APIs and growing
 - [wannabe1337.xyz](https://wannabe1337.xyz/) - Online Tools
 - [DNSlytics](https://dnslytics.com/) - Find out everything about a domain name, IP address or provider
 - [dnsrepo.noc.org](https://dnsrepo.noc.org/) - DNS Database Repository Search
 - [DNSSpy](https://dnsspy.io/) - Monitor, validate and verify your DNS configurations
-- [ZETAlytics](https://zetalytics.com/) - We offer unrivalled geographic diversity and exclusive global network visibility in searchable datasets for use by cyber security analysts
+- [ZETAlytics](https://zetalytics.com/) - We offer unrivaled geographic diversity and exclusive global network visibility in searchable datasets for use by cyber security analysts
 - [AskDNS](https://askdns.com/) - Lookup Connected Domain Names and IP Addresses
-- [360 PassiveDNS.CN](https://passivedns.cn/) - Biggest public available db in China designed for security and research purpose
+- [360 PassiveDNS.CN](https://passivedns.cn/) - Biggest publicly available db in China designed for security and research purposes
 - [MXtoolbox](https://mxtoolbox.com/SuperTool.aspx) - All of your MX record, DNS, blacklist and SMTP diagnostics in one integrated tool
 - [NSLookup.io](https://www.nslookup.io/) - Find all DNS records for a domain name using this online tool
 - [Robtex DNS Lookup](https://www.robtex.com/dns-lookup/) - Get detailed information on the nameservers associated with a domain name
@@ -324,7 +324,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 
 - [AHMIA](https://ahmia.fi/) - Search hidden services on the Tor network
 - [thehiddenwiki.org](https://thehiddenwiki.org/) - The darknet guide
-- [tor.link](https://tor.link/) - Free anonymous deepweb / Darknet search engine
+- [tor.link](https://tor.link/) - Free anonymous deep web / Darknet search engine
 - [deepweblinks.net](https://deepweblinks.net/) - Onion Links
 - [onionengine.com](https://onionengine.com/) - A search engine for services accessible on the Tor network
 - [OnionLand](https://onionlandsearchengine.com/) - Discover Hidden Services and access to Tor's onion sites
@@ -373,9 +373,9 @@ These can be useful for osint and social engineering.
 - [SynapsInt](https://synapsint.com/) - The unified OSINT research tool
 - [C99.nl](https://api.c99.nl/) - Over 57 quality API's and growing
 - [ValidNumber.com](https://validnumber.com/) - Free reverse phone lookup service to let you identify a caller associated with any 10-digit phone number from the US and Canada
-- [CellIdFinder](https://cellidfinder.com/) - Nonprofit project which helps you to find GSM BTS by MCC, MNC, LAC and CellID
+- [CellIdFinder](https://cellidfinder.com/) - Nonprofit project that helps you to find GSM BTS by MCC, MNC, LAC and CellID
 - [OldPhoneBook](http://www.oldphonebook.com/) - Instantly search a large selection from the past 20 years of USA phone listings
-- [Spokeo](https://www.spokeo.com/) - Search by name, phone, address, or email to confidentially lookup information about people you know
+- [Spokeo](https://www.spokeo.com/) - Search by name, phone, address, or email to confidentially look for information about people you know
 - [Intelius Phone Lookup](https://www.intelius.com/reverse-phone-lookup/) - Look up a phone number to find owner information, carrier details, and more
 - [ZabaSearch Phone Lookup](https://www.zabasearch.com/reverse-phone-lookup/) - Reverse Phone Lookup Tool Can Uncover Personal Information, Social Media Data, Online Activity, Photos, and More
 - [AnyWho Phone Lookup](https://www.anywho.com/reverse-phone-lookup/) - Find out information associated with a phone number
@@ -472,7 +472,7 @@ These can be useful for osint and social engineering.
 
 ### Surveillance cameras
 
-- [Insecam.org](http://www.insecam.org/en/) - The world biggest directory of online surveillance security cameras
+- [Insecam.org](http://www.insecam.org/en/) - The world's biggest directory of online surveillance security cameras
 - [Surveillance under Surveillance](https://sunders.uber.space/) - Cameras and guards watching you almost everywhere
 - [World Cams](https://worldcams.tv/) - Live Streaming Webcams Like Never Seen Before
 - [Skylinewebcams](https://www.skylinewebcams.com/) - Live HD webcams broadcasting from the world's best attractions and destinations
@@ -497,7 +497,7 @@ These can be useful for osint and social engineering.
 <!-- markdown-link-check-disable -->
 
 - [DNS.BufferOver.run](https://dns.bufferover.run/)
-- [NetoGraph](https://netograph.io/) - Captures and indexes detailed, low-level snapshots of website behaviour
+- [NetoGraph](https://netograph.io/) - Captures and indexes detailed, low-level snapshots of website behavior
 
 <!-- markdown-link-check-enable -->
 
