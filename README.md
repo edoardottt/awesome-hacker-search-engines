@@ -194,6 +194,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Emailrep.io](https://emailrep.io/) - Simple Email Reputation
 - [Mailboxvalidator](https://www.mailboxvalidator.com/) - Secure and reliable email validation service to check for invalid email addresses
 - [ContactOut](https://contactout.com/) - Most accurate email finder for personal and work email outreach
+- [validemail.io](https://validemail.io/) - Email address validation tool
 
 ### Domains
 
