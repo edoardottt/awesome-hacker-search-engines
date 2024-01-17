@@ -241,6 +241,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [CommonCrawl Index](http://index.commoncrawl.org/) - Open repository of web crawl data
 - [URLVoid](https://www.urlvoid.com/) - Check the online reputation/safety of a website
 - [Norton SafeWeb](https://safeweb.norton.com/) - Look up a site, Get our rating
+- [CheckPhish](https://checkphish.bolster.ai/) - Real-time URL and website scanner
 
 ### DNS
 
@@ -460,6 +461,8 @@ These can be useful for osint and social engineering.
 - [WhoisXMLAPI](https://www.whoisxmlapi.com/) - Domain & IP Data Intelligence for Greater Enterprise Security
 - [APIVoid](https://www.apivoid.com/) - Threat analysis centered on IP and Domain reputation, along with additional services
 - [AnyRun](https://app.any.run/submissions) - Browse thousands of malware samples in our database
+- [Filescan.io](https://www.filescan.io/reports) - Search reports for file name, URL, IP, Domain or Hash
+- [MalShare](https://malshare.com/) - Community driven public malware repository that works to provide free access to malware samples
 
 ### Web History
 
@@ -508,6 +511,7 @@ These can be useful for osint and social engineering.
 
 - [DNS.BufferOver.run](https://dns.bufferover.run/)
 - [NetoGraph](https://netograph.io/) - Captures and indexes detailed, low-level snapshots of website behaviour
+- [Hashdd](https://hashdd.com/) - Known Good Cryptographic Hashes
 
 <!-- markdown-link-check-enable -->
 
