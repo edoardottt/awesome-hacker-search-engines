@@ -28,7 +28,8 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#images" target="_blank">Images</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#threat-intelligence" target="_blank">Threat Intelligence</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#web-history" target="_blank">Web History</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#surveillance-cameras" target="_blank">Surveillance cameras</a>
+  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#surveillance-cameras" target="_blank">Surveillance cameras</a>  •
+  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#crypto" target="_blank">Crypto</a>
 </p>
 
 ### General Search Engines
@@ -458,6 +459,7 @@ These can be useful for osint and social engineering.
 - [Detection.FYI](https://detection.fyi/) - Search Sigma rules
 - [WhoisXMLAPI](https://www.whoisxmlapi.com/) - Domain & IP Data Intelligence for Greater Enterprise Security
 - [APIVoid](https://www.apivoid.com/) - Threat analysis centered on IP and Domain reputation, along with additional services
+- [AnyRun](https://app.any.run/submissions) - Browse thousands of malware samples in our database
 
 ### Web History
 
@@ -486,6 +488,12 @@ These can be useful for osint and social engineering.
 - [Earth Cam](https://www.earthcam.com/) - Leading network of live streaming webcams for tourism and entertainment
 - [Webcam Taxi](https://www.webcamtaxi.com/en/) - Live Virtual Travel
 - [LiveWorldWebcams](https://liveworldwebcams.com/) - Live streaming webcams from around the world
+
+### Crypto
+
+- [ChainAbuse](https://www.chainabuse.com/) - Report malicious crypto activity
+- [BlockChair](https://blockchair.com/) - Blockchain explorer, analytics and web services
+- [BlockCypher](https://live.blockcypher.com/) - Search the block chain
 
 ### Unclassified
 
