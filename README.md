@@ -464,6 +464,7 @@ These can be useful for osint and social engineering.
 - [Filescan.io](https://www.filescan.io/reports) - Search reports for file name, URL, IP, Domain or Hash
 - [MalShare](https://malshare.com/) - Community driven public malware repository that works to provide free access to malware samples
 - [Kaspersky TIP](https://opentip.kaspersky.com/requests) - Scan files, domains, IP addresses, and URLs for threats, malware, viruses
+- [Malwares.com](https://malwares.com/) - Search malwares online
 
 ### Web History
 
