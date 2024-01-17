@@ -463,6 +463,7 @@ These can be useful for osint and social engineering.
 - [AnyRun](https://app.any.run/submissions) - Browse thousands of malware samples in our database
 - [Filescan.io](https://www.filescan.io/reports) - Search reports for file name, URL, IP, Domain or Hash
 - [MalShare](https://malshare.com/) - Community driven public malware repository that works to provide free access to malware samples
+- [Kaspersky TIP](https://opentip.kaspersky.com/requests) - Scan files, domains, IP addresses, and URLs for threats, malware, viruses
 
 ### Web History
 
