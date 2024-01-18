@@ -467,6 +467,7 @@ These can be useful for osint and social engineering.
 - [Kaspersky TIP](https://opentip.kaspersky.com/requests) - Scan files, domains, IP addresses, and URLs for threats, malware, viruses
 - [Malwares.com](https://malwares.com/) - Search malwares online
 - [ApkLab](https://www.apklab.io/) - Mobile threat intelligence platform designed to provide the most relevant information for Android security researchers
+- [Scumware](https://www.scumware.org/search.php) - Find latest reports about malware and other threats
 
 ### Web History
 
