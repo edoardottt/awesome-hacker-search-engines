@@ -342,7 +342,7 @@ These can be useful for osint and social engineering.
 - [Facebook](https://www.facebook.com/)
 - [Instagram](https://www.instagram.com/)
 - [YouTube](https://www.youtube.com/)
-- [Twitter](https://twitter.com/)
+- [Twitter/X](https://twitter.com/)
 - [LinkedIn](https://www.linkedin.com/)
 - [Reddit](https://new.reddit.com/)
 - [Pinterest](https://www.pinterest.com/)
@@ -358,6 +358,7 @@ These can be useful for osint and social engineering.
 - [VK](https://vk.com/)
 - [Weibo](https://weibo.com/)
 - [Tinder](https://tinder.com/)
+- [Threads](https://www.threads.net/)
 
 ### Phone Numbers
 
