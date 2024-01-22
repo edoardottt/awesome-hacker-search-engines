@@ -244,7 +244,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Norton SafeWeb](https://safeweb.norton.com/) - Look up a site, Get our rating
 - [CheckPhish](https://checkphish.bolster.ai/) - Real-time URL and website scanner
 - [web-check.xyz](https://web-check.xyz/) - All-in-one OSINT tool, for quickly checking a websites data
-- [TinyScan](https://www.tiny-scan.com/) - A powerful URL scan tool that provides comprehensive information about any given URL. Get insights into IP address, location, screenshots, technology stack, performance metrics, and more
+- [TinyScan](https://www.tiny-scan.com/) - Effortlessly Dive into URL Details
 
 ### DNS
 
