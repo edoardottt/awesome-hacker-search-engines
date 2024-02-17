@@ -543,8 +543,7 @@ These can be useful for osint and social engineering.
 - [NetoGraph](https://netograph.io/) - Captures and indexes detailed, low-level snapshots of website behaviour
 - [Hashdd](https://hashdd.com/) - Known Good Cryptographic Hashes
 
-<a class="top-link hide" href="#top">↑ Top</a>
-<a name="top"></a>
+[⇧ Top](#general-search-engines)
 
 <!-- markdown-link-check-enable -->
 
