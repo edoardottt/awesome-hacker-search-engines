@@ -124,6 +124,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [LOOBins](https://www.loobins.io/) - Detailed information on various built-in macOS binaries and how they can be used by threat actors for malicious purposes
 - [Coalition Exploit Scoring System](https://ess.coalitioninc.com/) - Model that dynamically scores new and existing vulnerabilities to reflect their exploit likelihood
 - [WADComs](https://wadcoms.github.io/) - Interactive cheat sheet containing a curated list of offensive security tools and their respective commands to be used against Windows/AD environments
+- [LOLAPPS](https://lolapps-project.github.io/) - Compendium of applications that can be used to carry out day-to-day exploitation
 
 
 ### Attack Surface
