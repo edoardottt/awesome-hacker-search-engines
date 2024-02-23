@@ -524,6 +524,7 @@ These can be useful for osint and social engineering.
 - [BeenVerified](https://www.beenverified.com/) - BeenVerified's mission is to give people easy and affordable access to public record information
 - [ZabaSearch](https://www.zabasearch.com/) - Free* People Search and Public Information Search Engine
 - [PeekYou](https://www.peekyou.com/) - Fast People Search Made Easy
+- [PeopleFinders](https://www.peoplefinders.com/people-search) - People Search
 
 ### Unclassified
 
