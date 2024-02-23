@@ -520,6 +520,7 @@ These can be useful for osint and social engineering.
 ### People
 
 - [TruePeopleSearch](https://www.truepeoplesearch.com/) - Free people search tool. Search billions of public records
+- [TruthFinder](https://www.truthfinder.com/people-search/) - A people search is a quick and simple way to find information on someone by name
 
 ### Unclassified
 
