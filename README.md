@@ -522,6 +522,7 @@ These can be useful for osint and social engineering.
 - [TruePeopleSearch](https://www.truepeoplesearch.com/) - Free people search tool. Search billions of public records
 - [TruthFinder](https://www.truthfinder.com/people-search/) - A people search is a quick and simple way to find information on someone by name
 - [BeenVerified](https://www.beenverified.com/) - BeenVerified's mission is to give people easy and affordable access to public record information
+- [ZabaSearch](https://www.zabasearch.com/) - Free* People Search and Public Information Search Engine
 
 ### Unclassified
 
