@@ -28,8 +28,9 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#images" target="_blank">Images</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#threat-intelligence" target="_blank">Threat Intelligence</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#web-history" target="_blank">Web History</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#surveillance-cameras" target="_blank">Surveillance cameras</a>  •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#crypto" target="_blank">Crypto</a>
+  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#surveillance-cameras" target="_blank">Surveillance cameras</a> •
+  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#crypto" target="_blank">Crypto</a> •
+  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#people" target="_blank">People</a>
 </p>
 
 ### General Search Engines
@@ -66,7 +67,6 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Quake](https://quake.360.net/quake/#/index) - Cyberspace surveying and mapping system
 - [Hunter](https://hunter.how/) - Internet Search Engines For Security Researchers
 
-
 ### Vulnerabilities
 
 - [NIST NVD](https://nvd.nist.gov/vuln/search) - US National Vulnerability Database
@@ -97,7 +97,6 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Microsoft Security Response Center](https://msrc.microsoft.com/update-guide/en-us) - Reports of security vulnerabilities affecting Microsoft products and services
 - [VARIoT](https://www.variotdbs.pl/vulns/) - VARIoT IoT Vulnerabilities Database
 
-
 ### Exploits
 
 - [Exploit-DB](https://www.exploit-db.com/) - Exploit Database
@@ -127,7 +126,6 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [LOLAPPS](https://lolapps-project.github.io/) - Compendium of applications that can be used to carry out day-to-day exploitation
 - [Living off the Hardware](https://lothardware.com.tr/) - Resource collection that provides guidance on identifying and utilizing malicious hardware and malicious devices
 
-
 ### Attack Surface
 
 - [FullHunt.io](https://fullhunt.io/) - Attack surface database of the entire Internet
@@ -146,7 +144,6 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [RADb](https://www.radb.net/query) - The world's largest public routing registry
 - [Deepinfo](https://www.deepinfo.com/) - Empower your security with the most comprehensive Internet data
 - [CloudFlare Radar](https://radar.cloudflare.com/) - Global Internet traffic, attack, and technology trends and insights
-
 
 ### Code
 
@@ -178,7 +175,6 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [SearchFTPs](https://www.searchftps.net/) - The most advanced FTP Search Engine service maintained by members
 - [Ecosyste.ms](https://ecosyste.ms/) - An open API service providing package, version and dependency metadata of many open source software ecosystems and registries
 
-
 ### Mail Addresses
 
 - [Hunter.io](https://hunter.io/) - Find professional email addresses in seconds
@@ -206,7 +202,6 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Mailboxvalidator](https://www.mailboxvalidator.com/) - Secure and reliable email validation service to check for invalid email addresses
 - [ContactOut](https://contactout.com/) - Most accurate email finder for personal and work email outreach
 - [validemail.io](https://validemail.io/) - Validate email addresses for deliverability with our Email Validation API
-
 
 ### Domains
 
@@ -256,7 +251,6 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [web-check.xyz](https://web-check.xyz/) - All-in-one OSINT tool, for quickly checking a websites data
 - [TinyScan](https://www.tiny-scan.com/) - Effortlessly Dive into URL Details
 
-
 ### DNS
 
 - [DNSDumpster](https://dnsdumpster.com/) - DNS recon & research, find & lookup dns records
@@ -285,7 +279,6 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Validin](https://app.validin.com/) - Massive collection of DNS records with free DNS history search
 - [dnslookup.pro](https://dnslookup.pro/) - Advanced DNS Record Analysis & Troubleshooting
 
-
 ### Certificates
 
 - [Crt.sh](https://crt.sh/) - Certificate Search
@@ -299,7 +292,6 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [FacebookCT](https://developers.facebook.com/tools/ct/search/) - Search for certificates issued for a given domain and subscribe to notifications from Facebook regarding new certificates
 - [certs.io](https://certs.io/) - Search TLS certificates across the internet.
 
-
 ### WiFi Networks
 
 - [Wigle.net](https://wigle.net/) - Maps and database of 802.11 wireless networks with statistics
@@ -309,7 +301,6 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [openwifimap.net](https://openwifimap.net/) - HTML5 map with OpenWiFiMap data
 - [mylnikov.org](https://www.mylnikov.org/) - Public API implementation of Wi-Fi Geo-Location database
 
-
 ### Device Information
 
 - [MACVendorLookup.com](https://www.macvendorlookup.com/) - Look up the vendor for a specific MAC Address
@@ -317,7 +308,6 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [macaddress.io](https://macaddress.io/) - MAC address vendor lookup
 - [maclookup.app](https://maclookup.app/) - Find the vendor name of a device by entering an OUI or a MAC address
 - [macvendors.co](https://macvendors.co/) - Get vendor name of your network device using its mac address
-
 
 ### Credentials
 
@@ -328,7 +318,6 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [HashKiller](https://hashkiller.io/listmanager) - Pre-cracked Hashes, easily searchable
 - [LeakedPassword](https://leakedpassword.com/) - Search across multiple data breaches to see if your pass has been compromised
 - [BugMeNot](https://bugmenot.com/) - Find and share logins
-
 
 ### Leaks
 
@@ -351,7 +340,6 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [deepweblinks.net](https://deepweblinks.net/) - Onion Links
 - [onionengine.com](https://onionengine.com/) - A search engine for services accessible on the Tor network
 - [OnionLand](https://onionlandsearchengine.com/) - Discover Hidden Services and access to Tor's onion sites
-
 
 ### Social Networks
 
@@ -377,7 +365,6 @@ These can be useful for osint and social engineering.
 - [Weibo](https://weibo.com/)
 - [Tinder](https://tinder.com/)
 - [Threads](https://www.threads.net/)
-
 
 ### Phone Numbers
 
@@ -408,7 +395,6 @@ These can be useful for osint and social engineering.
 - [Radaris Phone Lookup](https://radaris.com/#findPhoneH) - Look up any phone number to see its owner and identify who's calling or texting you
 - [Reverse Phone Lookup](https://www.reversephonecheck.com/) - Reverse phone number lookup with millions of listings including name or address
 
-
 ### Images
 
 - [Google Image Search](https://images.google.com/) - The most comprehensive image search on the web
@@ -433,7 +419,6 @@ These can be useful for osint and social engineering.
 - [FotoForensics](https://fotoforensics.com/) - Tools and training for digital picture analysis, including error level analysis, metadata, and tutorials
 - [Exif data](http://exifdata.com/) - Online application that lets you take a deeper look at your favorite images
 - [Image Identify](https://www.imageidentify.com/) - Image recognition site, just drag your image & identify
-
 
 ### Threat Intelligence
 
@@ -498,7 +483,6 @@ These can be useful for osint and social engineering.
 - [WTFBins](https://wtfbins.wtf/) - Catalogue benign applications that exhibit suspicious behavior. These binaries can emit noise and false positives in threat hunting and automated detections
 - [LOFLCAB](https://lofl-project.github.io/) - Document every cmdlet, binary, script, and WMI class that can be used for Living Off the Foreign Land techniques
 
-
 ### Web History
 
 - [Web Archive](https://web.archive.org/) - Explore more than 702 billion web pages saved over time
@@ -510,7 +494,6 @@ These can be useful for osint and social engineering.
 - [Arquivo](https://arquivo.pt/) - Non-profit service that maintains information published on the web of interest to the Portuguese community
 - [Archive-It](https://archive-it.org/) - An archive of digital government and non-government organization (NGO) documents and reports
 - [HAW](https://haw.nsk.hr/en/) - Croatian Web Archive
-
 
 ### Surveillance cameras
 
@@ -528,13 +511,15 @@ These can be useful for osint and social engineering.
 - [Webcam Taxi](https://www.webcamtaxi.com/en/) - Live Virtual Travel
 - [LiveWorldWebcams](https://liveworldwebcams.com/) - Live streaming webcams from around the world
 
-
 ### Crypto
 
 - [ChainAbuse](https://www.chainabuse.com/) - Report malicious crypto activity
 - [BlockChair](https://blockchair.com/) - Blockchain explorer, analytics and web services
 - [BlockCypher](https://live.blockcypher.com/) - Search the block chain
 
+### People
+
+- [TruePeopleSearch](https://www.truepeoplesearch.com/) - Free people search tool. Search billions of public records
 
 ### Unclassified
 
@@ -542,7 +527,6 @@ These can be useful for osint and social engineering.
 - [usersearch.org](https://usersearch.org/) - Find someone by username or email on Social Networks, Dating Sites, Forums, Crypto Forums, Chat Sites and Blogs
 - [Pastebin](https://pastebin.com/) - Website where you can store text online for a set period of time
 - [Wappalyzer](https://www.wappalyzer.com/) - Instant access to website technology stacks, company and contact details, social media profiles, email verification and more
-
 
 ### Not working / Paused
 
