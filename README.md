@@ -530,6 +530,7 @@ These can be useful for osint and social engineering.
 - [snitch.name](http://snitch.name/) - Social White Pages application with helps you Search for People's Profiles on Social Sites
 - [Webmii](https://webmii.com/) - People search engine
 - [FastPeopleSearch](https://www.fastpeoplesearch.com/) - Find a person by name, phone number, or street address
+- [Sorted By Name](https://sortedbyname.com/) - A curated collection of links to genealogy details mentioned on other websites, or acquired by the webmaster
 
 ### Unclassified
 
