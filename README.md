@@ -7,30 +7,30 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 </p>
 
 <p align="center">
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#general-search-engines" target="_blank">General</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#servers" target="_blank">Servers</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#vulnerabilities" target="_blank">Vulnerabilities</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#exploits" target="_blank">Exploits</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#attack-surface" target="_blank">Attack surface</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#code" target="_blank">Code</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#mail-addresses" target="_blank">Mail addresses</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#domains" target="_blank">Domains</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#urls" target="_blank">URLs</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#dns" target="_blank">DNS</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#certificates" target="_blank">Certificates</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#wifi-networks" target="_blank">WiFi networks</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#device-information" target="_blank">Device Info</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#credentials" target="_blank">Credentials</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#leaks" target="_blank">Leaks</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#hidden-services" target="_blank">Hidden Services</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#social-networks" target="_blank">Social Networks</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#phone-numbers" target="_blank">Phone numbers</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#images" target="_blank">Images</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#threat-intelligence" target="_blank">Threat Intelligence</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#web-history" target="_blank">Web History</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#surveillance-cameras" target="_blank">Surveillance cameras</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#crypto" target="_blank">Crypto</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#people" target="_blank">People</a>
+  <a href="#general-search-engines" target="_blank">General</a> •
+  <a href="#servers" target="_blank">Servers</a> •
+  <a href="#vulnerabilities" target="_blank">Vulnerabilities</a> •
+  <a href="#exploits" target="_blank">Exploits</a> •
+  <a href="#attack-surface" target="_blank">Attack surface</a> •
+  <a href="#code" target="_blank">Code</a> •
+  <a href="#mail-addresses" target="_blank">Mail addresses</a> •
+  <a href="#domains" target="_blank">Domains</a> •
+  <a href="#urls" target="_blank">URLs</a> •
+  <a href="#dns" target="_blank">DNS</a> •
+  <a href="#certificates" target="_blank">Certificates</a> •
+  <a href="#wifi-networks" target="_blank">WiFi networks</a> •
+  <a href="#device-information" target="_blank">Device Info</a> •
+  <a href="#credentials" target="_blank">Credentials</a> •
+  <a href="#leaks" target="_blank">Leaks</a> •
+  <a href="#hidden-services" target="_blank">Hidden Services</a> •
+  <a href="#social-networks" target="_blank">Social Networks</a> •
+  <a href="#phone-numbers" target="_blank">Phone numbers</a> •
+  <a href="#images" target="_blank">Images</a> •
+  <a href="#threat-intelligence" target="_blank">Threat Intelligence</a> •
+  <a href="#web-history" target="_blank">Web History</a> •
+  <a href="#surveillance-cameras" target="_blank">Surveillance cameras</a> •
+  <a href="#crypto" target="_blank">Crypto</a> •
+  <a href="#people" target="_blank">People</a>
 </p>
 
 ### General Search Engines
