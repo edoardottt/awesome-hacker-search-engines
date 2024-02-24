@@ -529,6 +529,7 @@ These can be useful for osint and social engineering.
 - [That's Them](https://thatsthem.com/people-search) - Find Someone's Contact Details By Name
 - [snitch.name](http://snitch.name/) - Social White Pages application with helps you Search for People's Profiles on Social Sites
 - [Webmii](https://webmii.com/) - People search engine
+- [FastPeopleSearch](https://www.fastpeoplesearch.com/) - Find a person by name, phone number, or street address
 
 ### Unclassified
 
