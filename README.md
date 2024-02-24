@@ -7,30 +7,30 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 </p>
 
 <p align="center">
-  <a href="#general-search-engines" target="_blank">General</a> •
-  <a href="#servers" target="_blank">Servers</a> •
-  <a href="#vulnerabilities" target="_blank">Vulnerabilities</a> •
-  <a href="#exploits" target="_blank">Exploits</a> •
-  <a href="#attack-surface" target="_blank">Attack surface</a> •
-  <a href="#code" target="_blank">Code</a> •
-  <a href="#mail-addresses" target="_blank">Mail addresses</a> •
-  <a href="#domains" target="_blank">Domains</a> •
-  <a href="#urls" target="_blank">URLs</a> •
-  <a href="#dns" target="_blank">DNS</a> •
-  <a href="#certificates" target="_blank">Certificates</a> •
-  <a href="#wifi-networks" target="_blank">WiFi networks</a> •
-  <a href="#device-information" target="_blank">Device Info</a> •
-  <a href="#credentials" target="_blank">Credentials</a> •
-  <a href="#leaks" target="_blank">Leaks</a> •
-  <a href="#hidden-services" target="_blank">Hidden Services</a> •
-  <a href="#social-networks" target="_blank">Social Networks</a> •
-  <a href="#phone-numbers" target="_blank">Phone numbers</a> •
-  <a href="#images" target="_blank">Images</a> •
-  <a href="#threat-intelligence" target="_blank">Threat Intelligence</a> •
-  <a href="#web-history" target="_blank">Web History</a> •
-  <a href="#surveillance-cameras" target="_blank">Surveillance cameras</a> •
-  <a href="#crypto" target="_blank">Crypto</a> •
-  <a href="#people" target="_blank">People</a>
+  <a href="#general-search-engines">General</a> •
+  <a href="#servers">Servers</a> •
+  <a href="#vulnerabilities">Vulnerabilities</a> •
+  <a href="#exploits">Exploits</a> •
+  <a href="#attack-surface">Attack surface</a> •
+  <a href="#code">Code</a> •
+  <a href="#mail-addresses">Mail addresses</a> •
+  <a href="#domains">Domains</a> •
+  <a href="#urls">URLs</a> •
+  <a href="#dns">DNS</a> •
+  <a href="#certificates">Certificates</a> •
+  <a href="#wifi-networks">WiFi networks</a> •
+  <a href="#device-information">Device Info</a> •
+  <a href="#credentials">Credentials</a> •
+  <a href="#leaks">Leaks</a> •
+  <a href="#hidden-services">Hidden Services</a> •
+  <a href="#social-networks">Social Networks</a> •
+  <a href="#phone-numbers">Phone numbers</a> •
+  <a href="#images">Images</a> •
+  <a href="#threat-intelligence">Threat Intelligence</a> •
+  <a href="#web-history">Web History</a> •
+  <a href="#surveillance-cameras">Surveillance cameras</a> •
+  <a href="#crypto">Crypto</a> •
+  <a href="#people">People</a>
 </p>
 
 ### General Search Engines
