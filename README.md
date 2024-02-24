@@ -125,6 +125,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [WADComs](https://wadcoms.github.io/) - Interactive cheat sheet containing a curated list of offensive security tools and their respective commands to be used against Windows/AD environments
 - [LOLAPPS](https://lolapps-project.github.io/) - Compendium of applications that can be used to carry out day-to-day exploitation
 - [Living off the Hardware](https://lothardware.com.tr/) - Resource collection that provides guidance on identifying and utilizing malicious hardware and malicious devices
+- [Living Off the Pipeline](https://boostsecurityio.github.io/lotp/) - How development tools commonly used in CI/CD pipelines can be used to achieve arbitrary code execution
 
 ### Attack Surface
 
