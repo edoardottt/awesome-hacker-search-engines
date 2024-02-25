@@ -538,6 +538,7 @@ These can be useful for osint and social engineering.
 - [Yasni](http://www.yasni.com/) - Search phone, email, address for any name. News, pictures & links for any person. Find anyone on the internet with the world's largest free people search
 - [USA Data Search](https://usa-official.com/) - The USA official website provides access to public data that can be searched and viewed by anyone
 - [AnyWho](https://www.anywho.com/) - Finding People, Places, and Businesses
+- [Lullar](https://com.lullar.com/) - Profile Search by Email, First Last Name or Username
 
 ### Unclassified
 
