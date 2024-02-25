@@ -536,6 +536,7 @@ These can be useful for osint and social engineering.
 - [Addresses.com](https://www.addresses.com/) - Free People Search and Public Information Search Engine
 - [Advanced Background Checks](https://www.advancedbackgroundchecks.com/) - Free People Search
 - [Yasni](http://www.yasni.com/) - Search phone, email, address for any name. News, pictures & links for any person. Find anyone on the internet with the world's largest free people search
+- [USA Data Search](https://usa-official.com/) - The USA official website provides access to public data that can be searched and viewed by anyone
 
 ### Unclassified
 
