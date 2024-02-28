@@ -542,6 +542,7 @@ These can be useful for osint and social engineering.
 - [Ancestry](https://www.ancestry.com/search/) - The largest for-profit genealogy company in the world, it operates a network of genealogical, historical records, and related genetic genealogy websites
 - [genealogy.com](https://www.genealogy.com/) - Source for family history buffs to find genealogical research originally posted in GenForum and our most popular genealogy articles
 - [US Search](https://www.ussearch.com/) - Access to details about the people in your life. Access public records, contact information, background checks & more
+- [Find My Past](https://search.findmypast.com/search-world-records) - Discover your global ancestors by searching millions of records across the world
 
 ### Unclassified
 
