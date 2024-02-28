@@ -543,6 +543,7 @@ These can be useful for osint and social engineering.
 - [genealogy.com](https://www.genealogy.com/) - Source for family history buffs to find genealogical research originally posted in GenForum and our most popular genealogy articles
 - [US Search](https://www.ussearch.com/) - Access to details about the people in your life. Access public records, contact information, background checks & more
 - [Find My Past](https://search.findmypast.com/search-world-records) - Discover your global ancestors by searching millions of records across the world
+- [FamilySearch](https://www.familysearch.org/search/) - Search for your ancestors in birth certificates, marriage registrations, census records, and other documents
 
 ### Unclassified
 
