@@ -484,6 +484,7 @@ These can be useful for osint and social engineering.
 - [WTFBins](https://wtfbins.wtf/) - Catalogue benign applications that exhibit suspicious behavior. These binaries can emit noise and false positives in threat hunting and automated detections
 - [LOFLCAB](https://lofl-project.github.io/) - Document every cmdlet, binary, script, and WMI class that can be used for Living Off the Foreign Land techniques
 - [OpSecFailure](https://opsecfail.github.io/) - Site that lists how individuals messed up their opsec, no personal info is shared on this site
+- [TrailDiscover](https://traildiscover.cloud/) - An evolving repository of CloudTrail events with detailed descriptions, MITRE ATT&CK insights, real-world incidents, references and security implications
 
 ### Web History
 
