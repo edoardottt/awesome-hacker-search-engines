@@ -332,6 +332,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Distributed Denial of Secrets](https://ddosecrets.com/) - Journalist 501(c)(3) non-profit devoted to publishing and archiving leaks
 - [Have I Been Zuckered](https://haveibeenzuckered.com/) - Facebook Data Breach Checker
 - [Cryptome](https://cryptome.org/) - Documents for publication that are prohibited by governments worldwide
+- [Hashes.com](https://hashes.com/en/decrypt/hash) - Decrypt and crack your MD5, SHA1, SHA256, MySQL, MD5 Email, SHA256 Email, and NTLM hashes for free online
 
 ### Hidden Services
 
