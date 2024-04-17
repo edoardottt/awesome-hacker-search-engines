@@ -321,7 +321,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [BugMeNot](https://bugmenot.com/) - Find and share logins
 - [Hashes.com](https://hashes.com/en/decrypt/hash) - Decrypt and crack your MD5, SHA1, SHA256, MySQL, MD5 Email, SHA256 Email, and NTLM hashes for free online
 - [Hashmob](https://hashmob.net/search) - The Largest Password Recovery Community
-- [WhiteIntel](https://whiteintel.io/) - Check if a company or its customers was a victim of stealer malwares.
+- [WhiteIntel](https://whiteintel.io/) - Check if a company or its customers was victim of an information stealer malware
 
 ### Leaks
 
