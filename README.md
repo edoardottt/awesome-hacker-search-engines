@@ -311,7 +311,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [macvendors.co](https://macvendors.co/) - Get vendor name of your network device using its mac address
 
 ### Credentials
-- [WhiteIntel](https://whiteintel.io/) - Check if a company was a victim of stealer malwares.
+
 - [Have I Been Pwned](https://haveibeenpwned.com/) - Check if your email or phone is in a data breach
 - [Dehashed](https://www.dehashed.com/) - Free deep-web scans and protection against credential leaks
 - [LeakCheck.io](https://leakcheck.io/) - Make sure your credentials haven't been compromised
@@ -321,6 +321,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [BugMeNot](https://bugmenot.com/) - Find and share logins
 - [Hashes.com](https://hashes.com/en/decrypt/hash) - Decrypt and crack your MD5, SHA1, SHA256, MySQL, MD5 Email, SHA256 Email, and NTLM hashes for free online
 - [Hashmob](https://hashmob.net/search) - The Largest Password Recovery Community
+- [WhiteIntel](https://whiteintel.io/) - Check if a company or its customers was a victim of stealer malwares.
 
 ### Leaks
 
