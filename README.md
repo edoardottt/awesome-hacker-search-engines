@@ -322,6 +322,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Hashes.com](https://hashes.com/en/decrypt/hash) - Decrypt and crack your MD5, SHA1, SHA256, MySQL, MD5 Email, SHA256 Email, and NTLM hashes for free online
 - [Hashmob](https://hashmob.net/search) - The Largest Password Recovery Community
 - [WhiteIntel](https://whiteintel.io/) - Check if a company or its customers was victim of an information stealer malware
+- [ntlm.pw](https://ntlm.pw/) - Instantly look up NTLM hashes and resolve them to plaintext passwords using our database with 8B+ entries
 
 ### Leaks
 
