@@ -331,7 +331,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Leak-Lookup](https://leak-lookup.com/) - Search across thousands of data breaches
 - [Snusbase](https://snusbase.com/) - Stay on top of the latest database breaches
 - [breachdirectory.org](https://breachdirectory.org/) - Check if your information was exposed in a data breach
-- [BreachForums](https://breached.to/) - Breaches, Data leaks, databases and more
+- [BreachForums](https://breachforums.st/) - Breaches, Data leaks, databases and more
 - [Siph0n Breach DB (onionsite)](siphondkh34l5vki.onion/) - Breaches, Data leaks, Exploits
 - [Exposed Forum](https://exposed.vc/) - The premier Databreach discussion & leaks forum
 - [Distributed Denial of Secrets](https://ddosecrets.com/) - Journalist 501(c)(3) non-profit devoted to publishing and archiving leaks
