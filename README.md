@@ -318,7 +318,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [LeakCheck.io](https://leakcheck.io/) - Make sure your credentials haven't been compromised
 - [crackstation.net](https://crackstation.net/) -Massive pre-computed lookup tables to crack password hashes
 - [HashKiller](https://hashkiller.io/listmanager) - Pre-cracked Hashes, easily searchable
-- [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - Check if a username, email, or domain was compromised in global Infostealer attacks
+- [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - Use Hudson Rock’s free cybercrime intelligence tools to learn how compromised credentials are impacting your business
 - [LeakedPassword](https://leakedpassword.com/) - Search across multiple data breaches to see if your pass has been compromised
 - [BugMeNot](https://bugmenot.com/) - Find and share logins
 - [Hashes.com](https://hashes.com/en/decrypt/hash) - Decrypt and crack your MD5, SHA1, SHA256, MySQL, MD5 Email, SHA256 Email, and NTLM hashes for free online
