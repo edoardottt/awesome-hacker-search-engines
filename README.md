@@ -176,6 +176,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [ScriptMafia](https://scriptmafia.org) - Download full nulled scripts
 - [SearchFTPs](https://www.searchftps.net/) - The most advanced FTP Search Engine service maintained by members
 - [Ecosyste.ms](https://ecosyste.ms/) - An open API service providing package, version and dependency metadata of many open source software ecosystems and registries
+- [SwaggerHub](https://app.swaggerhub.com/search) - Search public APIs and Domains in SwaggerHub
 
 ### Mail Addresses
 
