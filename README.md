@@ -289,7 +289,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [tls.bufferover.run](https://tls.bufferover.run/) - Quickly find certificates in IPv4 space
 - [CertSpotter](https://sslmate.com/certspotter/) - Monitors your domains for expiring, unauthorized, and invalid SSL certificates
 - [SynapsInt](https://synapsint.com/) - The unified OSINT research tool
-- [Censys Search - Certificates](https://search.censys.io/certificates) - Certificates Search
+- [Censys Search - Certificates](https://search.censys.io/#) - Certificates Search
 - [ciphersuite.info](https://ciphersuite.info/) - TLS Ciphersuite Search. Search for a particular cipher suite by using IANA, OpenSSL or GnuTLS name format
 - [certificatedetails](https://certificatedetails.com/) - Online certificate viewer. Inspect and download certificates from your browser
 - [FacebookCT](https://developers.facebook.com/tools/ct/search/) - Search for certificates issued for a given domain and subscribe to notifications from Facebook regarding new certificates
