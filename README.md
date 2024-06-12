@@ -66,6 +66,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [FOFA](https://fofa.info/) - Cyberspace mapping
 - [Quake](https://quake.360.net/quake/#/index) - Cyberspace surveying and mapping system
 - [Hunter](https://hunter.how/) - Internet Search Engines For Security Researchers
+- [ODIN](https://getodin.com/) - One of the most powerful search engines for Scanned Internet Assets
 
 ### Vulnerabilities
 
@@ -294,6 +295,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [certificatedetails](https://certificatedetails.com/) - Online certificate viewer. Inspect and download certificates from your browser
 - [FacebookCT](https://developers.facebook.com/tools/ct/search/) - Search for certificates issued for a given domain and subscribe to notifications from Facebook regarding new certificates
 - [certs.io](https://certs.io/) - Search TLS certificates across the internet.
+- [ODIN Certificates Search](https://getodin.com/search/certificates) - ODIN Certificates Search
 
 ### WiFi Networks
 
