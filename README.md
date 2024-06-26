@@ -255,6 +255,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [CheckPhish](https://checkphish.bolster.ai/) - Real-time URL and website scanner
 - [web-check.xyz](https://web-check.xyz/) - All-in-one OSINT tool, for quickly checking a websites data
 - [TinyScan](https://www.tiny-scan.com/) - Effortlessly Dive into URL Details
+- [urlDNA](https://urldna.io/) - Unleash website insights! urldna.io analyzes data, monitors brands and exposes security risks
 
 ### DNS
 
