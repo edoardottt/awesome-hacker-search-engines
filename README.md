@@ -432,6 +432,7 @@ These can be useful for osint and social engineering.
 - [FotoForensics](https://fotoforensics.com/) - Tools and training for digital picture analysis, including error level analysis, metadata, and tutorials
 - [Exif data](http://exifdata.com/) - Online application that lets you take a deeper look at your favorite images
 - [Image Identify](https://www.imageidentify.com/) - Image recognition site, just drag your image & identify
+- [ScamDigger](https://www.scamdigger.com/picsearch.php) - You will see if that picture belongs to somebody else, was used by somebody else, already scamlisted, etc
 
 ### Threat Intelligence
 
