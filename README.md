@@ -441,7 +441,7 @@ These can be useful for osint and social engineering.
 - [ThreatCrowd](https://threatcrowd.org/) - A Search Engine for Threats
 - [ThreatMiner](https://www.threatminer.org/) - Data Mining for Threat Intelligence
 - [VirusTotal](https://www.virustotal.com/) - Analyze suspicious files, domains, IPs and URLs to detect malware and other breaches
-- [vx-underground.org](https://www.vx-underground.org/) - The largest collection of malware source code, samples, and papers on the internet
+- [vx-underground.org](https://vx-underground.org/) - The largest collection of malware source code, samples, and papers on the internet
 - [bazaar.abuse.ch](https://bazaar.abuse.ch/browse/) - Malware sample database
 - [feodotracker.abuse.ch](https://feodotracker.abuse.ch/browse/) - List of botnet Command&Control servers
 - [sslbl.abuse.ch](https://sslbl.abuse.ch/ssl-certificates/) - All malicious SSL certificates
