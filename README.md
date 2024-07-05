@@ -128,6 +128,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Living off the Hardware](https://lothardware.com.tr/) - Resource collection that provides guidance on identifying and utilizing malicious hardware and malicious devices
 - [Living Off the Pipeline](https://boostsecurityio.github.io/lotp/) - How development tools commonly used in CI/CD pipelines can be used to achieve arbitrary code execution
 - [hackyx.io](https://hackyx.io/) - The aim of this project is to easily find any resource related to IT security like CTF writeups, articles or Bug Bounty reports
+- [exploit.observer](https://www.exploit.observer/) - The World's Largest Exploit & Vulnerability Intelligence Database and is freely accessible to all
 
 ### Attack Surface
 
