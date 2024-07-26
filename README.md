@@ -513,6 +513,7 @@ These can be useful for osint and social engineering.
 
 ### Surveillance cameras
 
+- [AlleCam](https://www.allecam.com/) - Webcams from Europe and the whole world
 - [Insecam.org](http://www.insecam.org/en/) - The world biggest directory of online surveillance security cameras
 - [Surveillance under Surveillance](https://sunders.uber.space/) - Cameras and guards watching you almost everywhere
 - [World Cams](https://worldcams.tv/) - Live Streaming Webcams Like Never Seen Before
