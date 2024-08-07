@@ -528,6 +528,7 @@ These can be useful for osint and social engineering.
 - [Earth Cam](https://www.earthcam.com/) - Leading network of live streaming webcams for tourism and entertainment
 - [Webcam Taxi](https://www.webcamtaxi.com/en/) - Live Virtual Travel
 - [LiveWorldWebcams](https://liveworldwebcams.com/) - Live streaming webcams from around the world
+- [AlleCam](https://www.allecam.com/) - Webcam live from Europe and the whole world
 
 ### Crypto
 
