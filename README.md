@@ -100,6 +100,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 
 ### Exploits
 
+- [VulnCheck XDB](https://vulncheck.com/xdb/) - An index of exploit proof-of-concept code in Git repositories.
 - [Exploit-DB](https://www.exploit-db.com/) - Exploit Database
 - [Sploitus](https://sploitus.com/) - Convenient central place for identifying the newest exploits
 - [Rapid7 - DB](https://www.rapid7.com/db/) - Vulnerability & Exploit Database
