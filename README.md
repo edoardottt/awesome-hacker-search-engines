@@ -100,7 +100,6 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 
 ### Exploits
 
-- [VulnCheck XDB](https://vulncheck.com/xdb/) - An index of exploit proof-of-concept code in Git repositories.
 - [Exploit-DB](https://www.exploit-db.com/) - Exploit Database
 - [Sploitus](https://sploitus.com/) - Convenient central place for identifying the newest exploits
 - [Rapid7 - DB](https://www.rapid7.com/db/) - Vulnerability & Exploit Database
@@ -130,6 +129,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Living Off the Pipeline](https://boostsecurityio.github.io/lotp/) - How development tools commonly used in CI/CD pipelines can be used to achieve arbitrary code execution
 - [hackyx.io](https://hackyx.io/) - The aim of this project is to easily find any resource related to IT security like CTF writeups, articles or Bug Bounty reports
 - [exploit.observer](https://www.exploit.observer/) - The World's Largest Exploit & Vulnerability Intelligence Database and is freely accessible to all
+- [VulnCheck XDB](https://vulncheck.com/xdb/) - An index of exploit proof-of-concept code in Git repositories
 
 ### Attack Surface
 
