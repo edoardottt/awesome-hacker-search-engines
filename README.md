@@ -333,6 +333,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [WhiteIntel](https://whiteintel.io/) - Check if a company or its customers was victim of an information stealer malware
 - [ntlm.pw](https://ntlm.pw/) - Instantly look up NTLM hashes and resolve them to plaintext passwords using our database with 8B+ entries
 - [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - Use Hudson Rock’s free cybercrime intelligence tools to learn how compromised credentials are impacting your business
+- [hackedlist.io](https://hackedlist.io/) - Enter your domain to find credentials compromised by info-stealer malware
 
 ### Leaks
 
