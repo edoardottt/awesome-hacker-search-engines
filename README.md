@@ -130,6 +130,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [hackyx.io](https://hackyx.io/) - The aim of this project is to easily find any resource related to IT security like CTF writeups, articles or Bug Bounty reports
 - [exploit.observer](https://www.exploit.observer/) - The World's Largest Exploit & Vulnerability Intelligence Database and is freely accessible to all
 - [VulnCheck XDB](https://vulncheck.com/xdb/) - An index of exploit proof-of-concept code in Git repositories
+- [Sploitify](https://sploitify.haxx.it/) - Interactive cheat sheet, containing a curated list of public server-side exploits (mostly)
 
 ### Attack Surface
 
