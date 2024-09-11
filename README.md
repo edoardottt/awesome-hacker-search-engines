@@ -504,6 +504,7 @@ These can be useful for osint and social engineering.
 - [OpSecFailure](https://opsecfail.github.io/) - Site that lists how individuals messed up their opsec, no personal info is shared on this site
 - [TrailDiscover](https://traildiscover.cloud/) - An evolving repository of CloudTrail events with detailed descriptions, MITRE ATT&CK insights, real-world incidents, references and security implications
 - [scamdb.net](https://www.scamdb.net/) - Report and Search Online Scams
+- [OpenPhish](https://openphish.com/) - Actionable intelligence data on active phishing threats
 
 ### Web History
 
