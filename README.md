@@ -576,6 +576,7 @@ These can be useful for osint and social engineering.
 - [Pastebin](https://pastebin.com/) - Website where you can store text online for a set period of time
 - [Wappalyzer](https://www.wappalyzer.com/) - Instant access to website technology stacks, company and contact details, social media profiles, email verification and more
 - [Awakari](https://awakari.com) - Real-Time Search from unlimited sources like RSS, Fediverse, Telegram, etc. Filter events by keywords, numeric conditions, condition groups
+- [cspbypass.com](https://cspbypass.com/) - Search for CSP Bypasses 
 
 ### Not working / Paused
 
