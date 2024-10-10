@@ -350,6 +350,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Have I Been Zuckered](https://haveibeenzuckered.com/) - Facebook Data Breach Checker
 - [Cryptome](https://cryptome.org/) - Documents for publication that are prohibited by governments worldwide
 - [LeakPeek](https://leakpeek.com/) - Search for your publicly leaked passwords using an email or username, secure your personal data
+- [BreachCheck.io](https://breachcheck.io/) - Free service for consumers that allows you to check and download a list of your personal data exposed in various databreaches
 
 ### Hidden Services
 
