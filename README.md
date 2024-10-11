@@ -508,6 +508,7 @@ These can be useful for osint and social engineering.
 - [TrailDiscover](https://traildiscover.cloud/) - An evolving repository of CloudTrail events with detailed descriptions, MITRE ATT&CK insights, real-world incidents, references and security implications
 - [scamdb.net](https://www.scamdb.net/) - Report and Search Online Scams
 - [OpenPhish](https://openphish.com/) - Actionable intelligence data on active phishing threats
+- [ThreatIntelligencePlatform.com](https://threatintelligenceplatform.com/) - Data, tool, and API provider that specializes in automated threat detection, security analysis and threat intelligence solutions
 
 ### Web History
 
