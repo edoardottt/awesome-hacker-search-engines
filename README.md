@@ -96,6 +96,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Cisco Security Advisories](https://sec.cloudapps.cisco.com/security/center/publicationListing.x) - Security advisories and vulnerability information for Cisco products, including network equipment and software
 - [Microsoft Security Response Center](https://msrc.microsoft.com/update-guide/en-us) - Reports of security vulnerabilities affecting Microsoft products and services
 - [VARIoT](https://www.variotdbs.pl/vulns/) - VARIoT IoT Vulnerabilities Database
+- [Lambda Watchdog](https://lambdawatchdog.com/) - Your CVE dashboard for AWS Lambda
 
 ### Exploits
 
