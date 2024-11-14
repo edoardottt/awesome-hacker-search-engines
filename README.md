@@ -154,6 +154,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [CloudFlare Radar](https://radar.cloudflare.com/) - Global Internet traffic, attack, and technology trends and insights
 - [IPIP](https://en.ipip.net/) - The only IP Database based on real time BGP/ASN data analytics
 - [Hurricane Electric BGP](https://bgp.he.net/) - The Hurricane Electric BGP Toolkit is free to use. Look up ASN from IP address
+- [Webscout](https://webscout.io/) - From threat intelligence to attack surface discovery, asset management, and brand protection
 
 ### Code
 
