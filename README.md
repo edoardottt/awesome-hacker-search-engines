@@ -592,6 +592,7 @@ These can be useful for osint and social engineering.
 - [Awakari](https://awakari.com) - Real-Time Search from unlimited sources like RSS, Fediverse, Telegram, etc. Filter events by keywords, numeric conditions, condition groups
 - [cspbypass.com](https://cspbypass.com/) - Search for CSP Bypasses
 - [CanIUse.com](https://caniuse.com/) - Browser support tables for modern web technologies
+- [Dark Visitors](https://darkvisitors.com/) - Track and Control Artificial Agents Crawling Your Website
 
 ### Not working / Paused
 
