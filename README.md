@@ -97,6 +97,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Microsoft Security Response Center](https://msrc.microsoft.com/update-guide/en-us) - Reports of security vulnerabilities affecting Microsoft products and services
 - [VARIoT](https://www.variotdbs.pl/vulns/) - VARIoT IoT Vulnerabilities Database
 - [Lambda Watchdog](https://lambdawatchdog.com/) - Your CVE dashboard for AWS Lambda
+- [cvefeed.io](https://cvefeed.io/) - Comprehensive and up-to-date feed of the latest CVEs, security advisories, and other vulnerabilities
 
 ### Exploits
 
