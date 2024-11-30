@@ -254,6 +254,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [HaveIBeenSquatted](https://www.haveibeensquatted.com/) - Check if a domain has been typosquatted
 - [expireddomains.net](https://www.expireddomains.net/) - ExpiredDomains.net gathers all the information you need to find good Expired Domains that are Pending Delete and you can Backorder
 - [SubDomainRadar.io](https://subdomainradar.io) - Discover hidden subdomains with unparalleled accuracy and speed
+- [Google Safe Browsing](https://transparencyreport.google.com/safe-browsing/search) - Google's Safe Browsing technology examines billions of URLs per day looking for unsafe websites
 
 ### URLs
 
