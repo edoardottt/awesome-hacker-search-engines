@@ -135,6 +135,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [LOLESXi](https://lolesxi-project.github.io/LOLESXi/) - Comprehensive list of binaries/scripts natively available in VMware ESXi that adversaries have utilised in their operations
 - [LOLAD](https://lolad-project.github.io/) - Comprehensive collection of Active Directory techniques, commands, and functions that can be used natively to support offensive security operations and Red Team exercises
 - [Project-LOST](https://0xanalyst.github.io/Project-Lost/) - Living Off The Land Security Tools is a curated list of Security Tools used by adversaries to bypass security controls and carry out attacks
+- [cspbypass.com](https://cspbypass.com/) - Search for Content Security Policy Bypasses
 
 ### Attack Surface
 
@@ -596,7 +597,6 @@ These can be useful for osint and social engineering.
 - [Pastebin](https://pastebin.com/) - Website where you can store text online for a set period of time
 - [Wappalyzer](https://www.wappalyzer.com/) - Instant access to website technology stacks, company and contact details, social media profiles, email verification and more
 - [Awakari](https://awakari.com) - Real-Time Search from unlimited sources like RSS, Fediverse, Telegram, etc. Filter events by keywords, numeric conditions, condition groups
-- [cspbypass.com](https://cspbypass.com/) - Search for CSP Bypasses
 - [CanIUse.com](https://caniuse.com/) - Browser support tables for modern web technologies
 - [Dark Visitors](https://darkvisitors.com/) - Track and Control Artificial Agents Crawling Your Website
 
