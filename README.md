@@ -136,6 +136,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [LOLESXi](https://lolesxi-project.github.io/LOLESXi/) - Comprehensive list of binaries/scripts natively available in VMware ESXi that adversaries have utilised in their operations
 - [LOLAD](https://lolad-project.github.io/) - Comprehensive collection of Active Directory techniques, commands, and functions that can be used natively to support offensive security operations and Red Team exercises
 - [Project-LOST](https://0xanalyst.github.io/Project-Lost/) - Living Off The Land Security Tools is a curated list of Security Tools used by adversaries to bypass security controls and carry out attacks
+- [cspbypass.com](https://cspbypass.com/) - Search for Content Security Policy Bypasses
 
 ### Attack Surface
 
@@ -255,6 +256,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [HaveIBeenSquatted](https://www.haveibeensquatted.com/) - Check if a domain has been typosquatted
 - [expireddomains.net](https://www.expireddomains.net/) - ExpiredDomains.net gathers all the information you need to find good Expired Domains that are Pending Delete and you can Backorder
 - [SubDomainRadar.io](https://subdomainradar.io) - Discover hidden subdomains with unparalleled accuracy and speed
+- [Google Safe Browsing](https://transparencyreport.google.com/safe-browsing/search) - Google's Safe Browsing technology examines billions of URLs per day looking for unsafe websites
 
 ### URLs
 
@@ -465,6 +467,7 @@ These can be useful for osint and social engineering.
 - [vx-underground.org](https://vx-underground.org/) - The largest collection of malware source code, samples, and papers on the internet
 - [bazaar.abuse.ch](https://bazaar.abuse.ch/browse/) - Malware sample database
 - [feodotracker.abuse.ch](https://feodotracker.abuse.ch/browse/) - List of botnet Command&Control servers
+- [Joe Sandbox](https://www.joesandbox.com/) - Threat hunting & search engine
 - [sslbl.abuse.ch](https://sslbl.abuse.ch/ssl-certificates/) - All malicious SSL certificates
 - [urlhaus.abuse.ch](https://urlhaus.abuse.ch/browse/) - Propose new malware urls
 - [threatfox.abuse.ch](https://threatfox.abuse.ch/browse/) - Indicator Of Compromise (IOC) database
@@ -606,7 +609,6 @@ These can be useful for osint and social engineering.
 - [usersearch.org](https://usersearch.org/) - Find someone by username or email on Social Networks, Dating Sites, Forums, Crypto Forums, Chat Sites and Blogs
 - [Wappalyzer](https://www.wappalyzer.com/) - Instant access to website technology stacks, company and contact details, social media profiles, email verification and more
 - [Awakari](https://awakari.com) - Real-Time Search from unlimited sources like RSS, Fediverse, Telegram, etc. Filter events by keywords, numeric conditions, condition groups
-- [cspbypass.com](https://cspbypass.com/) - Search for CSP Bypasses
 - [CanIUse.com](https://caniuse.com/) - Browser support tables for modern web technologies
 - [Dark Visitors](https://darkvisitors.com/) - Track and Control Artificial Agents Crawling Your Website
 
