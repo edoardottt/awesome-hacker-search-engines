@@ -13,7 +13,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
   <a href="#exploits">Exploits</a> •
   <a href="#attack-surface">Attack surface</a> •
   <a href="#code">Code</a> •
-  <a href="#mail-addresses">Mail addresses</a> •
+  <a href="#email-addresses">Email addresses</a> •
   <a href="#domains">Domains</a> •
   <a href="#urls">URLs</a> •
   <a href="#dns">DNS</a> •
@@ -192,7 +192,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Ecosyste.ms](https://ecosyste.ms/) - An open API service providing package, version and dependency metadata of many open source software ecosystems and registries
 - [SwaggerHub](https://app.swaggerhub.com/search) - Search public APIs and Domains in SwaggerHub
 
-### Mail Addresses
+### Email Addresses
 
 - [Hunter.io](https://hunter.io/) - Find professional email addresses in seconds
 - [PhoneBook](https://phonebook.cz/) - Lists all domains, email addresses, or URLs for the given input domain
