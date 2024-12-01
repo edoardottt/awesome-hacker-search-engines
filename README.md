@@ -28,6 +28,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
   <a href="#images">Images</a> •
   <a href="#threat-intelligence">Threat Intelligence</a> •
   <a href="#web-history">Web History</a> •
+  <a href="#files">Files</a> •
   <a href="#surveillance-cameras">Surveillance cameras</a> •
   <a href="#crypto">Crypto</a> •
   <a href="#people">People</a>
@@ -534,6 +535,18 @@ These can be useful for osint and social engineering.
 - [Archive-It](https://archive-it.org/) - An archive of digital government and non-government organization (NGO) documents and reports
 - [HAW](https://haw.nsk.hr/en/) - Croatian Web Archive
 
+### Files
+
+- [Pastebin](https://pastebin.com/) - Website where you can store text online for a set period of time
+- [Mega](https://mega.nz/) - Secure and private cloud storage for everyone. Store and share files, chat, meet, back up, sync, and more
+- [4Shared](https://www.4s.io/) - Search, Store and Share easily. Upload, discover and share files without a hitch
+- [files.fm](https://files.fm/discover) - Explore content shared by community
+- [edisk.cz](https://www.edisk.cz/) - Online storage for backing up, sharing and searching for photos, videos, music and other files
+- [doodstream](https://doodstream.com.tr/search-engine/) - DoodStream Search Engine
+- [UVRX Search](http://www.uvrx.com/) - Most comprehensive online file storage search engine
+- [filesearch.link](https://filesearch.link/) - You can search archives, programs, videos, music, books and more
+- [RapidGators Search](https://rapidgators.net/file-search/) - Search for files stored on the rapidgator cloud
+
 ### Surveillance cameras
 
 - [Insecam.org](http://www.insecam.org/en/) - The world biggest directory of online surveillance security cameras
@@ -591,7 +604,6 @@ These can be useful for osint and social engineering.
 
 - [DorkSearch](https://dorksearch.com/) - Speed up your Dorking
 - [usersearch.org](https://usersearch.org/) - Find someone by username or email on Social Networks, Dating Sites, Forums, Crypto Forums, Chat Sites and Blogs
-- [Pastebin](https://pastebin.com/) - Website where you can store text online for a set period of time
 - [Wappalyzer](https://www.wappalyzer.com/) - Instant access to website technology stacks, company and contact details, social media profiles, email verification and more
 - [Awakari](https://awakari.com) - Real-Time Search from unlimited sources like RSS, Fediverse, Telegram, etc. Filter events by keywords, numeric conditions, condition groups
 - [cspbypass.com](https://cspbypass.com/) - Search for CSP Bypasses
