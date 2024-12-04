@@ -526,6 +526,7 @@ These can be useful for osint and social engineering.
 - [scamdb.net](https://www.scamdb.net/) - Report and Search Online Scams
 - [OpenPhish](https://openphish.com/) - Actionable intelligence data on active phishing threats
 - [ThreatIntelligencePlatform.com](https://threatintelligenceplatform.com/) - Data, tool, and API provider that specializes in automated threat detection, security analysis and threat intelligence solutions
+- [Hunt.io](https://hunt.io/) - Service that provides threat intelligence data about observed network scanning and cyberattacks
 
 ### Web History
 
