@@ -160,6 +160,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Hurricane Electric BGP](https://bgp.he.net/) - The Hurricane Electric BGP Toolkit is free to use. Look up ASN from IP address
 - [Webscout](https://webscout.io/) - From threat intelligence to attack surface discovery, asset management, and brand protection
 - [Awseye](https://awseye.com/) - Open-source intelligence (OSINT) and reconnaissance service tracking publicly accessible AWS data
+- [S4E](https://app.s4e.io/) - Continuous Threat Exposure Management platform that offers a web-based cybersecurity solution for comprehensive scanning and vulnerability detection of digital assets like domains, subdomains, IP addresses, and web apps
 
 ### Code
 
