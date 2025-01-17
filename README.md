@@ -368,6 +368,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [LeakPeek](https://leakpeek.com/) - Search for your publicly leaked passwords using an email or username, secure your personal data
 - [BreachCheck.io](https://breachcheck.io/) - Free service for consumers that allows you to check and download a list of your personal data exposed in various databreaches
 - [OCCRP Aleph](https://data.occrp.org/) - The global archive of research material for investigative reporting
+- [LeakRadar](https://leakradar.io/) - We collect publicly published infostealer logs so you can quickly check if your email credentials have been compromised
 
 ### Hidden Services
 
