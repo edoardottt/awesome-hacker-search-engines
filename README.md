@@ -108,7 +108,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Vulmon](https://vulmon.com/) - Vulnerability and exploit search engine
 - [packetstormsecurity.com](https://packetstormsecurity.com/) - Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers
 - [0day.today](https://0day.today/) - Ultimate database of exploits and vulnerabilities
-- [LOLBAS](https://lolbas-project.github.io/) - Living Off The Land Binaries, Scripts and Libraries
+- [Living Off The Land Binaries, Scripts and Libraries](https://lolbas-project.github.io/) - Living Off The Land Binaries, Scripts and Libraries
 - [GTFOBins](https://gtfobins.github.io/) - Curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
 - [Payloads All The Things](https://swisskyrepo.github.io/PayloadsAllTheThings/) - A list of useful payloads and bypasses for Web Application Security
 - [XSS Payloads](http://www.xss-payloads.com/) - The wonderland of JavaScript unexpected usages, and more
@@ -119,24 +119,25 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [GTFOArgs](https://gtfoargs.github.io/) - Curated list of Unix binaries that can be manipulated for argument injection
 - [shell-storm.org/shellcode](https://shell-storm.org/shellcode/index.html) - Shellcodes database for study cases
 - [Hacking the Cloud](https://hackingthe.cloud/) - Encyclopedia of the attacks/tactics/techniques that offensive security professionals can use on their next cloud exploitation adventure
-- [LOLDrivers](https://www.loldrivers.io/) - Open-source project that brings together vulnerable, malicious, and known malicious Windows drivers
+- [Living Off The Land Drivers](https://www.loldrivers.io/) - Open-source project that brings together vulnerable, malicious, and known malicious Windows drivers
 - [PwnWiki](http://pwnwiki.io/) - Collection of TTPs (tools, tactics, and procedures) for what to do after access has been gained
 - [CVExploits Search](https://cvexploits.io/) - Your comprehensive database for CVE exploits from across the internet
 - [VARIoT](https://www.variotdbs.pl/exploits/) - VARIoT IoT exploits database
-- [LOOBins](https://www.loobins.io/) - Detailed information on various built-in macOS binaries and how they can be used by threat actors for malicious purposes
+- [Living Off the Orchard: macOS Binaries](https://www.loobins.io/) - Detailed information on various built-in macOS binaries and how they can be used by threat actors for malicious purposes
 - [Coalition Exploit Scoring System](https://ess.coalitioninc.com/) - Model that dynamically scores new and existing vulnerabilities to reflect their exploit likelihood
 - [WADComs](https://wadcoms.github.io/) - Interactive cheat sheet containing a curated list of offensive security tools and their respective commands to be used against Windows/AD environments
-- [LOLAPPS](https://lolapps-project.github.io/) - Compendium of applications that can be used to carry out day-to-day exploitation
+- [Living Off The Land Applications](https://lolapps-project.github.io/) - Compendium of applications that can be used to carry out day-to-day exploitation
 - [Living off the Hardware](https://lothardware.com.tr/) - Resource collection that provides guidance on identifying and utilizing malicious hardware and malicious devices
 - [Living Off the Pipeline](https://boostsecurityio.github.io/lotp/) - How development tools commonly used in CI/CD pipelines can be used to achieve arbitrary code execution
 - [hackyx.io](https://hackyx.io/) - The aim of this project is to easily find any resource related to IT security like CTF writeups, articles or Bug Bounty reports
 - [exploit.observer](https://www.exploit.observer/) - The World's Largest Exploit & Vulnerability Intelligence Database and is freely accessible to all
 - [VulnCheck XDB](https://vulncheck.com/xdb/) - An index of exploit proof-of-concept code in Git repositories
 - [Sploitify](https://sploitify.haxx.it/) - Interactive cheat sheet, containing a curated list of public server-side exploits (mostly)
-- [LOLESXi](https://lolesxi-project.github.io/LOLESXi/) - Comprehensive list of binaries/scripts natively available in VMware ESXi that adversaries have utilised in their operations
-- [LOLAD](https://lolad-project.github.io/) - Comprehensive collection of Active Directory techniques, commands, and functions that can be used natively to support offensive security operations and Red Team exercises
-- [Project-LOST](https://0xanalyst.github.io/Project-Lost/) - Living Off The Land Security Tools is a curated list of Security Tools used by adversaries to bypass security controls and carry out attacks
+- [Living Off The Land ESXi](https://lolesxi-project.github.io/LOLESXi/) - Comprehensive list of binaries/scripts natively available in VMware ESXi that adversaries have utilised in their operations
+- [Living Off The Land and Exploitation Active Directory](https://lolad-project.github.io/) - Comprehensive collection of Active Directory techniques, commands, and functions that can be used natively to support offensive security operations and Red Team exercises
+- [Living Off The Land Security Tools](https://0xanalyst.github.io/Project-Lost/) - Curated list of Security Tools used by adversaries to bypass security controls and carry out attacks
 - [cspbypass.com](https://cspbypass.com/) - Search for Content Security Policy Bypasses
+- [Living Off The Tunnels](https://lottunnels.github.io/#) - Community driven project to document digital tunnels that can be abused by threat actors as well by insiders for data exfiltrations, persistence, shell access etc
 
 ### Attack Surface
 
