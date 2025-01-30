@@ -372,7 +372,6 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [BreachCheck.io](https://breachcheck.io/) - Free service for consumers that allows you to check and download a list of your personal data exposed in various databreaches
 - [OCCRP Aleph](https://data.occrp.org/) - The global archive of research material for investigative reporting
 - [LeakRadar](https://leakradar.io/) - We collect publicly published infostealer logs so you can quickly check if your email credentials have been compromised
-- [OCCRP Aleph](https://data.occrp.org/) - The global archive of research material for investigative reporting.
 - [Offshore Leaks](https://offshoreleaks.icij.org/) - Internal Consortium Of Investigative Journalists
 
 ### Hidden Services
