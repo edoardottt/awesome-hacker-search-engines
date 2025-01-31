@@ -372,7 +372,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [BreachCheck.io](https://breachcheck.io/) - Free service for consumers that allows you to check and download a list of your personal data exposed in various databreaches
 - [OCCRP Aleph](https://data.occrp.org/) - The global archive of research material for investigative reporting
 - [LeakRadar](https://leakradar.io/) - We collect publicly published infostealer logs so you can quickly check if your email credentials have been compromised
-- [Offshore Leaks](https://offshoreleaks.icij.org/) - Internal Consortium Of Investigative Journalists
+- [Offshore Leaks](https://offshoreleaks.icij.org/) - Find out who's behind more than 800000 offshore companies, foundations and trusts from ICIJ's investigations
 
 ### Hidden Services
 
@@ -609,8 +609,8 @@ These can be useful for osint and social engineering.
 - [FamilySearch](https://www.familysearch.org/search/) - Search for your ancestors in birth certificates, marriage registrations, census records, and other documents
 - [iTools - Wink People Search](http://itools.com/tool/wink-people-search) - Free people search. Find people on social networks and across the Web
 - [Intelius](https://www.intelius.com/) - Leading provider of public data about people and their connections to others
-- [Whatsmyname](https://whatsmyname.app/) - OSINT Combine username search tool
-- [Namecheckr](https://www.namecheckr.com/) - Check usernames in various social networks
+- [Whatsmyname](https://whatsmyname.app/) - OSINT tool designed for enumerating usernames across a wide array of websites
+- [Namecheckr](https://www.namecheckr.com/) - Social and Domain Name Availability Search For Brand Professionals
 
 ### Unclassified
 
