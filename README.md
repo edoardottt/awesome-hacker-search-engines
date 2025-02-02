@@ -360,6 +360,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [WikiLeaks](https://wikileaks.org/) - News leaks and classified media provided by anonymous sources
 - [Leak-Lookup](https://leak-lookup.com/) - Search across thousands of data breaches
 - [Snusbase](https://snusbase.com/) - Stay on top of the latest database breaches
+- [Weleakinfo](https://weleakinfo.io/) - View dehashed breached databases
 - [breachdirectory.org](https://breachdirectory.org/) - Check if your information was exposed in a data breach
 - [BreachForums](https://breachforums.st/) - Breaches, Data leaks, databases and more
 - [Siph0n Breach DB (onionsite)](siphondkh34l5vki.onion/) - Breaches, Data leaks, Exploits
@@ -371,6 +372,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [BreachCheck.io](https://breachcheck.io/) - Free service for consumers that allows you to check and download a list of your personal data exposed in various databreaches
 - [OCCRP Aleph](https://data.occrp.org/) - The global archive of research material for investigative reporting
 - [LeakRadar](https://leakradar.io/) - We collect publicly published infostealer logs so you can quickly check if your email credentials have been compromised
+- [Offshore Leaks](https://offshoreleaks.icij.org/) - Find out who's behind more than 800000 offshore companies, foundations and trusts from ICIJ's investigations
 
 ### Hidden Services
 
@@ -607,6 +609,8 @@ These can be useful for osint and social engineering.
 - [FamilySearch](https://www.familysearch.org/search/) - Search for your ancestors in birth certificates, marriage registrations, census records, and other documents
 - [iTools - Wink People Search](http://itools.com/tool/wink-people-search) - Free people search. Find people on social networks and across the Web
 - [Intelius](https://www.intelius.com/) - Leading provider of public data about people and their connections to others
+- [Whatsmyname](https://whatsmyname.app/) - OSINT tool designed for enumerating usernames across a wide array of websites
+- [Namecheckr](https://www.namecheckr.com/) - Social and Domain Name Availability Search For Brand Professionals
 
 ### Unclassified
 
