@@ -99,6 +99,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [VARIoT](https://www.variotdbs.pl/vulns/) - VARIoT IoT Vulnerabilities Database
 - [Lambda Watchdog](https://lambdawatchdog.com/) - Your CVE dashboard for AWS Lambda
 - [cvefeed.io](https://cvefeed.io/) - Comprehensive and up-to-date feed of the latest CVEs, security advisories, and other vulnerabilities
+- [CVE Crowd](https://cvecrowd.com/) - Keep track of actively discussed CVEs and integrate them into your application or business
 
 ### Exploits
 
