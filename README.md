@@ -533,6 +533,7 @@ These can be useful for osint and social engineering.
 - [OpenPhish](https://openphish.com/) - Actionable intelligence data on active phishing threats
 - [ThreatIntelligencePlatform.com](https://threatintelligenceplatform.com/) - Data, tool, and API provider that specializes in automated threat detection, security analysis and threat intelligence solutions
 - [Hunt.io](https://hunt.io/) - Service that provides threat intelligence data about observed network scanning and cyberattacks
+- [LOLC2](https://lolc2.github.io/) - Collection of C2 frameworks that leverage legitimate services to evade detection
 
 ### Web History
 
