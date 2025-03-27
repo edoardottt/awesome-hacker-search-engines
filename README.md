@@ -196,7 +196,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [SearchFTPs](https://www.searchftps.net/) - The most advanced FTP Search Engine service maintained by members
 - [Ecosyste.ms](https://ecosyste.ms/) - An open API service providing package, version and dependency metadata of many open source software ecosystems and registries
 - [SwaggerHub](https://app.swaggerhub.com/search) - Search public APIs and Domains in SwaggerHub
-
+- [sigmarules](https://sigmahq.io/docs/basics/rules.html) - YAML-based detection rules that standardize SIEM queries for identifying security threats across different log sources. 
 ### Email Addresses
 
 - [Hunter.io](https://hunter.io/) - Find professional email addresses in seconds
