@@ -100,6 +100,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Lambda Watchdog](https://lambdawatchdog.com/) - Your CVE dashboard for AWS Lambda
 - [cvefeed.io](https://cvefeed.io/) - Comprehensive and up-to-date feed of the latest CVEs, security advisories, and other vulnerabilities
 - [CVE Crowd](https://cvecrowd.com/) - Keep track of actively discussed CVEs and integrate them into your application or business
+- [Wiz Vulnerability Database](https://www.wiz.io/vulnerability-database) - A comprehensive resource for monitoring high-profile vulnerabilities in cloud environments, tailored for security teams and cloud professionals
 
 ### Exploits
 
