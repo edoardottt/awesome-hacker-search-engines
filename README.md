@@ -384,6 +384,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [deepweblinks.net](https://deepweblinks.net/) - Onion Links
 - [onionengine.com](https://onionengine.com/) - A search engine for services accessible on the Tor network
 - [OnionLand](https://onionlandsearchengine.net/) - Discover Hidden Services and access to Tor's onion sites
+- [darkwebdaily.live](https://darkwebdaily.live/) - A Smarter Way to Navigate the Darknet
 
 ### Social Networks
 
