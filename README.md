@@ -165,6 +165,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Awseye](https://awseye.com/) - Open-source intelligence (OSINT) and reconnaissance service tracking publicly accessible AWS data
 - [S4E](https://app.s4e.io/) - Continuous Threat Exposure Management platform that offers a web-based cybersecurity solution for comprehensive scanning and vulnerability detection of digital assets like domains, subdomains, IP addresses, and web apps
 - [ipquery.io](https://ipquery.io/) - The IP Address API for Developers
+- [Criminal IP](https://www.criminalip.io/) - Search engine for exposed assets, vulnerabilities, exploits, and threat intelligence, including domains, IPs, certificates, and hacker groups.
 
 ### Code
 
