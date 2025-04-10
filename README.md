@@ -538,6 +538,7 @@ These can be useful for osint and social engineering.
 - [LOLC2](https://lolc2.github.io/) - Collection of C2 frameworks that leverage legitimate services to evade detection
 - [seized.fyi](https://seized.fyi/) - List of seized websites
 - [InfoTrail](https://infotrail.io/) - Advanced OSINT search engine helping security professionals and researchers uncover critical intelligence
+- [RuleHound](https://rulehound.com/rules) - An index of publicly available and open-source threat detection rulesets
 
 ### Web History
 
