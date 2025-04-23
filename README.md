@@ -375,6 +375,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [OCCRP Aleph](https://data.occrp.org/) - The global archive of research material for investigative reporting
 - [LeakRadar](https://leakradar.io/) - We collect publicly published infostealer logs so you can quickly check if your email credentials have been compromised
 - [Offshore Leaks](https://offshoreleaks.icij.org/) - Find out who's behind more than 800000 offshore companies, foundations and trusts from ICIJ's investigations
+- [Venacus](https://venacus.com/) - Search across 70+ TB of data breaches and leaked documents
 
 ### Hidden Services
 
