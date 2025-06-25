@@ -629,6 +629,7 @@ These can be useful for osint and social engineering.
 - [Awakari](https://awakari.com) - Real-Time Search from unlimited sources like RSS, Fediverse, Telegram, etc. Filter events by keywords, numeric conditions, condition groups
 - [CanIUse.com](https://caniuse.com/) - Browser support tables for modern web technologies
 - [Dark Visitors](https://darkvisitors.com/) - Track and Control Artificial Agents Crawling Your Website
+- [Username Search](https://www.user-searcher.com/) - Search usernames across 2000+ social media platforms, dating sites, forums, and more.
 
 ### Not working / Paused
 
