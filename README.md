@@ -620,6 +620,7 @@ These can be useful for osint and social engineering.
 - [Intelius](https://www.intelius.com/) - Leading provider of public data about people and their connections to others
 - [Whatsmyname](https://whatsmyname.app/) - OSINT tool designed for enumerating usernames across a wide array of websites
 - [Namecheckr](https://www.namecheckr.com/) - Social and Domain Name Availability Search For Brand Professionals
+- [Username Search](https://www.user-searcher.com/) - Free online tool to conduct reverse username search across various social media platforms, online dating sites, forums, and communities simply by providing a username
 
 ### Unclassified
 
