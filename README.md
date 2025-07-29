@@ -357,6 +357,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [HaveIBeenSold](https://haveibeensold.app/) - Lets you find out whether or not your email has been sold to third parties
 - [Leak.sx](https://leak.sx/) - The best leaked accounts website you always wanted
 - [ScatteredSecrets](https://scatteredsecrets.com/) - Search data breaches to see if your password has been compromised
+- [InfoStealers](https://infostealers.info/en/info) - Indexes darknet-exposed infostealer logs and makes them searchable and actionable for security teams, investigators, researchers, and digital forensics professionals.
 
 ### Leaks
 
