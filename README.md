@@ -82,7 +82,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Rapid7 - DB](https://www.rapid7.com/db/) - Vulnerability & Exploit Database
 - [CVEDetails](https://www.cvedetails.com/) - The ultimate security vulnerability datasource
 - [VulnIQ](https://vulniq.com/) - Vulnerability intelligence and management solution
-- [Vulert](vulert.com) - Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more.
+- [Vulert](https://vulert.com/vuln-db) - Vulert's vulnerability database lists recent security issues found in open-source packages for languages like PHP, Java, Python, Node.js, and other 
 - [SynapsInt](https://synapsint.com/) - The unified OSINT research tool
 - [Aqua Vulnerability Database](https://avd.aquasec.com/) - Vulnerabilities and weaknesses in open source applications and cloud native infrastructure
 - [Vulmon](https://vulmon.com/) - Vulnerability and exploit search engine
