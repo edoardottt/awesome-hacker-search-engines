@@ -308,7 +308,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [DNSMap](https://dnsmap.io/) - Worldwide DNS Propagation Checker
 - [Validin](https://app.validin.com/) - Massive collection of DNS records with free DNS history search
 - [dnslookup.pro](https://dnslookup.pro/) - Advanced DNS Record Analysis & Troubleshooting
-- [ViewDNS.info](https://viewdns.info/) - A web-based toolkit offering over 25 DNS and network intelligence tools for reconnaissance, diagnostics, and research, including Reverse IP/WHOIS, Subdomain Discovery, IP history, DNSSEC testing, and network utilities like ping and traceroute.
+- [ViewDNS.info](https://viewdns.info/) - A web-based toolkit offering over 25 DNS and network intelligence tools for reconnaissance, diagnostics, and research.
 
 ### Certificates
 
