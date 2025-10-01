@@ -259,7 +259,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [HypeStat](https://hypestat.com/) - Free statistics and analytics service, where you can find information about every website
 - [Private Key Project](https://www.pkey.in/tools-i/search-subdomains) - Information security tools from Private Key Project
 - [SiteDossier](http://www.sitedossier.com/) - Profiles for millions of sites on the web
-- [SpyOnWeb](https://spyonweb.com/) - Quick and convenient search for the websites that probably belong to the same owner
+- [SpyOnWeb](https://spyonweb.net/) - Quick and convenient search for the websites that probably belong to the same owner
 - [HaveIBeenSquatted](https://www.haveibeensquatted.com/) - Check if a domain has been typosquatted
 - [expireddomains.net](https://www.expireddomains.net/) - ExpiredDomains.net gathers all the information you need to find good Expired Domains that are Pending Delete and you can Backorder
 - [SubDomainRadar.io](https://subdomainradar.io) - Discover hidden subdomains with unparalleled accuracy and speed
