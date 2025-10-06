@@ -67,6 +67,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Quake](https://quake.360.net/quake/#/index) - Cyberspace surveying and mapping system
 - [Hunter](https://hunter.how/) - Internet Search Engines For Security Researchers
 - [ODIN](https://getodin.com/) - One of the most powerful search engines for Scanned Internet Assets
+- [Modat Magnify](https://magnify.modat.io/) - The Largest Internet Device DNA Dataset Available
 
 ### Vulnerabilities
 
