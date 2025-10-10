@@ -545,6 +545,7 @@ These can be useful for osint and social engineering.
 - [seized.fyi](https://seized.fyi/) - List of seized websites
 - [InfoTrail](https://infotrail.io/) - Advanced OSINT search engine helping security professionals and researchers uncover critical intelligence
 - [RuleHound](https://rulehound.com/rules) - An index of publicly available and open-source threat detection rulesets
+- [ClickFix Wiki](https://clickfix-wiki.github.io/) - ClickFix lures can lead to malware and computer viruses. If you see text like this online, it's likely a scam
 
 ### Web History
 
