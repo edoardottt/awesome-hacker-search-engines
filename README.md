@@ -546,6 +546,7 @@ These can be useful for osint and social engineering.
 - [InfoTrail](https://infotrail.io/) - Advanced OSINT search engine helping security professionals and researchers uncover critical intelligence
 - [RuleHound](https://rulehound.com/rules) - An index of publicly available and open-source threat detection rulesets
 - [ClickFix Wiki](https://clickfix-wiki.github.io/) - ClickFix lures can lead to malware and computer viruses. If you see text like this online, it's likely a scam
+- [PromptIntel](https://promptintel.novahunting.ai/) - A collaborative threat intel platform to identify patterns and artifacts indicating potential exploitation or misuse of Large Language Models
 
 ### Web History
 
