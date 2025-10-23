@@ -89,6 +89,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [VulDB](https://vuldb.com/) - Number one vulnerability database
 - [ScanFactory](https://in.scanfactory.io/cvemon.html) - Realtime Security Monitoring
 - [Trend Micro Zero Day Initiative](https://www.zerodayinitiative.com/advisories/published/) - Publicly disclosed vulnerabilities discovered by Zero Day Initiative researchers
+- [OWASP Top Ten](https://owasp.org/www-project-top-ten) - A broad consensus about the most critical security risks to web applications.
 - [Google Project Zero](https://bugs.chromium.org/p/project-zero/issues/list?can=1&q=&sort=-id&colspec=ID%20Type%20Status%20Priority%20Milestone%20Owner%20Summary) - Vulnerabilities including Zero Days
 - [Trickest CVE Repository](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC
 - [cnvd.org.cn](https://www.cnvd.org.cn/) - Chinese National Vulnerability Database
