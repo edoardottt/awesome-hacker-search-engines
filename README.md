@@ -104,6 +104,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Wiz Vulnerability Database](https://www.wiz.io/vulnerability-database) - A comprehensive resource for monitoring high-profile vulnerabilities in cloud environments, tailored for security teams and cloud professionals
 - [Shodan CVEDB](https://cvedb.shodan.io/) - The CVEDB API offers a quick way to check information about vulnerabilities in a service
 - [Vulert](https://vulert.com/vuln-db) - Recent security issues found in open-source packages
+- [promptfoo.dev Language Model Security Database](https://www.promptfoo.dev/lm-security-db/) - A comprehensive collection of LLM vulnerabilities, curated from cutting-edge research papers and real-world discoveries
 
 ### Exploits
 
