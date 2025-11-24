@@ -551,6 +551,7 @@ These can be useful for osint and social engineering.
 - [PromptIntel](https://promptintel.novahunting.ai/) - A collaborative threat intel platform to identify patterns and artifacts indicating potential exploitation or misuse of Large Language Models
 - [Zone-H Archive](https://www.zone-h.org/archive/) - Online archive dedicated to collecting and publishing records of defaced websites
 - [ransomlook.io](https://www.ransomlook.io/) - Open-source project providing real-time ransomware intelligence
+- [opensourcemalware.com](https://opensourcemalware.com/) - A community database, API and collaboration platform to help identify and protect against open-source malware
 
 ### Web History
 
