@@ -338,6 +338,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [wifispc.com](https://wifispc.com/) - Free map of Wi-Fi passwords anywhere you go!
 - [openwifimap.net](https://openwifimap.net/) - HTML5 map with OpenWiFiMap data
 - [mylnikov.org](https://www.mylnikov.org/) - Public API implementation of Wi-Fi Geo-Location database
+- [wifidb.net](https://wifidb.net/wifidb/) - Project to collect wireless access points gathered by Vistumbler or other wireless network scanners
 
 ### Device Information
 
