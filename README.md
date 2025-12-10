@@ -339,6 +339,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [openwifimap.net](https://openwifimap.net/) - HTML5 map with OpenWiFiMap data
 - [mylnikov.org](https://www.mylnikov.org/) - Public API implementation of Wi-Fi Geo-Location database
 - [wifidb.net](https://wifidb.net/wifidb/) - Project to collect wireless access points gathered by Vistumbler or other wireless network scanners
+- [freifunk-karte.de](https://www.freifunk-karte.de/) - Online map of free, publicly accessible, non-commercial, and uncensored Wi-Fi access points in Germany
 
 ### Device Information
 
