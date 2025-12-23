@@ -106,6 +106,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Vulert](https://vulert.com/vuln-db) - Recent security issues found in open-source packages
 - [promptfoo.dev Language Model Security Database](https://www.promptfoo.dev/lm-security-db/) - A comprehensive collection of LLM vulnerabilities, curated from cutting-edge research papers and real-world discoveries
 - [opencryptography.com](https://opencryptography.com/) - Free public database of 10,000+ unique Docker image scans for hidden cryptographic assets and critical implementation flaws
+- [pathfinding.cloud](https://pathfinding.cloud/paths/) - Comprehensive, community-maintained library documenting AWS IAM privilege escalation paths
 
 ### Exploits
 
