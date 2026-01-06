@@ -172,7 +172,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [S4E](https://app.s4e.io/) - Continuous Threat Exposure Management platform that offers a web-based cybersecurity solution for comprehensive scanning and vulnerability detection of digital assets like domains, subdomains, IP addresses, and web apps
 - [ipquery.io](https://ipquery.io/) - The IP Address API for Developers
 - [domaincodex.com](https://www.domaincodex.com/) - Research 500m+ root domain information and all associated data, including records, IP address, page metadata and much more
-- [APIfreaks.com](https://apifreaks.com/) - Unified API hub providing DNS, WHOIS, IP geolocation, screenshots, weather, currency, and commodity data APIs for developers and security teams
+- [APIfreaks.com](https://apifreaks.com/) - Unified API hub providing DNS, WHOIS, IP geolocation, screenshots and commodity data APIs for developers and security teams
 
 ### Code
 
