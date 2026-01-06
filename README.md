@@ -172,6 +172,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [S4E](https://app.s4e.io/) - Continuous Threat Exposure Management platform that offers a web-based cybersecurity solution for comprehensive scanning and vulnerability detection of digital assets like domains, subdomains, IP addresses, and web apps
 - [ipquery.io](https://ipquery.io/) - The IP Address API for Developers
 - [domaincodex.com](https://www.domaincodex.com/) - Research 500m+ root domain information and all associated data, including records, IP address, page metadata and much more
+- [APIfreaks.com](https://apifreaks.com/) - Unified API hub providing DNS, WHOIS, IP geolocation, screenshots, weather, currency, and commodity data APIs for developers and security teams
 
 ### Code
 
@@ -270,6 +271,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [expireddomains.net](https://www.expireddomains.net/) - ExpiredDomains.net gathers all the information you need to find good Expired Domains that are Pending Delete and you can Backorder
 - [SubDomainRadar.io](https://subdomainradar.io) - Discover hidden subdomains with unparalleled accuracy and speed
 - [Google Safe Browsing](https://transparencyreport.google.com/safe-browsing/search) - Google's Safe Browsing technology examines billions of URLs per day looking for unsafe websites
+- [WHOISFreaks.com](https://whoisfreaks.com/) - Unleash the Power of Data with Our Domain and IP Intelligence
 
 ### URLs
 
@@ -558,6 +560,7 @@ These can be useful for osint and social engineering.
 - [Zone-H Archive](https://www.zone-h.org/archive/) - Online archive dedicated to collecting and publishing records of defaced websites
 - [ransomlook.io](https://www.ransomlook.io/) - Open-source project providing real-time ransomware intelligence
 - [opensourcemalware.com](https://opensourcemalware.com/) - A community database, API and collaboration platform to help identify and protect against open-source malware
+- [IPGeolocation.io](https://ipgeolocation.io/) - Accurate IP Geolocation API and Databases with Threat Intelligence
 
 ### Web History
 
