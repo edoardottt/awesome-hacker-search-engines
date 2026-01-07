@@ -205,6 +205,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Ecosyste.ms](https://ecosyste.ms/) - An open API service providing package, version and dependency metadata of many open source software ecosystems and registries
 - [SwaggerHub](https://app.swaggerhub.com/search) - Search public APIs and Domains in SwaggerHub
 - [RapidAPI Public Hub](https://rapidapi.com/hub) - Explore the world's largest API marketplace
+- [Repogrep](https://app.ami.dev/repogrep) - AI coding agent that can search across any public GitHub repository
 
 ### Email Addresses
 
