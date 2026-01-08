@@ -563,6 +563,7 @@ These can be useful for osint and social engineering.
 - [opensourcemalware.com](https://opensourcemalware.com/) - A community database, API and collaboration platform to help identify and protect against open-source malware
 - [IPGeolocation.io](https://ipgeolocation.io/) - Accurate IP Geolocation API and Databases with Threat Intelligence
 - [Living Off Trusted Sites (LOTS) Project](https://lots-project.com/) - Cataloging how cyber attackers abuse legitimate platforms like GitHub or Google Docs to host malware, C2, or exfiltrate data
+- [lolrmm.io](https://lolrmm.io/) - Curated list of Remote Monitoring and Management (RMM) tools that could potentially be abused by threat actors
 
 ### Web History
 
