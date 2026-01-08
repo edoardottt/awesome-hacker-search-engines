@@ -564,6 +564,7 @@ These can be useful for osint and social engineering.
 - [IPGeolocation.io](https://ipgeolocation.io/) - Accurate IP Geolocation API and Databases with Threat Intelligence
 - [Living Off Trusted Sites (LOTS) Project](https://lots-project.com/) - Cataloging how cyber attackers abuse legitimate platforms like GitHub or Google Docs to host malware, C2, or exfiltrate data
 - [lolrmm.io](https://lolrmm.io/) - Curated list of Remote Monitoring and Management (RMM) tools that could potentially be abused by threat actors
+- [Living Off The WebHooks](https://lotwebhooks.github.io/) - Community-driven project documenting webhooks that may be exploited for data exfiltration and C2 communications
 
 ### Web History
 
