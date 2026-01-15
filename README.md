@@ -250,6 +250,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [grayhatwarfare.com - domains](https://shorteners.grayhatwarfare.com/domains) - How to search URLs exposed by Shortener services
 - [whoisology.com](https://whoisology.com/) - Deep Connections Between Domain Names & Their Owners
 - [who.is](https://who.is/) - WHOIS Search, Domain Name, Website, and IP Tools
+- [ip.THC.org](https://ip.thc.org/docs/cli-subdomain-lookup) - Subdomain lookup, Reverse DNS Lookup and CNAME Lookup
 - [pentest-tools.com](https://pentest-tools.com/information-gathering/find-subdomains-of-domain) - Discover subdomains and determine the attack surface of an organization
 - [BuiltWith](https://builtwith.com/) - Find out what websites are Built With
 - [MoonSearch](http://moonsearch.com/) - Backlinks checker & SEO Report
