@@ -519,6 +519,7 @@ These can be useful for osint and social engineering.
 - [Inquest Labs](https://labs.inquest.net/) - Threat intelligence from hundreds of public, private, and internal sources to develop new FDR signatures and rules
 - [PhishTank](https://phishtank.org/) - Collaborative clearing house for data and information about phishing on the Internet
 - [IntelOwl](https://github.com/intelowlproject/IntelOwl) - Open Source Intelligence, or OSINT solution to get threat intelligence data about a specific file, an IP or a domain from a single API at scale
+- [AI-Entropy-Mapper](https://github.com/bad-antics/ai-entropy-mapper) - AI-powered entropy analysis tool for detecting anomalies, identifying encryption patterns, and threat intelligence gathering
 - [Lupovis](https://prowl.lupovis.io/) - Analyze and collect data on Internet-wide scans and attacks in real-time. We use this data to identify and classify malicious actors
 - [AbuseIPDB](https://www.abuseipdb.com/) - Check the report history of any IP address to see if anyone else has reported malicious activities
 - [Sucuri SiteCheck](https://sitecheck.sucuri.net/) - Check websites for known malware, viruses, blacklisting status, website errors, out-of-date software, and malicious code
