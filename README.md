@@ -173,6 +173,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [ipquery.io](https://ipquery.io/) - The IP Address API for Developers
 - [domaincodex.com](https://www.domaincodex.com/) - Research 500m+ root domain information and all associated data, including records, IP address, page metadata and much more
 - [APIfreaks.com](https://apifreaks.com/) - Unified API hub providing DNS, WHOIS, IP geolocation, screenshots and commodity data APIs for developers and security teams
+- [Frostbyte IP Geolocation](https://agent-gateway-kappa.vercel.app/v1/agent-geo) - IP geolocation API with country, city, timezone, and ISP data. Self-hosted MaxMind database, sub-millisecond lookups, batch processing, and distance calculation
 
 ### Code
 
@@ -321,6 +322,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [dnslookup.pro](https://dnslookup.pro/) - Advanced DNS Record Analysis & Troubleshooting
 - [ViewDNS.info](https://viewdns.info/) - A web-based toolkit offering over 25 DNS and network intelligence tools for reconnaissance, diagnostics, and research
 - [dnsaudit.io](https://dnsaudit.io/) - Find DNS misconfigurations, risks and security gaps
+- [Frostbyte DNS Lookup](https://agent-gateway-kappa.vercel.app/v1/agent-dns) - DNS resolution and WHOIS/RDAP API with propagation analysis across 8 public resolvers, domain availability checking, and bulk lookups
 
 ### Certificates
 
