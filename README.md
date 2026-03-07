@@ -674,3 +674,4 @@ These can be useful for osint and social engineering.
 If you want to propose changes, just open an [issue](https://github.com/edoardottt/awesome-hacker-search-engines/issues) or a [pull request](https://github.com/edoardottt/awesome-hacker-search-engines/pulls).
 
 [edoardottt.com](https://edoardottt.com/) to contact me.
+- [traceflux](https://github.com/tracer-mohist/traceflux) - Text search engine with associative discovery using co-occurrence graphs and PageRank.
