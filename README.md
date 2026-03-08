@@ -648,6 +648,7 @@ These can be useful for osint and social engineering.
 - [Namecheckr](https://www.namecheckr.com/) - Social and Domain Name Availability Search For Brand Professionals
 - [Username Search](https://www.user-searcher.com/) - Free online tool to conduct reverse username search across various social media platforms, online dating sites, forums, and communities simply by providing a username
 - [TheOrg](https://theorg.com/) - World's biggest network of public org charts
+- [search-by-surname](https://github.com/GeiserX/search-by-surname) - Search Spanish phone directory services by surname to find contact information
 
 ### Unclassified
 
