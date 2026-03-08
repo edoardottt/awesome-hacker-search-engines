@@ -458,6 +458,7 @@ These can be useful for osint and social engineering.
 - [AnyWho Phone Lookup](https://www.anywho.com/reverse-phone-lookup/) - Find out information associated with a phone number
 - [Radaris Phone Lookup](https://radaris.com/#findPhoneH) - Look up any phone number to see its owner and identify who's calling or texting you
 - [Reverse Phone Lookup](https://www.reversephonecheck.com/) - Reverse phone number lookup with millions of listings including name or address
+- [BuscaPaginasBlancas](https://github.com/GeiserX/BuscaPaginasBlancas) - Automated lookups on Spanish white pages (PaginasBlancas.es) to find phone numbers and addresses
 
 ### Images
 
