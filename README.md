@@ -432,6 +432,7 @@ These can be useful for osint and social engineering.
 
 ### Phone Numbers
 
+- [BuscaPaginasBlancas](https://github.com/GeiserX/BuscaPaginasBlancas) - OSINT tool for extracting contact information from Spanish white pages (Paginas Blancas)
 - [NumLookup](https://www.numlookup.com/) - Free reverse phone lookup
 - [SpyDialer](https://spydialer.com/) - Free Reverse Lookup Search
 - [WhitePages](https://www.whitepages.com/) - Find people, contact info & background checks
