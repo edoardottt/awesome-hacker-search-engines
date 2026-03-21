@@ -146,6 +146,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Living Off The Land Security Tools](https://0xanalyst.github.io/Project-Lost/) - Curated list of Security Tools used by adversaries to bypass security controls and carry out attacks
 - [cspbypass.com](https://cspbypass.com/) - Search for Content Security Policy Bypasses
 - [Living Off The Tunnels](https://lottunnels.github.io/#) - Community driven project to document digital tunnels that can be abused by threat actors as well by insiders for data exfiltrations, persistence, shell access etc
+- [LOLGlobs](https://0xv1n.github.io/LOLGlobs/) - A searchable catalog of glob-based command obfuscation techniques for Linux, macOS, Windows CMD, and PowerShell
 
 ### Attack Surface
 
