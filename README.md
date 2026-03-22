@@ -107,6 +107,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [promptfoo.dev Language Model Security Database](https://www.promptfoo.dev/lm-security-db/) - A comprehensive collection of LLM vulnerabilities, curated from cutting-edge research papers and real-world discoveries
 - [opencryptography.com](https://opencryptography.com/) - Free public database of 10,000+ unique Docker image scans for hidden cryptographic assets and critical implementation flaws
 - [pathfinding.cloud](https://pathfinding.cloud/paths/) - Comprehensive, community-maintained library documenting AWS IAM privilege escalation paths
+- [ClawSearch](https://clawsearch.cc) - Security-first search engine for AI agent skills. Trust Score analysis, vulnerability detection, and safe skill discovery for Claude Code and MCP ecosystem.
 
 ### Exploits
 
