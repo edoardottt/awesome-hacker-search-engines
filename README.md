@@ -276,6 +276,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [WHOISFreaks.com](https://whoisfreaks.com/) - Unleash the Power of Data with Our Domain and IP Intelligence
 - [ip.THC.org](https://ip.thc.org/) - Reverse DNS, Subdomains and CNAMEs Lookup
 - [Tenant Domain Finder](https://domains.ourcloudnetwork.com/) - Find All Domains in a Microsoft 365 Tenant
+- [NetCraft SearchDNS](https://searchdns.netcraft.com/) - Search Web by Domain
 
 ### URLs
 
