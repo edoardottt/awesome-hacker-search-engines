@@ -53,6 +53,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Gibiru](https://gibiru.com/)
 - [Kagi](https://kagi.com/)
 - [Stract](https://stract.com/)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts including OSINT, reconnaissance, and automated security research agents. MIT licensed.
 
 ### Servers
 
