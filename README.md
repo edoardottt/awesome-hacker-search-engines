@@ -433,6 +433,7 @@ These can be useful for osint and social engineering.
 - [Tinder](https://tinder.com/)
 - [Threads](https://www.threads.net/)
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=edoardottt_awesome-hacker-search-engines) - A social feed for GitHub. Follow devs, see what they star, find repos through people not algorithms.
 ### Phone Numbers
 
 - [NumLookup](https://www.numlookup.com/) - Free reverse phone lookup
