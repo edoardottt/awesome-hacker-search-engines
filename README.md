@@ -571,6 +571,7 @@ These can be useful for osint and social engineering.
 - [lolrmm.io](https://lolrmm.io/) - Curated list of Remote Monitoring and Management (RMM) tools that could potentially be abused by threat actors
 - [Living Off The WebHooks](https://lotwebhooks.github.io/) - Community-driven project documenting webhooks that may be exploited for data exfiltration and C2 communications
 - [LOLEXFIL](https://lolexfil.github.io/) - Reference for data exfiltration methods using trusted tools
+- [KleenScan](https://kleenscan.biz/index) - Analyze files to detect malware. Analyze URLs, domains, and IPs to detect malware and blacklist status
 
 ### Web History
 
