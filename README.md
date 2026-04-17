@@ -662,6 +662,7 @@ These can be useful for osint and social engineering.
 - [Awakari](https://awakari.com) - Real-Time Search from unlimited sources like RSS, Fediverse, Telegram, etc. Filter events by keywords, numeric conditions, condition groups
 - [CanIUse.com](https://caniuse.com/) - Browser support tables for modern web technologies
 - [Dark Visitors](https://darkvisitors.com/) - Track and Control Artificial Agents Crawling Your Website
+- [Not Human Search](https://nothumansearch.ai) - Search engine for AI agent tools and infrastructure. Indexes 1,750+ sites ranked by agentic readiness score with REST API and MCP server
 
 ### Not working / Paused
 
