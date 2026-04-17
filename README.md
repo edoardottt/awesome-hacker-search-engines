@@ -654,6 +654,10 @@ These can be useful for osint and social engineering.
 - [Username Search](https://www.user-searcher.com/) - Free online tool to conduct reverse username search across various social media platforms, online dating sites, forums, and communities simply by providing a username
 - [TheOrg](https://theorg.com/) - World's biggest network of public org charts
 
+### Vehicle / License Plate OSINT
+
+- [License Plate Owner API](https://license-plate-owner.com/) - DPPA-compliant vehicle lookup API for license plate investigations
+
 ### Unclassified
 
 - [DorkSearch](https://dorksearch.com/) - Speed up your Dorking
