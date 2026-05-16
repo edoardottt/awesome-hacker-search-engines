@@ -363,6 +363,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 ### Credentials
 
 - [Have I Been Pwned](https://haveibeenpwned.com/) - Check if your email or phone is in a data breach
+- [NiamonX](https://niamonx.io/) - AI-powered platform for credential leak monitoring, infostealer intelligence and breach investigations
 - [Dehashed](https://www.dehashed.com/) - Free deep-web scans and protection against credential leaks
 - [LeakCheck.io](https://leakcheck.io/) - Make sure your credentials haven't been compromised
 - [crackstation.net](https://crackstation.net/) -Massive pre-computed lookup tables to crack password hashes
