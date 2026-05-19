@@ -380,6 +380,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Leak.sx](https://leak.sx/) - The best leaked accounts website you always wanted
 - [ScatteredSecrets](https://scatteredsecrets.com/) - Search data breaches to see if your password has been compromised
 - [InfoStealers.info](https://infostealers.info/) - OSINT made simple. Instant insights from Infostealer data
+- [NiamonX PwnedLookup](https://niamonx.io/) - AI-powered platform for credential leak monitoring, infostealer intelligence and breach investigations
 
 ### Leaks
 
