@@ -31,7 +31,8 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
   <a href="#files">Files</a> •
   <a href="#surveillance-cameras">Surveillance cameras</a> •
   <a href="#crypto">Crypto</a> •
-  <a href="#people">People</a>
+  <a href="#people">People</a> •
+  <a href="#vehicle">Vehicle</a>
 </p>
 
 ### General Search Engines
@@ -656,6 +657,17 @@ These can be useful for osint and social engineering.
 - [Namecheckr](https://www.namecheckr.com/) - Social and Domain Name Availability Search For Brand Professionals
 - [Username Search](https://www.user-searcher.com/) - Free online tool to conduct reverse username search across various social media platforms, online dating sites, forums, and communities simply by providing a username
 - [TheOrg](https://theorg.com/) - World's biggest network of public org charts
+
+### Vehicle
+
+- [License Plate Owner API](https://license-plate-owner.com/) - DPPA-compliant vehicle lookup API for license plate investigations
+- [FaxVin](https://www.faxvin.com/) - Up-to-date records for a used vehicle: odometer readings, title brands and lien status, accident and damage history, recalls
+- [EpicVin](https://epicvin.com/) - VIN check about the vehicle's history, price, damages, title records, recalls
+- [AutoCheck Vehicle History](https://www.autocheck.com/vehiclehistory/search-by-license-plate) - Search for vehicle history records with a valid US license plate number
+- [GOV.UK Vehicle Information](https://www.gov.uk/get-vehicle-information-from-dvla) - Check online to find out what information the Driver and Vehicle Licensing Agency (DVLA) holds about a vehicle
+- [PlatesMania](https://platesmania.com/) - Largest Internet project dedicated to vehicle registration plates, platespotting and everything pertaining to them
+- [auto-info.gratis](https://auto-info.gratis/en/) - After providing your vehicle's license plate number, you'll receive:
+make, model, year of manufacture, engine size and all available information
 
 ### Unclassified
 
