@@ -131,7 +131,6 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Hacking the Cloud](https://hackingthe.cloud/) - Encyclopedia of the attacks/tactics/techniques that offensive security professionals can use on their next cloud exploitation adventure
 - [Living Off The Land Drivers](https://www.loldrivers.io/) - Open-source project that brings together vulnerable, malicious, and known malicious Windows drivers
 - [PwnWiki](http://pwnwiki.io/) - Collection of TTPs (tools, tactics, and procedures) for what to do after access has been gained
-- [CVE PoC Search](https://labs.jamessawyer.co.uk/cves/) - Search public GitHub proof-of-concept repositories by CVE identifier
 - [CVExploits Search](https://cvexploits.io/) - Your comprehensive database for CVE exploits from across the internet
 - [VARIoT](https://www.variotdbs.pl/exploits/) - VARIoT IoT exploits database
 - [Living Off the Orchard: macOS Binaries](https://www.loobins.io/) - Detailed information on various built-in macOS binaries and how they can be used by threat actors for malicious purposes
@@ -150,6 +149,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [cspbypass.com](https://cspbypass.com/) - Search for Content Security Policy Bypasses
 - [Living Off The Tunnels](https://lottunnels.github.io/#) - Community driven project to document digital tunnels that can be abused by threat actors as well by insiders for data exfiltrations, persistence, shell access etc
 - [LOLGlobs](https://0xv1n.github.io/LOLGlobs/) - A searchable catalog of glob-based command obfuscation techniques for Linux, macOS, Windows CMD, and PowerShell
+- [CVE PoC Search jamessawyer.co.uk](https://labs.jamessawyer.co.uk/cves/) - Search public GitHub repositories containing proof-of-concept exploit code, indexed by CVE identifier
 
 ### Attack Surface
 
