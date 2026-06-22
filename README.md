@@ -422,6 +422,7 @@ These can be useful for osint and social engineering.
 - [Instagram](https://www.instagram.com/)
 - [YouTube](https://www.youtube.com/)
 - [Twitter/X](https://twitter.com/)
+- [Xquik](https://xquik.com/) - Search public X posts, inspect public profiles, monitor keywords, and use REST or MCP workflows for X data.
 - [LinkedIn](https://www.linkedin.com/)
 - [Reddit](https://new.reddit.com/)
 - [Pinterest](https://www.pinterest.com/)
