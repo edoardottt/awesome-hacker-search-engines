@@ -251,6 +251,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [RobTex](https://www.robtex.com/) - Various kinds of research of IP numbers, Domain names, etc
 - [CentralOps - DomainDossier](https://centralops.net/co/DomainDossier.aspx) - Investigate domains and IP addresses
 - [DomainIQ](https://www.domainiq.com/) - Comprehensive Domain Intelligence
+- [DomainIntel API](https://domainintel.onrender.com) - Domain intelligence API for WHOIS/RDAP, DNS, SSL certificates, and bulk domain checks
 - [whois.domaintools.com](https://whois.domaintools.com/) - Industry’s fastest domain discovery engine and broadest, most accurate data
 - [grayhatwarfare.com - domains](https://shorteners.grayhatwarfare.com/domains) - How to search URLs exposed by Shortener services
 - [whoisology.com](https://whoisology.com/) - Deep Connections Between Domain Names & Their Owners
