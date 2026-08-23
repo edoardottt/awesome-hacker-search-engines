@@ -285,6 +285,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Cerast Intelligence](https://search.cerast-intelligence.com/) - Search a domain for exposed paths and misconfigurations found by continuous internet-wide scanning
 - [DomScan](https://domscan.net/tools/security) - Domain intelligence and attack-surface checks across DNS, WHOIS/RDAP, TLS, subdomains, reputation, and typosquatting
 - [CC.LA](https://cc.la) - Free online toolkit for WHOIS, RDAP, DNS, IP WHOIS, SSL certificates, name server history, and network diagnostics (ping/traceroute/MTR).
+- [StackScan](https://www.stackscan.com/) - Search sites by technology, keyword, or the files and assets they serve
 
 ### URLs
 
