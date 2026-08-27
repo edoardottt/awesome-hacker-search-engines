@@ -483,6 +483,7 @@ These can be useful for osint and social engineering.
 - [Reverse Image](https://reverseimage.net/) - Find Where Images Appear Online
 - [Pixsy](https://www.pixsy.com) - Find and fight image theft
 - [Pimeyes](https://pimeyes.com/) - Face Search Engine, Reverse Image Search
+- [Face2social](https://face2social.com/) - Face recognition search engine that finds matching public profiles on Instagram, Facebook, TikTok and X
 - [Pictriev](http://www.pictriev.com/) - Find look-alike celebrities on the web using the face recognition
 - [Karmadecay](http://karmadecay.com/) - Reverse image search of Reddit.com
 - [Infringement Report](https://infringement.report/) - The web's best image copyright infringement search tool
