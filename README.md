@@ -630,6 +630,7 @@ These can be useful for osint and social engineering.
 - [ChainAbuse](https://www.chainabuse.com/) - Report malicious crypto activity
 - [BlockChair](https://blockchair.com/) - Blockchain explorer, analytics and web services
 - [BlockCypher](https://live.blockcypher.com/) - Search the block chain
+- [PolymarketScan](https://polymarketscan.org/search) - Independent search across Polymarket markets, wallets, and prints. Free, no signup. Built by us.
 
 ### People
 
