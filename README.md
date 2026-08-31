@@ -617,6 +617,7 @@ These can be useful for osint and social engineering.
 - [WorldCam](https://worldcam.eu/) - Webcams from around the world
 - [Webcam Hopper](https://www.webcamhopper.com/) - Live Webcams from around the world
 - [Live Traffic](https://livetraffic.eu/) - Real-time monitoring of Europe’s live traffic cameras
+- [LiveTrafficCam](https://livetrafficcam.com/) - Directory of US state DOT traffic cameras, each checked for a live image
 - [Geocam.ru](https://www.geocam.ru/en/) - Webcams of the world
 - [Moldova's borders webcams](https://www.border.gov.md/camere-web) - Official list of webcams at various border crossings around Moldova
 - [Earth Cam](https://www.earthcam.com/) - Leading network of live streaming webcams for tourism and entertainment
