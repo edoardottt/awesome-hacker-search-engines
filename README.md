@@ -188,7 +188,6 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [publicwww.com](https://publicwww.com/) - Find any alphanumeric snippet, signature or keyword in the web pages HTML, JS and CSS code
 - [SearchCode](https://searchcode.com/) - Search 75 billion lines of code from 40 million projects
 - [NerdyData](https://www.nerdydata.com/) - Find companies based on their website's tech stack or code
-- [SearchWebCode](https://www.searchwebcode.com/) - Exact-string and regex search over the HTML, JS and CSS of 127 million website homepages
 - [RepoSearch](http://codefinder.org/) - Source code search engine that helps you find implementation details, example usages or just analyze code
 - [SourceGraph](https://about.sourcegraph.com/) - Understand and search across your entire codebase
 - [HotExamples](https://hotexamples.com/) - Search code examples from over 1 million projects
@@ -212,6 +211,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [SwaggerHub](https://app.swaggerhub.com/search) - Search public APIs and Domains in SwaggerHub
 - [RapidAPI Public Hub](https://rapidapi.com/hub) - Explore the world's largest API marketplace
 - [Repogrep](https://app.ami.dev/repogrep) - AI coding agent that can search across any public GitHub repository
+- [SearchWebCode](https://www.searchwebcode.com/) - Exact-string and regex search over the HTML, JS and CSS of 127 million website homepages
 
 ### Email Addresses
 
