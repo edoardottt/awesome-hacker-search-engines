@@ -149,6 +149,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Living Off The Tunnels](https://lottunnels.github.io/#) - Community driven project to document digital tunnels that can be abused by threat actors as well by insiders for data exfiltrations, persistence, shell access etc
 - [LOLGlobs](https://0xv1n.github.io/LOLGlobs/) - A searchable catalog of glob-based command obfuscation techniques for Linux, macOS, Windows CMD, and PowerShell
 - [CVE PoC Search jamessawyer.co.uk](https://labs.jamessawyer.co.uk/cves/) - Search public GitHub repositories containing proof-of-concept exploit code, indexed by CVE identifier
+- [1dayexploit.com](https://1dayexploit.com/) - We turn CVE claims into evidence and go past the single bug to the techniques behind it
 
 ### Attack Surface
 
