@@ -343,7 +343,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [ciphersuite.info](https://ciphersuite.info/) - TLS Ciphersuite Search. Search for a particular cipher suite by using IANA, OpenSSL or GnuTLS name format
 - [certificatedetails](https://certificatedetails.com/) - Online certificate viewer. Inspect and download certificates from your browser
 - [ODIN Certificates Search](https://getodin.com/search/certificates) - ODIN Certificates Search
-- [ctlogs.dev](https://ctlogs.dev)- Certificate Transparency Search & Free CT Logs API
+- [ctlogs.dev](https://ctlogs.dev) - Find TLS/SSL certificates by domain, organization, serial, or fingerprint
 
 ### WiFi Networks
 
@@ -699,10 +699,9 @@ make, model, year of manufacture, engine size and all available information
 - [CVE Trends](https://cvetrends.com/) - Monitor trending CVEs in real-time; crowdsourced intel sourced from Twitter, NIST NVD, Reddit, and GitHub
 - [CTSearch](https://ui.ctsearch.entrust.com/ui/ctsearchui) - Certificate Transparency Search Tool
 - [FacebookCT](https://developers.facebook.com/tools/ct/search/) - Search for certificates issued for a given domain and subscribe to notifications from Facebook regarding new certificates
-- [certs.io](https://certs.io/) - Search TLS certificates across the internet.
+- [certs.io](https://certs.io/) - Search TLS certificates across the internet
 - [Riddler](https://riddler.io/) - Allows you to search in a high quality dataset
 - [AskDNS](https://askdns.com/) - Lookup Connected Domain Names and IP Addresses
-
 
 <!-- markdown-link-check-enable -->
 
