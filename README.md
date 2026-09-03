@@ -637,6 +637,7 @@ These can be useful for osint and social engineering.
 - [ChainAbuse](https://www.chainabuse.com/) - Report malicious crypto activity
 - [BlockChair](https://blockchair.com/) - Blockchain explorer, analytics and web services
 - [BlockCypher](https://live.blockcypher.com/) - Search the block chain
+- [AI DECISIONS Wallet Checker](https://aidecisions.ai/check) - Free wallet check across Ethereum, Bitcoin, Tron, Base, Arbitrum and Gnosis: sanctions, mixer exposure and risk tier, no account required
 
 ### People
 
