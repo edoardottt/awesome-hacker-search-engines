@@ -500,6 +500,7 @@ These can be useful for osint and social engineering.
 - [Exif data](http://exifdata.com/) - Online application that lets you take a deeper look at your favorite images
 - [Image Identify](https://www.imageidentify.com/) - Image recognition site, just drag your image & identify
 - [ScamDigger](https://www.scamdigger.com/picsearch.php) - You will see if that picture belongs to somebody else, was used by somebody else, already scamlisted, etc
+- [metadataremover.ai](https://metadataremover.ai/) - Remove supported EXIF, GPS, XMP, IPTC and AI metadata from JPG, PNG and WebP images directly in your browser
 
 ### Threat Intelligence
 
