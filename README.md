@@ -674,6 +674,7 @@ These can be useful for osint and social engineering.
 - [Xquik](https://xquik.com/) - Search public X posts, inspect public profiles, monitor keywords and use REST or MCP workflows for X data
 - [Sherlock Search](https://www.sherlocksearch.com/) - Upload one photo and Sherlock finds where that face appears across 9+ social platforms and public records
 - [Offendersearch](https://offendersearch.app/) - Search 58 US sex offender registries, covering the 50 states, DC and the US territories, in one query
+- [Maigret](https://github.com/soxoj/maigret) - OSINT tool that collects a dossier on a person by username, checking 3000+ sites and pulling profile data from the pages it finds. No API keys needed
 
 ### Vehicle
 
