@@ -348,6 +348,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [FacebookCT](https://developers.facebook.com/tools/ct/search/) - Search for certificates issued for a given domain and subscribe to notifications from Facebook regarding new certificates
 - [certs.io](https://certs.io/) - Search TLS certificates across the internet.
 - [ODIN Certificates Search](https://getodin.com/search/certificates) - ODIN Certificates Search
+- [MerkleMap](https://www.merklemap.com/) - Discover subdomains and SSL/TLS certificates from Certificate Transparency logs
 
 ### WiFi Networks
 
