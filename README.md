@@ -588,6 +588,7 @@ These can be useful for osint and social engineering.
 - [KleenScan](https://kleenscan.biz/index) - Analyze files to detect malware. Analyze URLs, domains, and IPs to detect malware and blacklist status
 - [ClawSearch](https://clawsearch.cc) - Security-first AI agent skill search engine. Find safe skills with Trust Score, 10-language search and pre-install security check
 - [detection.wiki](https://detection.wiki/) - Detection Rule and Telemetry Catalog
+- [Scamalytics](https://scamalytics.com) - IP address fraud scoring with VPN, proxy and TOR detection
 
 ### Web History
 
