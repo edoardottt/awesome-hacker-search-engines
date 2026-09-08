@@ -69,6 +69,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Hunter](https://hunter.how/) - Internet Search Engines For Security Researchers
 - [ODIN](https://getodin.com/) - One of the most powerful search engines for Scanned Internet Assets
 - [Modat Magnify](https://magnify.modat.io/) - The Largest Internet Device DNA Dataset Available
+- [Criminal IP](https://search.criminalip.io) - Search engine for internet-connected assets, domains and IP addresses
 
 ### Vulnerabilities
 
