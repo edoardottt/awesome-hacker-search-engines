@@ -217,6 +217,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 ### Email Addresses
 
 - [Hunter.io](https://hunter.io/) - Find professional email addresses in seconds
+- [Mailfo](https://mailfo.pages.dev) - Privacy-first disposable temporary email and instant OTP verification inbox
 - [PhoneBook](https://phonebook.cz/) - Lists all domains, email addresses, or URLs for the given input domain
 - [IntelligenceX](https://intelx.io/) - Search engine and data archive
 - [Reacher.email](https://reacher.email/) - Open-Source Email Verification
