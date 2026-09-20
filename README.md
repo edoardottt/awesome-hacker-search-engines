@@ -445,6 +445,7 @@ These can be useful for osint and social engineering.
 - [Weibo](https://weibo.com/)
 - [Tinder](https://tinder.com/)
 - [Threads](https://www.threads.net/)
+- [Jev Social](https://github.com/socai-io/jev-social) - Local, read-only social research for Instagram, TikTok, and LinkedIn that runs through the user's browser and preserves source-linked evidence
 
 ### Phone Numbers
 
