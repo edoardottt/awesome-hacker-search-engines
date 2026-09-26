@@ -304,6 +304,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [web-check.xyz](https://web-check.xyz/) - All-in-one OSINT tool, for quickly checking a websites data
 - [TinyScan](https://www.tiny-scan.com/) - Effortlessly Dive into URL Details
 - [urldna.io](https://urldna.io/) - Unleash website insights! urldna.io analyzes data, monitors brands and exposes security risks
+- [ScanMalware](https://scanmalware.com/) - Scans URLs in a sandboxed browser and indexes the results for search by domain, IP, ASN, JARM and favicon hash
 
 ### DNS
 
