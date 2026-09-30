@@ -29,8 +29,11 @@ check_section() {
 # Get all unique section headings from the README file and handle spaces and slashes
 sections=$(grep '^### ' "$readme" | sed 's/^### //' | sed 's/[\/&]/\\&/g')
 
-# Call the function for each section
-for section in $sections; do
-    check_section "$section"
-done
+# Call the function for each section, reading line by line to preserve spaces
+while IFS= read -r section; do
+    if [[ -n "$section" ]]; then
+        check_section "$section"
+    fi
+done <<< "$sections"
+
 echo "[ OK! ] NO DUPLICATES FOUND."
