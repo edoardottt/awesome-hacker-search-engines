@@ -289,6 +289,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [ctr.name](https://crt.name/) - Give it an apex domain and you get every subdomain on file
 - [Argos OSINT Dominio](https://argos-osint.com/dominio/) - Free unified domain intel dashboard combining WHOIS/RDAP, DoH DNS resolution and subdomain enumeration
 - [MerkleMap](https://www.merklemap.com/) - Discover subdomains and SSL/TLS certificates from Certificate Transparency logs
+- [Fraudpol Scan](https://fraudpol.com/scan) - Find registered lookalike domains of a brand via certificate transparency logs
 
 ### URLs
 
