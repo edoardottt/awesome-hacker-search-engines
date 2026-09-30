@@ -117,7 +117,6 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Rapid7 - DB](https://www.rapid7.com/db/) - Vulnerability & Exploit Database
 - [Vulmon](https://vulmon.com/) - Vulnerability and exploit search engine
 - [packetstormsecurity.com](https://packetstormsecurity.com/) - Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers
-- [0day.today](https://0day.today/) - Ultimate database of exploits and vulnerabilities
 - [Living Off The Land Binaries, Scripts and Libraries](https://lolbas-project.github.io/) - Living Off The Land Binaries, Scripts and Libraries
 - [GTFOBins](https://gtfobins.github.io/) - Curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
 - [Payloads All The Things](https://swisskyrepo.github.io/PayloadsAllTheThings/) - A list of useful payloads and bypasses for Web Application Security
@@ -150,6 +149,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Living Off The Tunnels](https://lottunnels.github.io/#) - Community driven project to document digital tunnels that can be abused by threat actors as well by insiders for data exfiltrations, persistence, shell access etc
 - [LOLGlobs](https://0xv1n.github.io/LOLGlobs/) - A searchable catalog of glob-based command obfuscation techniques for Linux, macOS, Windows CMD, and PowerShell
 - [CVE PoC Search jamessawyer.co.uk](https://labs.jamessawyer.co.uk/cves/) - Search public GitHub repositories containing proof-of-concept exploit code, indexed by CVE identifier
+- [1dayexploit.com](https://1dayexploit.com/) - We turn CVE claims into evidence and go past the single bug to the techniques behind it
 
 ### Attack Surface
 
@@ -178,6 +178,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [domaincodex.com](https://www.domaincodex.com/) - Research 500m+ root domain information and all associated data, including records, IP address, page metadata and much more
 - [APIfreaks.com](https://apifreaks.com/) - Unified API hub providing DNS, WHOIS, IP geolocation, screenshots and commodity data APIs for developers and security teams
 - [HackMyIP](https://hackmyip.com/) - Free privacy and security toolkit with 19+ tools including IP lookup, DNS lookup, DNS leaks test and many others
+- [lookup.disclose.io](https://lookup.disclose.io/) - Find who owns any internet asset and the right security & disclosure contact
 
 ### Code
 
@@ -211,6 +212,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [SwaggerHub](https://app.swaggerhub.com/search) - Search public APIs and Domains in SwaggerHub
 - [RapidAPI Public Hub](https://rapidapi.com/hub) - Explore the world's largest API marketplace
 - [Repogrep](https://app.ami.dev/repogrep) - AI coding agent that can search across any public GitHub repository
+- [SearchWebCode](https://www.searchwebcode.com/) - Exact-string and regex search over the HTML, JS and CSS of 127 million website homepages
 
 ### Email Addresses
 
@@ -247,7 +249,6 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [PhoneBook](https://phonebook.cz/) - Lists all domains, email addresses, or URLs for the given input domain
 - [IntelligenceX](https://intelx.io/) - Search engine and data archive
 - [Omnisint](https://omnisint.io/subdomain-enumeration) - Subdomain enumeration
-- [Riddler](https://riddler.io/) - Allows you to search in a high quality dataset
 - [RobTex](https://www.robtex.com/) - Various kinds of research of IP numbers, Domain names, etc
 - [CentralOps - DomainDossier](https://centralops.net/co/DomainDossier.aspx) - Investigate domains and IP addresses
 - [DomainIQ](https://www.domainiq.com/) - Comprehensive Domain Intelligence
@@ -283,7 +284,10 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [NetCraft SearchDNS](https://searchdns.netcraft.com/) - Search Web by Domain
 - [SpoofChecker](https://spoofchecker.com/) - Spoof Checker detects typosquats and spoofed domains to protect your brand from phishing, fraud, and BEC scams
 - [Cerast Intelligence](https://search.cerast-intelligence.com/) - Search a domain for exposed paths and misconfigurations found by continuous internet-wide scanning
-- [Argos OSINT](https://argos-osint.com/dominio/) - Free unified domain intel dashboard combining WHOIS/RDAP, DoH DNS resolution and subdomain enumeration via crt.sh in a single client-side panel. Spanish-first.
+- [DomScan](https://domscan.net/tools/security) - Domain intelligence and attack-surface checks across DNS, WHOIS/RDAP, TLS, subdomains, reputation, and typosquatting
+- [CC.LA](https://cc.la) - Free online toolkit for WHOIS, RDAP, DNS, IP WHOIS, SSL certificates, name server history, and network diagnostics (ping/traceroute/MTR)
+- [ctr.name](https://crt.name/) - Give it an apex domain and you get every subdomain on file
+- [Argos OSINT Dominio](https://argos-osint.com/dominio/) - Free unified domain intel dashboard combining WHOIS/RDAP, DoH DNS resolution and subdomain enumeration
 
 ### URLs
 
@@ -320,7 +324,6 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [dnsrepo.noc.org](https://dnsrepo.noc.org/) - DNS Database Repository Search
 - [DNSSpy](https://dnsspy.io/) - Monitor, validate and verify your DNS configurations
 - [ZETAlytics](https://zetalytics.com/) - We offer unrivalled geographic diversity and exclusive global network visibility in searchable datasets for use by cyber security analysts
-- [AskDNS](https://askdns.com/) - Lookup Connected Domain Names and IP Addresses
 - [360 PassiveDNS.CN](https://passivedns.cn/) - Biggest public available db in China designed for security and research purpose
 - [MXtoolbox](https://mxtoolbox.com/SuperTool.aspx) - All of your MX record, DNS, blacklist and SMTP diagnostics in one integrated tool
 - [NSLookup.io](https://www.nslookup.io/) - Find all DNS records for a domain name using this online tool
@@ -334,16 +337,14 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 ### Certificates
 
 - [Crt.sh](https://crt.sh/) - Certificate Search
-- [CTSearch](https://ui.ctsearch.entrust.com/ui/ctsearchui) - Certificate Transparency Search Tool
 - [tls.bufferover.run](https://tls.bufferover.run/) - Quickly find certificates in IPv4 space
 - [CertSpotter](https://sslmate.com/certspotter/) - Monitors your domains for expiring, unauthorized, and invalid SSL certificates
 - [SynapsInt](https://synapsint.com/) - The unified OSINT research tool
 - [Censys Search - Certificates](https://search.censys.io/#) - Certificates Search
 - [ciphersuite.info](https://ciphersuite.info/) - TLS Ciphersuite Search. Search for a particular cipher suite by using IANA, OpenSSL or GnuTLS name format
 - [certificatedetails](https://certificatedetails.com/) - Online certificate viewer. Inspect and download certificates from your browser
-- [FacebookCT](https://developers.facebook.com/tools/ct/search/) - Search for certificates issued for a given domain and subscribe to notifications from Facebook regarding new certificates
-- [certs.io](https://certs.io/) - Search TLS certificates across the internet.
 - [ODIN Certificates Search](https://getodin.com/search/certificates) - ODIN Certificates Search
+- [ctlogs.dev](https://ctlogs.dev) - Find TLS/SSL certificates by domain, organization, serial, or fingerprint
 
 ### WiFi Networks
 
@@ -384,6 +385,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [ScatteredSecrets](https://scatteredsecrets.com/) - Search data breaches to see if your password has been compromised
 - [InfoStealers.info](https://infostealers.info/) - OSINT made simple. Instant insights from Infostealer data
 - [NiamonX PwnedLookup](https://niamonx.io/) - AI-powered platform for credential leak monitoring, infostealer intelligence and breach investigations
+- [Lunar Cyber](https://lunarcyber.com/) - Free, enterprise-grade, compromised-credentials monitoring platform, available to every company
 
 ### Leaks
 
@@ -405,6 +407,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Offshore Leaks](https://offshoreleaks.icij.org/) - Find out who's behind more than 800000 offshore companies, foundations and trusts from ICIJ's investigations
 - [Venacus](https://venacus.com/) - Search across 70+ TB of data breaches and leaked documents
 - [Leaksyr](https://leaksyr.com/) - Enterprise-grade threat intelligence to identify compromised credentials and secure your digital assets against data breaches
+- [CheckLeaked](https://checkleaked.cc/) - Check if an email, username or phone appears in a data breach with sources
 
 ### Hidden Services
 
@@ -495,6 +498,7 @@ These can be useful for osint and social engineering.
 - [Exif data](http://exifdata.com/) - Online application that lets you take a deeper look at your favorite images
 - [Image Identify](https://www.imageidentify.com/) - Image recognition site, just drag your image & identify
 - [ScamDigger](https://www.scamdigger.com/picsearch.php) - You will see if that picture belongs to somebody else, was used by somebody else, already scamlisted, etc
+- [metadataremover.ai](https://metadataremover.ai/) - Remove supported EXIF, GPS, XMP, IPTC and AI metadata from JPG, PNG and WebP images directly in your browser
 
 ### Threat Intelligence
 
@@ -581,6 +585,8 @@ These can be useful for osint and social engineering.
 - [LOLEXFIL](https://lolexfil.github.io/) - Reference for data exfiltration methods using trusted tools
 - [KleenScan](https://kleenscan.biz/index) - Analyze files to detect malware. Analyze URLs, domains, and IPs to detect malware and blacklist status
 - [ClawSearch](https://clawsearch.cc) - Security-first AI agent skill search engine. Find safe skills with Trust Score, 10-language search and pre-install security check
+- [detection.wiki](https://detection.wiki/) - Detection Rule and Telemetry Catalog
+- [Malwagon](https://malwagon.com) - Search detonated malware samples by hash, IP, domain, URL, mutex, registry key or JA3/JA4
 
 ### Web History
 
@@ -623,12 +629,14 @@ These can be useful for osint and social engineering.
 - [LiveWorldWebcams](https://liveworldwebcams.com/) - Live streaming webcams from around the world
 - [AlleCam](https://www.allecam.com/) - Webcam live from Europe and the whole world
 - [WXYZ Webcams](https://wxyzwebcams.com/) - Real-time webcams
+- [LiveTrafficCam](https://livetrafficcam.com/) - Directory of US state DOT traffic cameras, each checked for a live image
 
 ### Crypto
 
 - [ChainAbuse](https://www.chainabuse.com/) - Report malicious crypto activity
 - [BlockChair](https://blockchair.com/) - Blockchain explorer, analytics and web services
 - [BlockCypher](https://live.blockcypher.com/) - Search the block chain
+- [AI DECISIONS Wallet Checker](https://aidecisions.ai/check) - Free wallet check across Ethereum, Bitcoin, Tron, Base, Arbitrum and Gnosis: sanctions, mixer exposure and risk tier, no account required
 
 ### People
 
@@ -663,6 +671,8 @@ These can be useful for osint and social engineering.
 - [Username Search](https://www.user-searcher.com/) - Free online tool to conduct reverse username search across various social media platforms, online dating sites, forums, and communities simply by providing a username
 - [TheOrg](https://theorg.com/) - World's biggest network of public org charts
 - [Xquik](https://xquik.com/) - Search public X posts, inspect public profiles, monitor keywords and use REST or MCP workflows for X data
+- [Sherlock Search](https://www.sherlocksearch.com/) - Upload one photo and Sherlock finds where that face appears across 9+ social platforms and public records
+- [Offendersearch](https://offendersearch.app/) - Search 58 US sex offender registries, covering the 50 states, DC and the US territories, in one query
 
 ### Vehicle
 
@@ -693,6 +703,11 @@ make, model, year of manufacture, engine size and all available information
 - [NetoGraph](https://netograph.io/) - Captures and indexes detailed, low-level snapshots of website behaviour
 - [Hashdd](https://hashdd.com/) - Known Good Cryptographic Hashes
 - [CVE Trends](https://cvetrends.com/) - Monitor trending CVEs in real-time; crowdsourced intel sourced from Twitter, NIST NVD, Reddit, and GitHub
+- [CTSearch](https://ui.ctsearch.entrust.com/ui/ctsearchui) - Certificate Transparency Search Tool
+- [FacebookCT](https://developers.facebook.com/tools/ct/search/) - Search for certificates issued for a given domain and subscribe to notifications from Facebook regarding new certificates
+- [certs.io](https://certs.io/) - Search TLS certificates across the internet
+- [Riddler](https://riddler.io/) - Allows you to search in a high quality dataset
+- [AskDNS](https://askdns.com/) - Lookup Connected Domain Names and IP Addresses
 
 <!-- markdown-link-check-enable -->
 
