@@ -288,6 +288,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [CC.LA](https://cc.la) - Free online toolkit for WHOIS, RDAP, DNS, IP WHOIS, SSL certificates, name server history, and network diagnostics (ping/traceroute/MTR)
 - [ctr.name](https://crt.name/) - Give it an apex domain and you get every subdomain on file
 - [Argos OSINT Dominio](https://argos-osint.com/dominio/) - Free unified domain intel dashboard combining WHOIS/RDAP, DoH DNS resolution and subdomain enumeration
+- [MerkleMap](https://www.merklemap.com/) - Discover subdomains and SSL/TLS certificates from Certificate Transparency logs
 
 ### URLs
 
