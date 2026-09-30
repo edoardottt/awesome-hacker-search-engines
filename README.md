@@ -591,6 +591,7 @@ These can be useful for osint and social engineering.
 - [detection.wiki](https://detection.wiki/) - Detection Rule and Telemetry Catalog
 - [Malwagon](https://malwagon.com) - Search detonated malware samples by hash, IP, domain, URL, mutex, registry key or JA3/JA4
 - [Scamalytics](https://scamalytics.com) - IP address fraud scoring with VPN, proxy and TOR detection
+- [isMalicious](https://ismalicious.com/) - Check the reputation of IP addresses, domains, URLs and file hashes
 
 ### Web History
 
