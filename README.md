@@ -249,7 +249,6 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [PhoneBook](https://phonebook.cz/) - Lists all domains, email addresses, or URLs for the given input domain
 - [IntelligenceX](https://intelx.io/) - Search engine and data archive
 - [Omnisint](https://omnisint.io/subdomain-enumeration) - Subdomain enumeration
-- [Riddler](https://riddler.io/) - Allows you to search in a high quality dataset
 - [RobTex](https://www.robtex.com/) - Various kinds of research of IP numbers, Domain names, etc
 - [CentralOps - DomainDossier](https://centralops.net/co/DomainDossier.aspx) - Investigate domains and IP addresses
 - [DomainIQ](https://www.domainiq.com/) - Comprehensive Domain Intelligence
@@ -288,6 +287,8 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [DomScan](https://domscan.net/tools/security) - Domain intelligence and attack-surface checks across DNS, WHOIS/RDAP, TLS, subdomains, reputation, and typosquatting
 - [CC.LA](https://cc.la) - Free online toolkit for WHOIS, RDAP, DNS, IP WHOIS, SSL certificates, name server history, and network diagnostics (ping/traceroute/MTR)
 - [ctr.name](https://crt.name/) - Give it an apex domain and you get every subdomain on file
+- [Argos OSINT Dominio](https://argos-osint.com/dominio/) - Free unified domain intel dashboard combining WHOIS/RDAP, DoH DNS resolution and subdomain enumeration
+- [MerkleMap](https://www.merklemap.com/) - Discover subdomains and SSL/TLS certificates from Certificate Transparency logs
 
 ### URLs
 
@@ -324,7 +325,6 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [dnsrepo.noc.org](https://dnsrepo.noc.org/) - DNS Database Repository Search
 - [DNSSpy](https://dnsspy.io/) - Monitor, validate and verify your DNS configurations
 - [ZETAlytics](https://zetalytics.com/) - We offer unrivalled geographic diversity and exclusive global network visibility in searchable datasets for use by cyber security analysts
-- [AskDNS](https://askdns.com/) - Lookup Connected Domain Names and IP Addresses
 - [360 PassiveDNS.CN](https://passivedns.cn/) - Biggest public available db in China designed for security and research purpose
 - [MXtoolbox](https://mxtoolbox.com/SuperTool.aspx) - All of your MX record, DNS, blacklist and SMTP diagnostics in one integrated tool
 - [NSLookup.io](https://www.nslookup.io/) - Find all DNS records for a domain name using this online tool
@@ -338,17 +338,14 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 ### Certificates
 
 - [Crt.sh](https://crt.sh/) - Certificate Search
-- [CTSearch](https://ui.ctsearch.entrust.com/ui/ctsearchui) - Certificate Transparency Search Tool
 - [tls.bufferover.run](https://tls.bufferover.run/) - Quickly find certificates in IPv4 space
 - [CertSpotter](https://sslmate.com/certspotter/) - Monitors your domains for expiring, unauthorized, and invalid SSL certificates
 - [SynapsInt](https://synapsint.com/) - The unified OSINT research tool
 - [Censys Search - Certificates](https://search.censys.io/#) - Certificates Search
 - [ciphersuite.info](https://ciphersuite.info/) - TLS Ciphersuite Search. Search for a particular cipher suite by using IANA, OpenSSL or GnuTLS name format
 - [certificatedetails](https://certificatedetails.com/) - Online certificate viewer. Inspect and download certificates from your browser
-- [FacebookCT](https://developers.facebook.com/tools/ct/search/) - Search for certificates issued for a given domain and subscribe to notifications from Facebook regarding new certificates
-- [certs.io](https://certs.io/) - Search TLS certificates across the internet.
 - [ODIN Certificates Search](https://getodin.com/search/certificates) - ODIN Certificates Search
-- [MerkleMap](https://www.merklemap.com/) - Discover subdomains and SSL/TLS certificates from Certificate Transparency logs
+- [ctlogs.dev](https://ctlogs.dev) - Find TLS/SSL certificates by domain, organization, serial, or fingerprint
 
 ### WiFi Networks
 
@@ -411,6 +408,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Offshore Leaks](https://offshoreleaks.icij.org/) - Find out who's behind more than 800000 offshore companies, foundations and trusts from ICIJ's investigations
 - [Venacus](https://venacus.com/) - Search across 70+ TB of data breaches and leaked documents
 - [Leaksyr](https://leaksyr.com/) - Enterprise-grade threat intelligence to identify compromised credentials and secure your digital assets against data breaches
+- [CheckLeaked](https://checkleaked.cc/) - Check if an email, username or phone appears in a data breach with sources
 
 ### Hidden Services
 
@@ -589,6 +587,7 @@ These can be useful for osint and social engineering.
 - [KleenScan](https://kleenscan.biz/index) - Analyze files to detect malware. Analyze URLs, domains, and IPs to detect malware and blacklist status
 - [ClawSearch](https://clawsearch.cc) - Security-first AI agent skill search engine. Find safe skills with Trust Score, 10-language search and pre-install security check
 - [detection.wiki](https://detection.wiki/) - Detection Rule and Telemetry Catalog
+- [Malwagon](https://malwagon.com) - Search detonated malware samples by hash, IP, domain, URL, mutex, registry key or JA3/JA4
 
 ### Web History
 
@@ -705,6 +704,11 @@ make, model, year of manufacture, engine size and all available information
 - [NetoGraph](https://netograph.io/) - Captures and indexes detailed, low-level snapshots of website behaviour
 - [Hashdd](https://hashdd.com/) - Known Good Cryptographic Hashes
 - [CVE Trends](https://cvetrends.com/) - Monitor trending CVEs in real-time; crowdsourced intel sourced from Twitter, NIST NVD, Reddit, and GitHub
+- [CTSearch](https://ui.ctsearch.entrust.com/ui/ctsearchui) - Certificate Transparency Search Tool
+- [FacebookCT](https://developers.facebook.com/tools/ct/search/) - Search for certificates issued for a given domain and subscribe to notifications from Facebook regarding new certificates
+- [certs.io](https://certs.io/) - Search TLS certificates across the internet
+- [Riddler](https://riddler.io/) - Allows you to search in a high quality dataset
+- [AskDNS](https://askdns.com/) - Lookup Connected Domain Names and IP Addresses
 
 <!-- markdown-link-check-enable -->
 
