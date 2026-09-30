@@ -384,7 +384,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [ScatteredSecrets](https://scatteredsecrets.com/) - Search data breaches to see if your password has been compromised
 - [InfoStealers.info](https://infostealers.info/) - OSINT made simple. Instant insights from Infostealer data
 - [NiamonX PwnedLookup](https://niamonx.io/) - AI-powered platform for credential leak monitoring, infostealer intelligence and breach investigations
-- [CheckLeaked](https://checkleaked.cc/) - Check if an email, username or phone appears in a data breach, with sources; free searches, developer API and chat bots
+- [Lunar Cyber](https://lunarcyber.com/) - Free, enterprise-grade, compromised-credentials monitoring platform, available to every company
 
 ### Leaks
 
@@ -406,6 +406,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Offshore Leaks](https://offshoreleaks.icij.org/) - Find out who's behind more than 800000 offshore companies, foundations and trusts from ICIJ's investigations
 - [Venacus](https://venacus.com/) - Search across 70+ TB of data breaches and leaked documents
 - [Leaksyr](https://leaksyr.com/) - Enterprise-grade threat intelligence to identify compromised credentials and secure your digital assets against data breaches
+- [CheckLeaked](https://checkleaked.cc/) - Check if an email, username or phone appears in a data breach with sources
 
 ### Hidden Services
 
