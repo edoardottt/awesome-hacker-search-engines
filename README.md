@@ -179,6 +179,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [APIfreaks.com](https://apifreaks.com/) - Unified API hub providing DNS, WHOIS, IP geolocation, screenshots and commodity data APIs for developers and security teams
 - [HackMyIP](https://hackmyip.com/) - Free privacy and security toolkit with 19+ tools including IP lookup, DNS lookup, DNS leaks test and many others
 - [lookup.disclose.io](https://lookup.disclose.io/) - Find who owns any internet asset and the right security & disclosure contact
+- [db-ip](https://db-ip.com/) - IP geolocation API and database
 
 ### Code
 
