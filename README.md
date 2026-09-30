@@ -292,6 +292,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Argos OSINT Dominio](https://argos-osint.com/dominio/) - Free unified domain intel dashboard combining WHOIS/RDAP, DoH DNS resolution and subdomain enumeration
 - [MerkleMap](https://www.merklemap.com/) - Discover subdomains and SSL/TLS certificates from Certificate Transparency logs
 - [Fraudpol Scan](https://fraudpol.com/scan) - Find registered lookalike domains of a brand via certificate transparency logs
+- [StackScan](https://www.stackscan.com/) - Search sites by technology, keyword, or the files and assets they serve
 
 ### URLs
 
