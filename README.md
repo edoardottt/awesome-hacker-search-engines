@@ -698,6 +698,7 @@ make, model, year of manufacture, engine size and all available information
 - [CanIUse.com](https://caniuse.com/) - Browser support tables for modern web technologies
 - [Known Agents](https://knownagents.com/) - Track and Control Artificial Agents Crawling Your Website
 - [Not Human Search](https://nothumansearch.ai) - Search engine for AI agent tools and infrastructure. Indexes 1,750+ sites ranked by agentic readiness score with REST API and MCP server
+- [Barcodepedia](https://barcodepedia.com/) - Search products by EAN/UPC barcode, brand or company and see who owns the brand, who makes it under licence and who registered the barcode, with every fact cited
 
 ### Not working / Paused
 
