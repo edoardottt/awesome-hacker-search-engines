@@ -595,6 +595,7 @@ These can be useful for osint and social engineering.
 - [Malwagon](https://malwagon.com) - Search detonated malware samples by hash, IP, domain, URL, mutex, registry key or JA3/JA4
 - [Scamalytics](https://scamalytics.com) - IP address fraud scoring with VPN, proxy and TOR detection
 - [isMalicious](https://ismalicious.com/) - Check the reputation of IP addresses, domains, URLs and file hashes
+- [Orca AI Incident Archive](https://www.orcarouter.ai/incident-archive) - Search and filter real-world AI agent security events (prompt injection, MCP, agent supply chain, rogue agents) by type, severity and confirmed harm; open data on GitHub at Continuum-AI-Corp/Orca-AI-Incident-Archive
 
 ### Web History
 
