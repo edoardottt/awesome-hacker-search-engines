@@ -647,6 +647,7 @@ These can be useful for osint and social engineering.
 - [BlockChair](https://blockchair.com/) - Blockchain explorer, analytics and web services
 - [BlockCypher](https://live.blockcypher.com/) - Search the block chain
 - [AI DECISIONS Wallet Checker](https://aidecisions.ai/check) - Free wallet check across Ethereum, Bitcoin, Tron, Base, Arbitrum and Gnosis: sanctions, mixer exposure and risk tier, no account required
+- [HostDeFi](https://hostdefi.com/scan) - Free token risk scanner across Solana + 7 EVM chains — honeypot, rug-pull and scam signals, no account required
 
 ### People
 
