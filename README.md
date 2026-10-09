@@ -246,6 +246,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [validemail.io](https://validemail.io/) - Validate email addresses for deliverability with our Email Validation API
 - [Predicta Search](https://www.predictasearch.com/) - Reverse lookup search engine for email and phone numbers
 - [Infoga.io](https://www.infoga.io/) - Find out all email for a certain domain using search engines
+- [Opsis](https://useopsis.com/) - Find accounts linked to an email address, username or domain (reverse email lookup)
 
 ### Domains
 
