@@ -181,6 +181,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [lookup.disclose.io](https://lookup.disclose.io/) - Find who owns any internet asset and the right security & disclosure contact
 - [db-ip](https://db-ip.com/) - IP geolocation API and database
 - [pureip.app](https://pureip.app) - IP lookups, website egress routing, WebRTC checks, global Ping, service status and WHOIS lookups
+- [IP99](https://ip99.com) - IP risk scoring, proxy/VPN/datacenter detection and geolocation API, with passive DNS and certificate transparency
 
 ### Code
 
