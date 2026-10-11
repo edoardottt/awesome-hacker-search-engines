@@ -340,6 +340,8 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [dnslookup.pro](https://dnslookup.pro/) - Advanced DNS Record Analysis & Troubleshooting
 - [ViewDNS.info](https://viewdns.info/) - A web-based toolkit offering over 25 DNS and network intelligence tools for reconnaissance, diagnostics, and research
 - [dnsaudit.io](https://dnsaudit.io/) - Find DNS misconfigurations, risks and security gaps
+- [CheckLeaked Email Security Checker](https://checkleaked.cc/tools/email-security) - Grade a domain's SPF, DKIM, DMARC, MTA-STS and BIMI records, read live from DNS
+- [CheckLeaked Lookalike Domain Finder](https://checkleaked.cc/tools/lookalike-domains) - Find registered typosquats of a domain and which of them can send email
 
 ### Certificates
 
