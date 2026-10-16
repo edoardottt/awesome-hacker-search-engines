@@ -295,6 +295,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [MerkleMap](https://www.merklemap.com/) - Discover subdomains and SSL/TLS certificates from Certificate Transparency logs
 - [Fraudpol Scan](https://fraudpol.com/scan) - Find registered lookalike domains of a brand via certificate transparency logs
 - [StackScan](https://www.stackscan.com/) - Search sites by technology, keyword, or the files and assets they serve
+- [cl0q](https://cl0q.com) - Open search engine for domain research & OSINT — 44.1M domains indexed, free API tier.
 
 ### URLs
 
