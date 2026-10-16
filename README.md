@@ -598,6 +598,7 @@ These can be useful for osint and social engineering.
 - [Scamalytics](https://scamalytics.com) - IP address fraud scoring with VPN, proxy and TOR detection
 - [isMalicious](https://ismalicious.com/) - Check the reputation of IP addresses, domains, URLs and file hashes
 - [Orca AI Incident Archive](https://www.orcarouter.ai/incident-archive) - Search and filter real-world AI agent security events by type, severity and confirmed harm
+- [ICHI — Internet Cyber Health Index](https://ichi.global) - Free, source-transparent daily barometer of internet cyber health; aggregates threat alerts, CVEs, and telemetry from 20+ public sources for an outside-in directional view of global cyber conditions.
 
 ### Web History
 
