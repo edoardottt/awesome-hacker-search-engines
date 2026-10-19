@@ -416,6 +416,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Venacus](https://venacus.com/) - Search across 70+ TB of data breaches and leaked documents
 - [Leaksyr](https://leaksyr.com/) - Enterprise-grade threat intelligence to identify compromised credentials and secure your digital assets against data breaches
 - [CheckLeaked](https://checkleaked.cc/) - Check if an email, username or phone appears in a data breach with sources
+- [XposedOrNot](https://xposedornot.com/) - Free, open-source data breach search: see which known breaches an email appears in and what was exposed
 
 ### Hidden Services
 
