@@ -295,6 +295,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [MerkleMap](https://www.merklemap.com/) - Discover subdomains and SSL/TLS certificates from Certificate Transparency logs
 - [Fraudpol Scan](https://fraudpol.com/scan) - Find registered lookalike domains of a brand via certificate transparency logs
 - [StackScan](https://www.stackscan.com/) - Search sites by technology, keyword, or the files and assets they serve
+- [Karma.Domains](https://karma.domains/) - Search 13M+ expired, auction and backorder domains from 40 sources, with Wayback Machine history, WHOIS, DNS and domain age lookups
 
 ### URLs
 
