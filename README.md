@@ -185,7 +185,6 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 
 ### Code
 
-- [Related Repos](https://relatedrepos.com/) - Discover related open source projects. Find alternatives and other similar repositories. Updated daily.
 - [GitHub Code Search](https://github.com/search?type=code) - Search globally across all of GitHub, or scope your search to a particular repository or organization
 - [GitLab Code Search](https://gitlab.com/) - Advanced search for faster, more efficient search across the entire GitLab instance
 - [Sourceforge](https://sourceforge.net/) - Complete Open-Source and Business Software Platform
@@ -218,6 +217,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Repogrep](https://app.ami.dev/repogrep) - AI coding agent that can search across any public GitHub repository
 - [SearchWebCode](https://www.searchwebcode.com/) - Exact-string and regex search over the HTML, JS and CSS of 127 million website homepages
 - [PageSourceSearch](https://www.pagesourcesearch.com/) - Search the HTML and first-party JavaScript of websites by exact string or regular expression
+- [Related Repos](https://relatedrepos.com/) - Discover related open source projects. Find alternatives and other similar repositories. Updated daily.
 
 ### Email Addresses
 
