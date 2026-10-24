@@ -295,6 +295,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [MerkleMap](https://www.merklemap.com/) - Discover subdomains and SSL/TLS certificates from Certificate Transparency logs
 - [Fraudpol Scan](https://fraudpol.com/scan) - Find registered lookalike domains of a brand via certificate transparency logs
 - [StackScan](https://www.stackscan.com/) - Search sites by technology, keyword, or the files and assets they serve
+- [NetAPI](https://netapi.com/) - One of the largest registered-domain databases (380M+ active domains, 1,500+ TLDs) by a co-founder of zonefiles.io (now closed): domain lists and datasets, domain and reverse IP lookup, free compromised domain and IP lists
 
 ### URLs
 
