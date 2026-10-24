@@ -217,6 +217,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Repogrep](https://app.ami.dev/repogrep) - AI coding agent that can search across any public GitHub repository
 - [SearchWebCode](https://www.searchwebcode.com/) - Exact-string and regex search over the HTML, JS and CSS of 127 million website homepages
 - [PageSourceSearch](https://www.pagesourcesearch.com/) - Search the HTML and first-party JavaScript of websites by exact string or regular expression
+- [Related Repos](https://relatedrepos.com/) - Discover related open source projects. Find alternatives and other similar repositories. Updated daily.
 
 ### Email Addresses
 
