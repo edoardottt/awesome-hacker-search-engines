@@ -416,6 +416,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [LeakRadar](https://leakradar.io/) - We collect publicly published infostealer logs so you can quickly check if your email credentials have been compromised
 - [Offshore Leaks](https://offshoreleaks.icij.org/) - Find out who's behind more than 800000 offshore companies, foundations and trusts from ICIJ's investigations
 - [Venacus](https://venacus.com/) - Search across 70+ TB of data breaches and leaked documents
+- [Breach House](https://breach.house/) - Free, open search of ransomware leaks, stealer logs, traditional breaches and leads by company, domain or email
 - [Leaksyr](https://leaksyr.com/) - Enterprise-grade threat intelligence to identify compromised credentials and secure your digital assets against data breaches
 - [CheckLeaked](https://checkleaked.cc/) - Check if an email, username or phone appears in a data breach with sources
 - [XposedOrNot](https://xposedornot.com/) - Free, open-source data breach search: see which known breaches an email appears in and what was exposed
