@@ -109,6 +109,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [opencryptography.com](https://opencryptography.com/) - Free public database of 10,000+ unique Docker image scans for hidden cryptographic assets and critical implementation flaws
 - [pathfinding.cloud](https://pathfinding.cloud/paths/) - Comprehensive, community-maintained library documenting AWS IAM privilege escalation paths
 - [BaseFortify.eu](https://basefortify.eu/) - Monitor software vulnerabilities with CVE matching, exploit risk alerts, and mitigation guidance
+- [PatchBell](https://patchbell.com/) - Look up which version fixes a vulnerability, per distro and host, with official sources checked line by line
 
 ### Exploits
 
