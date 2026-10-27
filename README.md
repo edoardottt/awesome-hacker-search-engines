@@ -110,6 +110,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [pathfinding.cloud](https://pathfinding.cloud/paths/) - Comprehensive, community-maintained library documenting AWS IAM privilege escalation paths
 - [BaseFortify.eu](https://basefortify.eu/) - Monitor software vulnerabilities with CVE matching, exploit risk alerts, and mitigation guidance
 - [PatchBell](https://patchbell.com/) - Look up which version fixes a vulnerability, per distro and host, with official sources checked line by line
+- [PatchWindow](https://patchwindow.com/) - Time-to-exploit research for every CVE in the CISA Known Exploited Vulnerabilities catalog from 2019 onwards
 
 ### Exploits
 
