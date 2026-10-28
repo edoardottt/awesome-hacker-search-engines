@@ -316,6 +316,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [TinyScan](https://www.tiny-scan.com/) - Effortlessly Dive into URL Details
 - [urldna.io](https://urldna.io/) - Unleash website insights! urldna.io analyzes data, monitors brands and exposes security risks
 - [ScanMalware](https://scanmalware.com/) - Scans URLs in a sandboxed browser and indexes the results for search by domain, IP, ASN, JARM and favicon hash
+- [Peekray](https://peekray.com/) - Free scam link checker: follows redirects (up to 4 hops) and checks OpenPhish, PhishTank and URLhaus
 
 ### DNS
 
