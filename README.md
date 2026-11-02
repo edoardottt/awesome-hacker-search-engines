@@ -696,6 +696,7 @@ These can be useful for osint and social engineering.
 - [Offendersearch](https://offendersearch.app/) - Search 58 US sex offender registries, covering the 50 states, DC and the US territories, in one query
 - [IGDataHub](https://igdatahub.com/) - Look up public Instagram profiles: followers, engagement rate and top posts
 - [aifacesearch.net](https://aifacesearch.net/) - Photo-based face search with possible visual matches and source links
+- [TwitterAPI.io](https://twitterapi.io/) - Search public X (Twitter) posts by keyword, user and date, and look up public profiles, followers and followings via a simple REST API
 
 ### Vehicle
 
