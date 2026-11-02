@@ -299,6 +299,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Fraudpol Scan](https://fraudpol.com/scan) - Find registered lookalike domains of a brand via certificate transparency logs
 - [StackScan](https://www.stackscan.com/) - Search sites by technology, keyword, or the files and assets they serve
 - [NetAPI](https://netapi.com/) - Download domain lists, WHOIS and DNS datasets and newly registered domains, manually or via API
+- [Subdomain Finder MCP](https://github.com/theluckystrike/subdomain-finder-mcp) - Free MIT-licensed MCP server for Claude, ChatGPT and Cursor that finds subdomains from certificate transparency logs and checks them over DNS
 
 ### URLs
 
