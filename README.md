@@ -607,6 +607,7 @@ These can be useful for osint and social engineering.
 - [Scamalytics](https://scamalytics.com) - IP address fraud scoring with VPN, proxy and TOR detection
 - [isMalicious](https://ismalicious.com/) - Check the reputation of IP addresses, domains, URLs and file hashes
 - [Orca AI Incident Archive](https://www.orcarouter.ai/incident-archive) - Search and filter real-world AI agent security events by type, severity and confirmed harm
+- [Mallory](https://mallory.ai/) - Search correlated intelligence from thousands of sources across IOCs, vulnerabilities, threat actors and malware; free community tier
 
 ### Web History
 
