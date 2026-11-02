@@ -300,6 +300,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [StackScan](https://www.stackscan.com/) - Search sites by technology, keyword, or the files and assets they serve
 - [NetAPI](https://netapi.com/) - Download domain lists, WHOIS and DNS datasets and newly registered domains, manually or via API
 - [Profundis](https://profundis.io/tools/subdomains) - Find subdomains from indexed DNS records, with downloadable results and API access
+- [PendingDelete.net](https://pendingdelete.net/) - Search domains in redemption and pending delete, with registry-confirmed drop times, WHOIS/RDAP lookups and free daily drop lists
 
 ### URLs
 
