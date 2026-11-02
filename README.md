@@ -533,7 +533,6 @@ These can be useful for osint and social engineering.
 - [urlhaus.abuse.ch](https://urlhaus.abuse.ch/browse/) - Propose new malware urls
 - [threatfox.abuse.ch](https://threatfox.abuse.ch/browse/) - Indicator Of Compromise (IOC) database
 - [yaraify.abuse.ch](https://yaraify.abuse.ch/) - Scan suspicious files such as malware samples or process dumps against a large repository of YARA rules
-- [Rescure](https://rescure.me/) - Curated cyber threat intelligence for everyone
 - [otx.alienvault](https://otx.alienvault.com/) - The World's First Truly Open Threat Intelligence Community
 - [urlquery.net](https://urlquery.net/) - Service for detecting and analyzing web-based malware
 - [socradar.io](https://socradar.io/) - Extension to your SOC team
@@ -736,6 +735,7 @@ make, model, year of manufacture, engine size and all available information
 - [certs.io](https://certs.io/) - Search TLS certificates across the internet
 - [Riddler](https://riddler.io/) - Allows you to search in a high quality dataset
 - [AskDNS](https://askdns.com/) - Lookup Connected Domain Names and IP Addresses
+- [Rescure](https://rescure.me/) - Curated cyber threat intelligence for everyone
 
 <!-- markdown-link-check-enable -->
 
