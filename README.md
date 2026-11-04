@@ -520,6 +520,7 @@ These can be useful for osint and social engineering.
 
 ### Threat Intelligence
 
+- [Max Intel IP Triage](https://maxintel.org/ip.html#triage) - Free IPv4 threat triage across keyless sources such as Shodan InternetDB, OTX, GreyNoise, Team Cymru and Feodo Tracker
 - [MITRE ATT&CK](https://attack.mitre.org/) - Globally-accessible knowledge base of adversary tactics and techniques
 - [PulseDive](https://pulsedive.com/) - Threat intelligence made easy
 - [ThreatCrowd](https://threatcrowd.org/) - A Search Engine for Threats
