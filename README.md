@@ -122,7 +122,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Living Off The Land Binaries, Scripts and Libraries](https://lolbas-project.github.io/) - Living Off The Land Binaries, Scripts and Libraries
 - [GTFOBins](https://gtfobins.github.io/) - Curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
 - [Payloads All The Things](https://swisskyrepo.github.io/PayloadsAllTheThings/) - A list of useful payloads and bypasses for Web Application Security
-- [XSS Payloads](http://www.xss-payloads.com/) - The wonderland of JavaScript unexpected usages, and more
+- [XSS Payloads](https://xss-payloads.paracyberbellum.io/) - The wonderland of JavaScript unexpected usages, and more
 - [exploitalert.com](https://www.exploitalert.com/search-results.html) - Database of Exploits
 - [Reverse Shell generator](https://www.revshells.com/) - Online Reverse Shell generator with Local Storage functionality, URI & Base64 Encoding, MSFVenom Generator, and Raw Mode
 - [HackerOne hacktivity](https://hackerone.com/hacktivity) - See the latest hacker activity on HackerOne
