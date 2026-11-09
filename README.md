@@ -660,6 +660,7 @@ These can be useful for osint and social engineering.
 - [AI DECISIONS Wallet Checker](https://aidecisions.ai/check) - Free wallet check across Ethereum, Bitcoin, Tron, Base, Arbitrum and Gnosis: sanctions, mixer exposure and risk tier, no account required
 - [SoChain](https://sochain.com/) - Block explorer and API for Bitcoin, Litecoin, Dogecoin and Zcash: addresses, transactions and blocks, free keyless lookups
 - [Chainalysis](https://www.chainalysis.com/) - Investigate illicit activity, manage risk exposure, prevent fraud, and secure protocols with the industry’s most trusted blockchain intelligence
+- [XRPL.to](https://xrpl.to/) - XRP Ledger explorer and search for accounts, tokens, transactions and NFTs, with scam and drainer wallet flags
 
 ### People
 
