@@ -659,6 +659,7 @@ These can be useful for osint and social engineering.
 - [BlockCypher](https://live.blockcypher.com/) - Search the block chain
 - [AI DECISIONS Wallet Checker](https://aidecisions.ai/check) - Free wallet check across Ethereum, Bitcoin, Tron, Base, Arbitrum and Gnosis: sanctions, mixer exposure and risk tier, no account required
 - [SoChain](https://sochain.com/) - Block explorer and API for Bitcoin, Litecoin, Dogecoin and Zcash: addresses, transactions and blocks, free keyless lookups
+- [Chainalysis](https://www.chainalysis.com/) - Investigate illicit activity, manage risk exposure, prevent fraud, and secure protocols with the industry’s most trusted blockchain intelligence
 
 ### People
 
