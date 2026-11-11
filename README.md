@@ -348,6 +348,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [ViewDNS.info](https://viewdns.info/) - A web-based toolkit offering over 25 DNS and network intelligence tools for reconnaissance, diagnostics, and research
 - [dnsaudit.io](https://dnsaudit.io/) - Find DNS misconfigurations, risks and security gaps
 - [WebToolBench DNS Checker](https://www.webtoolbench.com/dns-checker) - Free DNS lookup for A, MX, TXT, NS, CNAME, SOA and CAA records, queried live from the authoritative nameservers
+- [Warnwell](https://warnwell.com/) - Check many domains at once for SPF, DKIM, DMARC, DNSSEC, expiry and SSL certificate problems
 
 ### Certificates
 
