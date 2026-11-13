@@ -657,7 +657,7 @@ These can be useful for osint and social engineering.
 - [BlockChair](https://blockchair.com/) - Blockchain explorer, analytics and web services
 - [BlockCypher](https://live.blockcypher.com/) - Search the block chain
 - [AI DECISIONS Wallet Checker](https://aidecisions.ai/check) - Free wallet check across Ethereum, Bitcoin, Tron, Base, Arbitrum and Gnosis: sanctions, mixer exposure and risk tier, no account required
-- [FreezeRadar](https://freezeradar.com/) - Free wallet blacklist and sanctions checker for USDT/USDC/PAXG and freezeable assets
+- [FreezeRadar](https://freezeradar.com/) - Real-time wallet risk intelligence for freezeable assets across Ethereum, Tron, BSC, and Polygon
 - [SoChain](https://sochain.com/) - Block explorer and API for Bitcoin, Litecoin, Dogecoin and Zcash: addresses, transactions and blocks, free keyless lookups
 
 ### People
