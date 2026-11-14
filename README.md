@@ -402,6 +402,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [InfoStealers.info](https://infostealers.info/) - OSINT made simple. Instant insights from Infostealer data
 - [NiamonX PwnedLookup](https://niamonx.io/) - AI-powered platform for credential leak monitoring, infostealer intelligence and breach investigations
 - [Lunar Cyber](https://lunarcyber.com/) - Free, enterprise-grade, compromised-credentials monitoring platform, available to every company
+- [OffSeq Breach](https://breach.offseq.com/) - Check a domain or email address against leaked credentials from breach datasets, forums and Telegram channels
 
 ### Leaks
 
