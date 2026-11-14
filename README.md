@@ -302,6 +302,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [NetAPI](https://netapi.com/) - Download domain lists, WHOIS and DNS datasets and newly registered domains, manually or via API
 - [Profundis](https://profundis.io/tools/subdomains) - Find subdomains from indexed DNS records, with downloadable results and API access
 - [PendingDelete.net](https://pendingdelete.net/) - Search domains in redemption and pending delete, with registry-confirmed drop times, WHOIS/RDAP lookups and free daily drop lists
+- [Guard by OffSeq](https://guard.report/) - Scan a domain for TLS, security header, DNS and SPF/DKIM/DMARC issues, with NIS2 and GDPR outside-view scores
 
 ### URLs
 
