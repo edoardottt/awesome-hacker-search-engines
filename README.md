@@ -111,6 +111,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [BaseFortify.eu](https://basefortify.eu/) - Monitor software vulnerabilities with CVE matching, exploit risk alerts, and mitigation guidance
 - [PatchBell](https://patchbell.com/) - Look up which version fixes a vulnerability, per distro and host, with official sources checked line by line
 - [PatchWindow](https://patchwindow.com/) - Time-to-exploit research for every CVE in the CISA Known Exploited Vulnerabilities catalog from 2019 onwards
+- [pwned.coffee](https://pwned.coffee/) - Live security incidents, updated hourly, with fix status and fixed versions from cited sources
 
 ### Exploits
 
