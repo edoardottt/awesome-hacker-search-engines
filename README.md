@@ -703,6 +703,7 @@ These can be useful for osint and social engineering.
 - [aifacesearch.net](https://aifacesearch.net/) - Photo-based face search with possible visual matches and source links
 - [TwitterAPI.io](https://twitterapi.io/) - Search public X (Twitter) posts by keyword, user and date, and look up public profiles, followers and followings
 - [twtData](https://twtdata.com/) - Export the followers, following and tweets of public X (Twitter) accounts to CSV, by handle, keyword or hashtag
+- [LinkedIn People Search API](https://apify.com/johnvc/linkedin-people-search-api) - Search public LinkedIn profiles by name, title, company or location and get results as JSON
 
 ### Vehicle
 
