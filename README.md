@@ -251,6 +251,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Predicta Search](https://www.predictasearch.com/) - Reverse lookup search engine for email and phone numbers
 - [Infoga.io](https://www.infoga.io/) - Find out all email for a certain domain using search engines
 - [icypeas](https://www.icypeas.com/) - Find and verify professional email addresses, enrich leads with accurate data, and identify LinkedIn profiles at scale
+- [Datacircle](https://datacircle.dev) - Benchmarks of email finder and people data APIs, with an open API (no key) at api.datacircle.dev/v1
 
 ### Domains
 
