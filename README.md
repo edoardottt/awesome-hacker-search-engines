@@ -462,6 +462,7 @@ These can be useful for osint and social engineering.
 - [Weibo](https://weibo.com/)
 - [Tinder](https://tinder.com/)
 - [Threads](https://www.threads.net/)
+- [Social Fetch](https://www.socialfetch.dev/) - Look up public profiles, posts, comments and transcripts from TikTok, Instagram, YouTube, X, Reddit and LinkedIn through one API, returned as JSON
 
 ### Phone Numbers
 
