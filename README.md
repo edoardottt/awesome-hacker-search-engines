@@ -302,6 +302,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [NetAPI](https://netapi.com/) - Download domain lists, WHOIS and DNS datasets and newly registered domains, manually or via API
 - [Profundis](https://profundis.io/tools/subdomains) - Find subdomains from indexed DNS records, with downloadable results and API access
 - [PendingDelete.net](https://pendingdelete.net/) - Search domains in redemption and pending delete, with registry-confirmed drop times, WHOIS/RDAP lookups and free daily drop lists
+- [OpenBait Typosquat Check](https://openbait.com/tools/typosquat-check) - Find registered lookalike domains of a brand (typosquats, other TLDs, added words such as login or pay, .shop names used by fake stores) and see which are live
 
 ### URLs
 
