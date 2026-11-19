@@ -184,6 +184,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [db-ip](https://db-ip.com/) - IP geolocation API and database
 - [pureip.app](https://pureip.app) - IP lookups, website egress routing, WebRTC checks, global Ping, service status and WHOIS lookups
 - [IP99](https://ip99.com) - IP risk scoring, proxy/VPN/datacenter detection and geolocation API, with passive DNS and certificate transparency
+- [ip-api.io ASN Lookup](https://ip-api.io/asn-lookup) - Look up the ASN, owner, prefixes and country of any IP address or AS number, free in the browser or as a JSON API
 
 ### Code
 
