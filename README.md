@@ -663,6 +663,7 @@ These can be useful for osint and social engineering.
 - [FreezeRadar](https://freezeradar.com/) - Real-time wallet risk intelligence for freezeable assets across Ethereum, Tron, BSC, and Polygon
 - [SoChain](https://sochain.com/) - Block explorer and API for Bitcoin, Litecoin, Dogecoin and Zcash: addresses, transactions and blocks, free keyless lookups
 - [Chainalysis](https://www.chainalysis.com/) - Investigate illicit activity, manage risk exposure, prevent fraud, and secure protocols with the industry’s most trusted blockchain intelligence
+- [XRPL.to](https://xrpl.to/) - XRP Ledger explorer and search for accounts, tokens, transactions and NFTs, with scam and drainer wallet flags
 
 ### People
 
