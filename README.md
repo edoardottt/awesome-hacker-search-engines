@@ -728,6 +728,7 @@ make, model, year of manufacture, engine size and all available information
 - [TGScope](https://tgscope.io/) - Search 3M+ public Telegram channels by topic, language and size, with per-channel stats and free channel lookup tools
 - [tgden](https://tgden.com) - Search engine and catalog for Telegram: 1,740,000+ channels, 250,000+ group chats and 228,000+ bots, weekly demand index and MCP server
 - [Awesome Reverse-Engineered](https://awesome.alexgaoth.com/) - Search 16,800+ open-source projects built by reverse engineering closed apps, APIs, devices, protocols, file formats and games
+- [Sourcepick](https://sourcepick.toolnjoy.com/) - Turns 69 groups of sources (forums, Reddit, docs, papers, Q&A) into site: filters for Google, Bing, DuckDuckGo and Brave, trimmed to each engine's operator limit. Free, no account
 
 ### Not working / Paused
 
